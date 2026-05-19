@@ -46,7 +46,7 @@ newWindow=window.open(URLtoOpen, windowName, windowFeatures); }
     <!-- BEGIN content -->
 <div id="header">
  <ul>
-	<li class="active"><a href="home.php" class="style3">Home</a></li>
+	<li class="active"><a href="index.php" class="style3">Home</a></li>
 	<li><a href="faq.php" class="style3">FAQ</a></li>
 	<li><a href="programs.php" class="style3">Programs</a></li>
 	<li><a href="activities.php" class="style3">Activities</a></li>
@@ -142,6 +142,6 @@ newWindow=window.open(URLtoOpen, windowName, windowFeatures); }
     
   </div>
 <br><br><br><br><br>
-<p class="impressum"><a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLÄRUNG / DATA-PROTECTION</a></p>
+<p class="impressum"><a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLï¿½RUNG / DATA-PROTECTION</a></p>
 </body>
 </html>
