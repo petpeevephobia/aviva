@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+< urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+ < url>
+  < loc>http://www.a-viva.net/</loc>
+  < lastmod>2006-10-27</lastmod>
+  < changefreq>weekly</changefreq>
+ </url>
+ < url>
+  < loc>http://www.a-viva.net/accommodation.php</loc>
+  < lastmod>2006-10-27</lastmod>
+  < changefreq>weekly</changefreq>
+ </url>
+ < url>
+  < loc>http://www.a-viva.net/activities.php</loc>
+  < lastmod>2006-10-27</lastmod>
+  < changefreq>weekly</changefreq>
+ </url>
+ < url>
+  < loc>http://www.a-viva.net/contact.php</loc>
+  < lastmod>2006-10-27</lastmod>
+  < changefreq>weekly</changefreq>
+ </url>
+ < url>
+  < loc>http://www.a-viva.net/home.php</loc>
+  < lastmod>2006-10-27</lastmod>
+  < changefreq>weekly</changefreq>
+ </url>
+ < url>
+  < loc>http://www.a-viva.net/links.php</loc>
+  < lastmod>2006-10-27</lastmod>
+  < changefreq>weekly</changefreq>
+ </url>
+ < url>
+  < loc>http://www.a-viva.net/newsletter.php</loc>
+  < lastmod>2006-10-27</lastmod>
+  < changefreq>weekly</changefreq>
+ </url>
+ < url>
+  < loc>http://www.a-viva.net/programs.php</loc>
+  < lastmod>2006-10-27</lastmod>
+  < changefreq>weekly</changefreq>
+ </url>
+ < url>
+  < loc>http://www.a-viva.net/student.php</loc>
+  < lastmod>2006-10-27</lastmod>
+  < changefreq>weekly</changefreq>
+ </url>
+ < url>
+  < loc>http://www.a-viva.net/travels.php</loc>
+  < lastmod>2006-10-27</lastmod>
+  < changefreq>weekly</changefreq>
+ </url>
+ < url>
+  < loc>http://www.a-viva.net/work.php</loc>
+  < lastmod>2006-10-27</lastmod>
+  < changefreq>weekly</changefreq>
+ </url>
+</urlset>

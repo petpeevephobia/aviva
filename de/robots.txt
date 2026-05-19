@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /pics/
+Disallow: /pics2/
+Disallow: /k.php
+Disallow: /what.php

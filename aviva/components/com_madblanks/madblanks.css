@@ -1,0 +1,139 @@
+/**
+ * Mad Blanks; a component for Joomla!
+ * Copyright (C) 2006, 2007, 2008, 2009, 2010, 2011 Chris Hallett
+ *
+ * Use this component to write out text with blanks in it, and have
+ * your website users fill in those blanks (or fill them in
+ * yourself). Uses include creating custom word games, displaying
+ * quotations, keeping a catalog of descriptions, and administering
+ * quizzes with freeform responses. For detailed documentation,
+ * see <http://www.madblanks.org/>.
+ *
+ * This file is part of Mad Blanks.
+ *
+ * Mad Blanks is free software: you can redistribute it and/or
+ * modify it under the terms of the GNU General Public License
+ * as published by the Free Software Foundation; either version 2
+ * of the License, or (at your option) any later version.
+ * 
+ * Mad Blanks is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with Mad Blanks; if not, see <http://www.gnu.org/licenses/>.
+ *
+ * This file contains CSS code for the Mad Blanks component
+ * and data saving/deleting for the component in the backend.
+ * 
+ * file version 1.5.0 20101222
+ *
+ * @package Mad_Blanks_Component
+ * @author Chris Hallett <chris@madblanks.org>
+ * @copyright Chris Hallett March 1, 2011
+ * @license http://www.gnu.org/copyleft/gpl.html GNU General Public License 
+ * @version 1.4.2
+ */
+
+/* Style for the component title */
+.mbcomponenttitle {
+	font-size: x-large;
+	font-weight: bold;
+	margin-top: 0.5em;
+	margin-bottom: 20px;
+}
+
+/* Style for the custom title text that optionally displays under the component title */
+.mbcustomtitletext {
+	margin-bottom: 20px;
+	font-style: italic;
+}
+
+/* Style for the showing what title string, if $mbShowDisplayingWhatTitle is enabled in the configuration */
+.thetitlestring {
+	font-size: large;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+/* Style for each record block displayed by the component (not modules) on the frontend */
+.mbdisplayblock {
+
+}
+
+/* Record and Category titles on component display screens */
+.madblankstitle {
+	font-size: 14pt;
+}
+
+/* Style for the main body of a mad blanks record on display screens;
+may be overriden by CSS for the DIV surrounding the record, which is defined
+on category edit screens in the backend */
+.madblankstext {
+	font-size: 12pt;
+}
+
+/* Style for records link to self */
+.madblankslink {
+	font-size: 9pt;
+}
+
+/* Error or informational message at top of page to user on the frontend */
+.madblanksusermessage, .message {
+	text-align: center;
+	font-size: large;
+	font-style: italic;
+	margin: 10px 0;
+}
+
+/* Error or informational message to user on the frontend, left aligned */
+.madblanksusermessageleft {
+	text-align: left;
+	font-style: italic;
+	font-weight: bold;
+	margin: 10px 0;
+}
+
+/* Warning that the list of records in the user edit list on the frontend is filtered */
+.filtered_warning {
+	font-weight: bold;
+	color: #ff0000;
+}
+
+/* Fit in a lot of data in a small space in record list and record edit tables on the frontend */
+table.mbcrunch th, table.mbcrunch td, table.mbcrunch select, table.mbcrunch input, div.mbcrunch, div.mbcrunch span, div.mbcrunch select, div.mbcrunch a {
+	font-size: 8pt;
+}
+
+/* The div for listing and editing records on the frontend */
+/* This div may be wider than the available space depeding on the template */
+/* Use overflow: scroll; to scroll horizontally or overflow: visible; to show the content anyway */
+div.userinputwide {
+	overflow: scroll;
+	/* overflow: visible; */
+}
+
+/* Make links to randomize a record again look like buttons */
+div.mbdisplayblock a.mbl_link_as_button {
+	border: 4px outset #bebebe; /* lightgray */
+	background-color: #d3d3d3; /* gray */
+	padding: 3px;
+	text-decoration: none;
+}
+
+/* Set width for all Mad Blanks Create Single Record module text input fields */
+form.mblform div.mblfieldcontainer input.mbltextinputfield {
+	width: auto;
+}
+
+/* Standard Mad Blanks HTML table for Score Script */
+table.mblscotable {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+table.mblscotable td, table.mblscotable th {
+	border: 1px solid black;
+	padding: 5px;
+}

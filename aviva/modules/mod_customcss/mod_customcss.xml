@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.0">
+	<name>HD-CustomCSS</name>
+	<author>Hyde-Design</author>
+	<creationDate>August 2010</creationDate>
+	<copyright>2010</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>rich@hyde-design.co.uk</authorEmail>
+	<authorUrl>www.hyde-design.co.uk</authorUrl>
+	<version>1.0</version>
+	<description>A simple Module to enable you to style individual pages with CSS.</description>
+	
+	<files>
+		<filename module="mod_customcss">mod_customcss.php</filename>
+	</files>
+	
+	<params>
+
+		<param name="customcss" type="textarea" default="/* Custom CSS */" label="Custom CSS" description="Replace with your inline custom CSS." rows="20" cols="45"></param>
+
+	</params>
+	
+		<params group="advanced">
+                <param name="externalcss" type="radio" default="0" label="Use an external CSS file?" description="Select if you prefer to load an external CSS file from the template's CSS folder.">
+		<option value="0">No</option>
+		<option value="1">Yes</option>
+		</param>
+                <param name="externalcssfile" type="textarea" default="" label="CSS URL" description="Type the full URL towards your external CSS file." rows="1" cols="45"></param>
+	</params>
+		
+
+</install>

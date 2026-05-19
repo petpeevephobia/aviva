@@ -1,0 +1,1 @@
+<div align="left"><img src="pics/chart.jpg" alt="" width="866" height="560" /></div> <p>&nbsp;</p> 
