@@ -11,7 +11,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
 <br />
 </div>
 <div id="flag">
-<a href="home.php"><img src="pics/en.gif" border="0" /></a>
-<a href="de/home.php"><img src="pics/de.gif" border="0"/></a>
+<a href="index.php"><img src="pics/en.gif" border="0" /></a>
+<a href="de/index.php"><img src="pics/de.gif" border="0"/></a>
 
 
