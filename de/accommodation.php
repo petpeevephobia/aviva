@@ -73,10 +73,10 @@ newWindow=window.open(URLtoOpen, windowName, windowFeatures); }
         <p><br />
         </p>
         <ul>
-          <li>Doppelzimmer in einem Appartment (300 - 350 Euro/Monat) </li>
-          <li>Einzelzimmer in einem Appartment (400 - 500 Euro/Monat)</li>
-          <li>Einzelzimmer bei einer Gastfamilie (400 - 500 Euro/Monat) </li>
-          <li>Jugend-Herberge (500 - 600 Euro/Monat) <br />
+          <li>Doppelzimmer in einem Appartment (300 - 400 Euro/Monat) </li>
+          <li>Einzelzimmer in einem Appartment (500 - 700 Euro/Monat)</li>
+          <li>Einzelzimmer bei einer Gastfamilie (500 - 700 Euro/Monat) </li>
+          <li>Jugend-Herberge (600 - 800 Euro/Monat) <br />
             <br />
           </li>
         </ul>

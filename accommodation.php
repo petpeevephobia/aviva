@@ -73,10 +73,10 @@ newWindow=window.open(URLtoOpen, windowName, windowFeatures); }
           Following accommodation types are possible in Frankfurt:</p>
         <p>&nbsp;</p>
         <ul>
-          <li>Double room in apartment (300 &ndash; 350 euros/month)</li>
-          <li>Single room in apartment (400 &ndash; 500 euros/month)</li>
-          <li>Single room in host family (400 &ndash; 500 euros/month)</li>
-          <li>Dormitory room in Youth Hostel (500 &ndash; 600 euros/month)</li>
+          <li>Double room in apartment (300 &ndash; 400 euros/month)</li>
+          <li>Single room in apartment (500 &ndash; 700 euros/month)</li>
+          <li>Single room in host family (500 &ndash; 700 euros/month)</li>
+          <li>Dormitory room in Youth Hostel (600 &ndash; 800 euros/month)</li>
         </ul>
         <p>&nbsp;</p>
         <p>Apartments are located in the city center within walking distance to A-viva.</p>

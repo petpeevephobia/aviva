@@ -193,10 +193,10 @@ function popitup2(url) {
 			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER> 2 weeks</P>
 		</TD>
 		<TD WIDTH=68 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  300</P>
+			<P CLASS="western" ALIGN=CENTER>  400</P>
 		</TD>
 		<TD WIDTH=68 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  600</P>
+			<P CLASS="western" ALIGN=CENTER>  800</P>
 		</TD>
 		<TD WIDTH=9 BGCOLOR="#DDDDDD">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
@@ -214,10 +214,10 @@ function popitup2(url) {
 			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER> 3 weeks</P>
 		</TD>
 		<TD WIDTH=68 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  400</P>
+			<P CLASS="western" ALIGN=CENTER>  500</P>
 		</TD>
 		<TD WIDTH=68 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  800</P>
+			<P CLASS="western" ALIGN=CENTER>  1000</P>
 		</TD>
 		<TD WIDTH=9 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
@@ -235,20 +235,20 @@ function popitup2(url) {
 			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER> 4 weeks</P>
 		</TD>
 		<TD WIDTH=68 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  500</P>
+			<P CLASS="western" ALIGN=CENTER>  600</P>
 		</TD>
 		<TD WIDTH=68 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  1000</P>
+			<P CLASS="western" ALIGN=CENTER>  1200</P>
 		</TD>
 		<TD WIDTH=9 BGCOLOR="#DDDDDD">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
 		
 		<TD WIDTH=75 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  80</P>
+			<P CLASS="western" ALIGN=CENTER>  120</P>
 		</TD>
 		<TD WIDTH=74 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  160</P>
+			<P CLASS="western" ALIGN=CENTER>  200</P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
@@ -256,20 +256,20 @@ function popitup2(url) {
 			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER> 2 months</P>
 		</TD>
 		<TD WIDTH=68 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  1000</P>
+			<P CLASS="western" ALIGN=CENTER>  1200</P>
 		</TD>
 		<TD WIDTH=68 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  2000</P>
+			<P CLASS="western" ALIGN=CENTER>  2400</P>
 		</TD>
 		<TD WIDTH=9 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
 		
 		<TD WIDTH=75 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  160</P>
+			<P CLASS="western" ALIGN=CENTER>  240</P>
 		</TD>
 		<TD WIDTH=74 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  320</P>
+			<P CLASS="western" ALIGN=CENTER>  400</P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
@@ -277,20 +277,20 @@ function popitup2(url) {
 			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER> 3 months</P>
 		</TD>
 		<TD WIDTH=68 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  1500</P>
+			<P CLASS="western" ALIGN=CENTER>  1800</P>
 		</TD>
 		<TD WIDTH=68 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  3000</P>
+			<P CLASS="western" ALIGN=CENTER>  3600</P>
 		</TD>
 		<TD WIDTH=9 BGCOLOR="#DDDDDD">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
 		
 		<TD WIDTH=75 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  240</P>
+			<P CLASS="western" ALIGN=CENTER>  360</P>
 		</TD>
 		<TD WIDTH=74 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  480</P>
+			<P CLASS="western" ALIGN=CENTER>  600</P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
@@ -298,52 +298,10 @@ function popitup2(url) {
 			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER> 4 months</P>
 		</TD>
 		<TD WIDTH=68 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  2000</P>
+			<P CLASS="western" ALIGN=CENTER>  2400</P>
 		</TD>
 		<TD WIDTH=68 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  4000</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
-		
-		<TD WIDTH=75 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  320</P>
-		</TD>
-		<TD WIDTH=74 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  640</P>
-		</TD>
-	</TR>
-	<TR VALIGN=BOTTOM>
-		<TD WIDTH=76 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER> 5 months</P>
-		</TD>
-		<TD WIDTH=68 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  2500</P>
-		</TD>
-		<TD WIDTH=68 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  5000</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
-		
-		<TD WIDTH=75 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  400</P>
-		</TD>
-		<TD WIDTH=74 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  800</P>
-		</TD>
-	</TR>
-	<TR VALIGN=BOTTOM>
-		<TD WIDTH=76 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER> 6 months</P>
-		</TD>
-		<TD WIDTH=68 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  3000</P>
-		</TD>
-		<TD WIDTH=68 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  6000</P>
+			<P CLASS="western" ALIGN=CENTER>  4800</P>
 		</TD>
 		<TD WIDTH=9 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
@@ -353,7 +311,49 @@ function popitup2(url) {
 			<P CLASS="western" ALIGN=CENTER>  480</P>
 		</TD>
 		<TD WIDTH=74 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  960</P>
+			<P CLASS="western" ALIGN=CENTER>  800</P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=76 BGCOLOR="#DDDDDD">
+			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER> 5 months</P>
+		</TD>
+		<TD WIDTH=68 BGCOLOR="#DDDDDD">
+			<P CLASS="western" ALIGN=CENTER>  3000</P>
+		</TD>
+		<TD WIDTH=68 BGCOLOR="#DDDDDD">
+			<P CLASS="western" ALIGN=CENTER>  6000</P>
+		</TD>
+		<TD WIDTH=9 BGCOLOR="#DDDDDD">
+			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
+		</TD>
+		
+		<TD WIDTH=75 BGCOLOR="#DDDDDD">
+			<P CLASS="western" ALIGN=CENTER>  600</P>
+		</TD>
+		<TD WIDTH=74 BGCOLOR="#DDDDDD">
+			<P CLASS="western" ALIGN=CENTER>  1000</P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=76 BGCOLOR="#ffffff">
+			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER> 6 months</P>
+		</TD>
+		<TD WIDTH=68 BGCOLOR="#ffffff">
+			<P CLASS="western" ALIGN=CENTER>  3600</P>
+		</TD>
+		<TD WIDTH=68 BGCOLOR="#ffffff">
+			<P CLASS="western" ALIGN=CENTER>  7200</P>
+		</TD>
+		<TD WIDTH=9 BGCOLOR="#ffffff">
+			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
+		</TD>
+		
+		<TD WIDTH=75 BGCOLOR="#ffffff">
+			<P CLASS="western" ALIGN=CENTER>  720</P>
+		</TD>
+		<TD WIDTH=74 BGCOLOR="#ffffff">
+			<P CLASS="western" ALIGN=CENTER>  1200</P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
@@ -361,52 +361,10 @@ function popitup2(url) {
 			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER> 7 months</P>
 		</TD>
 		<TD WIDTH=68 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  3500</P>
+			<P CLASS="western" ALIGN=CENTER>  4200</P>
 		</TD>
 		<TD WIDTH=68 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  7000</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#DDDDDD">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
-		
-		<TD WIDTH=75 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  560</P>
-		</TD>
-		<TD WIDTH=74 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  1120</P>
-		</TD>
-	</TR>
-	<TR VALIGN=BOTTOM>
-		<TD WIDTH=76 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER> 8 months</P>
-		</TD>
-		<TD WIDTH=68 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  4000</P>
-		</TD>
-		<TD WIDTH=68 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  8000</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
-		
-		<TD WIDTH=75 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  640</P>
-		</TD>
-		<TD WIDTH=74 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  1280</P>
-		</TD>
-	</TR>
-	<TR VALIGN=BOTTOM>
-		<TD WIDTH=76 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER> 9 months</P>
-		</TD>
-		<TD WIDTH=68 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  4500</P>
-		</TD>
-		<TD WIDTH=68 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  9000</P>
 		</TD>
 		<TD WIDTH=9 BGCOLOR="#DDDDDD">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
@@ -416,60 +374,18 @@ function popitup2(url) {
 			<P CLASS="western" ALIGN=CENTER>  720</P>
 		</TD>
 		<TD WIDTH=74 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  1440</P>
+			<P CLASS="western" ALIGN=CENTER>  1200</P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
 		<TD WIDTH=76 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER>10 months</P>
+			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER> 8 months</P>
 		</TD>
 		<TD WIDTH=68 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  5000</P>
+			<P CLASS="western" ALIGN=CENTER>  4800</P>
 		</TD>
 		<TD WIDTH=68 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  10000</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
-		
-		<TD WIDTH=75 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  800</P>
-		</TD>
-		<TD WIDTH=74 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  1600</P>
-		</TD>
-	</TR>
-	<TR VALIGN=BOTTOM>
-		<TD WIDTH=76 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER>11 months</P>
-		</TD>
-		<TD WIDTH=68 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  5500</P>
-		</TD>
-		<TD WIDTH=68 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  11000</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
-		
-		<TD WIDTH=75 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  880</P>
-		</TD>
-		<TD WIDTH=74 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  1760</P>
-		</TD>
-	</TR>
-	<TR VALIGN=BOTTOM>
-		<TD WIDTH=76 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER>12 months</P>
-		</TD>
-		<TD WIDTH=68 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  6000</P>
-		</TD>
-		<TD WIDTH=68 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  12000</P>
 		</TD>
 		<TD WIDTH=9 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
@@ -479,7 +395,91 @@ function popitup2(url) {
 			<P CLASS="western" ALIGN=CENTER>  960</P>
 		</TD>
 		<TD WIDTH=74 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  1920</P>
+			<P CLASS="western" ALIGN=CENTER>  1600</P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=76 BGCOLOR="#DDDDDD">
+			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER> 9 months</P>
+		</TD>
+		<TD WIDTH=68 BGCOLOR="#DDDDDD">
+			<P CLASS="western" ALIGN=CENTER>  5400</P>
+		</TD>
+		<TD WIDTH=68 BGCOLOR="#DDDDDD">
+			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
+		</TD>
+		<TD WIDTH=9 BGCOLOR="#DDDDDD">
+			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
+		</TD>
+		
+		<TD WIDTH=75 BGCOLOR="#DDDDDD">
+			<P CLASS="western" ALIGN=CENTER>  1080</P>
+		</TD>
+		<TD WIDTH=74 BGCOLOR="#DDDDDD">
+			<P CLASS="western" ALIGN=CENTER>  1800</P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=76 BGCOLOR="#ffffff">
+			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER>10 months</P>
+		</TD>
+		<TD WIDTH=68 BGCOLOR="#ffffff">
+			<P CLASS="western" ALIGN=CENTER>  6000</P>
+		</TD>
+		<TD WIDTH=68 BGCOLOR="#ffffff">
+			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
+		</TD>
+		<TD WIDTH=9 BGCOLOR="#ffffff">
+			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
+		</TD>
+		
+		<TD WIDTH=75 BGCOLOR="#ffffff">
+			<P CLASS="western" ALIGN=CENTER>  1200</P>
+		</TD>
+		<TD WIDTH=74 BGCOLOR="#ffffff">
+			<P CLASS="western" ALIGN=CENTER>  2000</P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=76 BGCOLOR="#DDDDDD">
+			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER>11 months</P>
+		</TD>
+		<TD WIDTH=68 BGCOLOR="#DDDDDD">
+			<P CLASS="western" ALIGN=CENTER>  6600</P>
+		</TD>
+		<TD WIDTH=68 BGCOLOR="#DDDDDD">
+			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
+		</TD>
+		<TD WIDTH=9 BGCOLOR="#DDDDDD">
+			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
+		</TD>
+		
+		<TD WIDTH=75 BGCOLOR="#DDDDDD">
+			<P CLASS="western" ALIGN=CENTER>  1320</P>
+		</TD>
+		<TD WIDTH=74 BGCOLOR="#DDDDDD">
+			<P CLASS="western" ALIGN=CENTER>  2200</P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=76 BGCOLOR="#ffffff">
+			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER>12 months</P>
+		</TD>
+		<TD WIDTH=68 BGCOLOR="#ffffff">
+			<P CLASS="western" ALIGN=CENTER>  7200</P>
+		</TD>
+		<TD WIDTH=68 BGCOLOR="#ffffff">
+			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
+		</TD>
+		<TD WIDTH=9 BGCOLOR="#ffffff">
+			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
+		</TD>
+		
+		<TD WIDTH=75 BGCOLOR="#ffffff">
+			<P CLASS="western" ALIGN=CENTER>  1440</P>
+		</TD>
+		<TD WIDTH=74 BGCOLOR="#ffffff">
+			<P CLASS="western" ALIGN=CENTER>  2400</P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
@@ -508,20 +508,20 @@ function popitup2(url) {
 			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER>extra week</P>
 		</TD>
 		<TD WIDTH=68 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  125</P>
+			<P CLASS="western" ALIGN=CENTER>  150</P>
 		</TD>
 		<TD WIDTH=68 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  250</P>
+			<P CLASS="western" ALIGN=CENTER>  300</P>
 		</TD>
 		<TD WIDTH=9 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
 		
 		<TD WIDTH=75 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  20</P>
+			<P CLASS="western" ALIGN=CENTER>  30</P>
 		</TD>
 		<TD WIDTH=74 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  40</P>
+			<P CLASS="western" ALIGN=CENTER>  50</P>
 		</TD>
 	</TR>
 </TABLE>
