@@ -31,4 +31,4 @@ jobs:
             docs/**
             README.md
             .env
-            aviva/configuration.php
+            aviva/**
