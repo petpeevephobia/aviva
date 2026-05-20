@@ -1,6 +1,7 @@
 body {
 	margin: auto auto;
 	padding: 0;
+	padding-top: 40px;
 	font-family: "Lucida Grande", verdana, arial, helvetica, sans-serif;
 	font-size: 62.5%;
 	color: #333;
@@ -216,6 +217,12 @@ ol {
 	text-align: left;
 	font-weight: bold;
 	color: #FF0000;
+}
+#logo img {
+	display: block;
+	width: 900px;
+	height: 103px;
+	object-fit: contain;
 }
 #concept {
 	text-align: right;
