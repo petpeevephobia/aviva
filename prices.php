@@ -122,12 +122,7 @@ function popitup2(url) {
 			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER STYLE="background: transparent"><strong>Intensive<strong/> 
 			</P>
 		</TD>
-		<TD WIDTH=9 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER STYLE="background: transparent">&nbsp;</P>
-		</TD>
-		<TD COLSPAN=2 WIDTH=200 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER STYLE="background: transparent"><strong>Housing Options<strong/></P>
-		</TD>
+		
 		<TD WIDTH=9 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER STYLE="background: transparent">&nbsp;</P>
 		</TD>
@@ -143,13 +138,7 @@ function popitup2(url) {
 		<TD COLSPAN=2 WIDTH=139 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER STYLE="background: transparent"><strong>Day Programs</P>
 		</TD>
-		<TD WIDTH=9 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER STYLE="background: transparent">&nbsp;</P>
-		</TD>
-		<TD COLSPAN=2 WIDTH=200 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER STYLE="background: transparent">(only for A or
-			D programs)</P>
-		</TD>
+		
 		<TD WIDTH=9 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER STYLE="background: transparent">&nbsp;</P>
 		</TD>
@@ -170,15 +159,7 @@ function popitup2(url) {
 		<TD WIDTH=9 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>&nbsp;</P>
 		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER ALIGN=CENTER>Single Room</P>
-		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>Double Room</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>&nbsp;</P>
-		</TD>
+		
 		<TD WIDTH=75 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>E1</P>
 		</TD>
@@ -199,15 +180,7 @@ function popitup2(url) {
 		<TD WIDTH=9 BGCOLOR="#ffffff">
 			<P CLASS="wes1tern">&nbsp;</P>
 		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="west1ern">&nbsp;</P>
-		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="wes1tern">&nbsp;</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#ffffff">
-			<P CLASS="wes1tern">&nbsp;</P>
-		</TD>
+		
 		<TD WIDTH=75 BGCOLOR="#ffffff">
 			<P CLASS="wes1tern">&nbsp;</P>
 		</TD>
@@ -228,15 +201,7 @@ function popitup2(url) {
 		<TD WIDTH=9 BGCOLOR="#DDDDDD">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
-		<TD WIDTH=99 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  400</P>
-		</TD>
-		<TD WIDTH=99 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  200</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
+		
 		<TD WIDTH=75 BGCOLOR="#DDDDDD">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
@@ -257,15 +222,7 @@ function popitup2(url) {
 		<TD WIDTH=9 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  450</P>
-		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  250</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
+		
 		<TD WIDTH=75 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
@@ -286,15 +243,7 @@ function popitup2(url) {
 		<TD WIDTH=9 BGCOLOR="#DDDDDD">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
-		<TD WIDTH=99 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  500</P>
-		</TD>
-		<TD WIDTH=99 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  300</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
+		
 		<TD WIDTH=75 BGCOLOR="#DDDDDD">
 			<P CLASS="western" ALIGN=CENTER>  80</P>
 		</TD>
@@ -315,15 +264,7 @@ function popitup2(url) {
 		<TD WIDTH=9 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  1000</P>
-		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  600</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
+		
 		<TD WIDTH=75 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  160</P>
 		</TD>
@@ -344,15 +285,7 @@ function popitup2(url) {
 		<TD WIDTH=9 BGCOLOR="#DDDDDD">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
-		<TD WIDTH=99 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  1500</P>
-		</TD>
-		<TD WIDTH=99 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  900</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
+		
 		<TD WIDTH=75 BGCOLOR="#DDDDDD">
 			<P CLASS="western" ALIGN=CENTER>  240</P>
 		</TD>
@@ -373,15 +306,7 @@ function popitup2(url) {
 		<TD WIDTH=9 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  2000</P>
-		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  1200</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
+		
 		<TD WIDTH=75 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  320</P>
 		</TD>
@@ -402,15 +327,7 @@ function popitup2(url) {
 		<TD WIDTH=9 BGCOLOR="#DDDDDD">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
-		<TD WIDTH=99 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  2500</P>
-		</TD>
-		<TD WIDTH=99 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  1500</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
+		
 		<TD WIDTH=75 BGCOLOR="#DDDDDD">
 			<P CLASS="western" ALIGN=CENTER>  400</P>
 		</TD>
@@ -431,15 +348,7 @@ function popitup2(url) {
 		<TD WIDTH=9 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  3000</P>
-		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  1800</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
+		
 		<TD WIDTH=75 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  480</P>
 		</TD>
@@ -460,15 +369,7 @@ function popitup2(url) {
 		<TD WIDTH=9 BGCOLOR="#DDDDDD">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
-		<TD WIDTH=99 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  3500</P>
-		</TD>
-		<TD WIDTH=99 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  2100</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
+		
 		<TD WIDTH=75 BGCOLOR="#DDDDDD">
 			<P CLASS="western" ALIGN=CENTER>  560</P>
 		</TD>
@@ -489,15 +390,7 @@ function popitup2(url) {
 		<TD WIDTH=9 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  4000</P>
-		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  2400</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
+		
 		<TD WIDTH=75 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  640</P>
 		</TD>
@@ -518,15 +411,7 @@ function popitup2(url) {
 		<TD WIDTH=9 BGCOLOR="#DDDDDD">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
-		<TD WIDTH=99 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  4500</P>
-		</TD>
-		<TD WIDTH=99 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  2700</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
+		
 		<TD WIDTH=75 BGCOLOR="#DDDDDD">
 			<P CLASS="western" ALIGN=CENTER>  720</P>
 		</TD>
@@ -547,15 +432,7 @@ function popitup2(url) {
 		<TD WIDTH=9 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  5000</P>
-		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  3000</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
+		
 		<TD WIDTH=75 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  800</P>
 		</TD>
@@ -576,15 +453,7 @@ function popitup2(url) {
 		<TD WIDTH=9 BGCOLOR="#DDDDDD">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
-		<TD WIDTH=99 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  5500</P>
-		</TD>
-		<TD WIDTH=99 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  3300</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#DDDDDD">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
+		
 		<TD WIDTH=75 BGCOLOR="#DDDDDD">
 			<P CLASS="western" ALIGN=CENTER>  880</P>
 		</TD>
@@ -605,15 +474,7 @@ function popitup2(url) {
 		<TD WIDTH=9 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  6000</P>
-		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  3600</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
+		
 		<TD WIDTH=75 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  960</P>
 		</TD>
@@ -634,15 +495,7 @@ function popitup2(url) {
 		<TD WIDTH=9 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
+		
 		<TD WIDTH=75 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
@@ -663,15 +516,7 @@ function popitup2(url) {
 		<TD WIDTH=9 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
 		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  125</P>
-		</TD>
-		<TD WIDTH=99 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  75</P>
-		</TD>
-		<TD WIDTH=9 BGCOLOR="#ffffff">
-			<P CLASS="western" ALIGN=CENTER>  &nbsp;</P>
-		</TD>
+		
 		<TD WIDTH=75 BGCOLOR="#ffffff">
 			<P CLASS="western" ALIGN=CENTER>  20</P>
 		</TD>

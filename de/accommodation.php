@@ -48,7 +48,7 @@ newWindow=window.open(URLtoOpen, windowName, windowFeatures); }
 	<li><a href="index.php" class="style3">Home</a></li>
 	<li><a href="faq.php" class="style3">FAQ</a></li>
 	<li><a href="programs.php" class="style3">Programm</a></li>
-	<li><a href="activities.php" class="style3">Aktivitäten</a></li>
+	<li><a href="activities.php" class="style3">Aktivitï¿½ten</a></li>
     <li><a href="travels.php" class="style3">Reisen</a></li>
 	<li class="active"><a href="accommodation.php" class="style3">Unterkunft</a></li>
 	<li><a href="student.php" class="style3">Services</a></li>
@@ -69,7 +69,7 @@ newWindow=window.open(URLtoOpen, windowName, windowFeatures); }
         <h2 align="left"><strong>Unterkunft</strong></h2>
         <p>
           <!-- END #c2 -->
-        Folgende Unterkunftsarten werden den Kursteilnehmern zur Verf&uuml;gung gestellt:</p>
+          Wir kÃ¶nnen folgende UnterkunftsmÃ¶glichkeiten vermitteln:</p>
         <p><br />
         </p>
         <ul>
@@ -80,7 +80,7 @@ newWindow=window.open(URLtoOpen, windowName, windowFeatures); }
             <br />
           </li>
         </ul>
-        <p>Die Appartments werden von mehreren A-viva Kursteilnehmern gleichzeitig, oder zusammen mit  deutschen Studenten und Berufst&auml;tigen genutzt. Die Appartements befinden sich im Stadtzentrum und sind von A-viva zu Fu&szlig; zu erreichen. <br />
+        <p>Die Appartements befinden sich im Stadtzentrum und sind von A-viva zu Fu&szlig; zu erreichen. <br />
           <br />
           Die Unterk&uuml;nfte bei Gastfamilien  sind in der Stadt oder in den Vororten, mit guter Verkehrsanbindung zur Stadt. </p>
         <p><br />
@@ -94,6 +94,6 @@ newWindow=window.open(URLtoOpen, windowName, windowFeatures); }
     
   </div>
 <p class="impressum"> <br><br><br><br><br>
-<a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLÄRUNG / DATA-PROTECTION</a></p>
+<a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLï¿½RUNG / DATA-PROTECTION</a></p>
 </body>
 </html>

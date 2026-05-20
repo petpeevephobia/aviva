@@ -70,7 +70,7 @@ newWindow=window.open(URLtoOpen, windowName, windowFeatures); }
         <h2 align="left"><strong>Accommodation</strong></h2>
         <p>
           <!-- END #c2 -->
-          Following accommodation types are provided to A-viva students:</p>
+          Following accommodation types are possible in Frankfurt:</p>
         <p>&nbsp;</p>
         <ul>
           <li>Double room in apartment (300 &ndash; 350 euros/month)</li>
@@ -79,7 +79,7 @@ newWindow=window.open(URLtoOpen, windowName, windowFeatures); }
           <li>Dormitory room in Youth Hostel (500 &ndash; 600 euros/month)</li>
         </ul>
         <p>&nbsp;</p>
-        <p>Apartments, shared with other A-viva students or with native German students or professionals, are located in the city center, within walking distance to A-viva.</p>
+        <p>Apartments are located in the city center within walking distance to A-viva.</p>
         <p>&nbsp;</p>
         <p>Host families are either in the city or in the suburbs with good transportation to the city.</p>
         <p>&nbsp;</p>
@@ -93,6 +93,6 @@ newWindow=window.open(URLtoOpen, windowName, windowFeatures); }
     
   </div>
 <p class="impressum"> <br><br><br><br><br>
-<a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLÄRUNG / DATA-PROTECTION</a></p>
+<a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLï¿½RUNG / DATA-PROTECTION</a></p>
 </body>
 </html>
