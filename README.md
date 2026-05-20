@@ -1,10 +1,12 @@
 # A-VIVA website — guide for non-technical editors
 
-This folder is the **A-VIVA Language School** website (Frankfurt). Think of it like a **big folder of pages** on a computer. When someone visits your website in a browser, the server **opens the right page file** and shows it to them.
+This folder is the **A-VIVA Language School** website (Frankfurt). When someone visits the site in a browser, the server **opens the right page file** and shows it to them.
 
-You do **not** need to understand programming. This guide tells you **which files change what you see**, and **which folders are safe to ignore** when you tidy the project.
+You do **not** need to understand programming. This guide tells you **which files change what you see**, and **which folders are safe to ignore**.
 
 For running the site on your computer with Laragon, see also: [`docs/LOCAL_DEV.md`](docs/LOCAL_DEV.md).
+
+The live site is at **https://a-viva.net**. Changes are stored in **GitHub** and can be published automatically to Host Europe when you push to the `main` branch (see [Publishing changes](#publishing-changes) below).
 
 ---
 
@@ -14,141 +16,150 @@ Imagine the website as a **house**:
 
 | Part | What it is | Folder / file |
 |------|------------|----------------|
-| **Front door** | First page visitors may see | `index.php` |
-| **Living room** | Main home page with the menu | `home.php` |
-| **Same rooms in other languages** | German, French, etc. copies | `de/`, `fr/`, `it/`, … |
-| **Ceiling lamp in every room** | Logo + language flags (same on many pages) | `header.php` |
-| **Paint and furniture style** | Colours, fonts, layout | `aviva.css` |
+| **Front door / home page** | Main entry with menu and welcome text | `index.php` (English), `de/index.php` (German) |
+| **Other rooms** | Programs, prices, contact, etc. | `programs.php`, `prices.php`, … and `de/` copies |
+| **Ceiling lamp in every room** | Logo + language flags | `header.php` / `de/header.php` |
+| **Paint and furniture style** | Colours, fonts, layout — **one file for both languages** | `aviva.css` |
 | **Photo albums on the wall** | Old picture galleries | `galeries/` |
 | **A second building next door** | Old Joomla CMS (separate system) | `aviva/` |
 
 Most pages work the same way:
 
 1. The page file (e.g. `programs.php`) has the **menu** and **main text**.
-2. Near the top it says: “plug in the header” → `<?php include("header.php") ?>`.
-3. The browser shows **header + page content** together.
+2. Near the top it includes the header: `<?php include("header.php") ?>`.
+3. The page links to **`aviva.css`** for styling (German pages use `../aviva.css` to reach the same file).
+4. The browser shows **header + page content** together.
 
 ```mermaid
 flowchart LR
-  visitor[Visitor opens a link] --> page[Page file e.g. home.php]
+  visitor[Visitor opens a link] --> page[Page file e.g. index.php]
   page --> header[header.php - logo and flags]
   page --> body[Text and images in that page file]
-  page --> css[aviva.css - colours and layout]
+  page --> css[aviva.css - shared styles]
 ```
 
 ---
 
-## Which language am I editing?
+## Languages: English and German only
+
+The site has **two** language versions:
 
 | If visitors use this URL | Edit files in |
 |--------------------------|---------------|
-| `yoursite.com/home.php` (English) | **Root folder** — files directly in `www/` |
-| `yoursite.com/de/home.php` (German) | **`de/`** folder |
-| `yoursite.com/fr/home.php` (French) | **`fr/`** folder |
-| Same pattern for Italian, Portuguese, Japanese, Turkish, Spanish | **`it/`**, **`pt/`**, **`jp/`**, **`tr/`**, **`sp/`** |
+| `a-viva.net/index.php` (English) | **Root folder** — files directly in `www/` |
+| `a-viva.net/de/index.php` (German) | **`de/`** folder |
 
-**Important:** English and German (and other languages) are **separate copies** of almost the same pages. If you change text on the English home page, you must also change the German home page in `de/home.php` if you want both languages to match.
+**Important:** English and German are **separate copies** of almost the same pages. If you change text on the English prices page, also change `de/prices.php` if you want German to match.
 
-The **flag images** in `header.php` link between languages (English, German, French, etc.).
+The **flag images** in the header switch between English and German:
+
+- English [`header.php`](header.php) — links to `index.php` and `de/index.php`
+- German [`de/header.php`](de/header.php) — links to `../index.php` and `index.php`
+
+---
+
+## Stylesheet (unified)
+
+There is **one** stylesheet for the whole brochure site:
+
+| File | Used by |
+|------|---------|
+| [`aviva.css`](aviva.css) | All English pages (`href="aviva.css"`) |
+| Same file | All German pages (`href="../aviva.css"`) |
+
+Edit **`aviva.css` once** — colours, fonts, logo size, menu layout — and both languages update. There is no separate `de/aviva.css` anymore.
 
 ---
 
 ## PHP files you **can** edit to change the website
 
-These are the main “page” files. Each one is one item in the top menu (or a special page linked from the site).
+These are the main page files. Each one matches an item in the top menu (or a linked page).
 
 ### English site (root folder)
 
 | File | What visitors see | What you might change |
 |------|-------------------|------------------------|
-| `index.php` | Welcome / splash screen; redirects to home after a few seconds | Welcome text, link “Enter Here” |
-| `home.php` | **Home** — welcome text, “Who we are”, benefits | All paragraphs and tables in the middle |
-| `faq.php` | **FAQ** — questions and answers | Questions and answers |
-| `programs.php` | **Programs** — courses and packages | Program descriptions, prices text, links |
+| `index.php` | **Home** — welcome text, menu, “Who we are” | Main home content |
+| `faq.php` | **FAQ** | Questions and answers |
+| `programs.php` | **Programs** — courses and packages | Program descriptions, links |
 | `activities.php` | **Activities** — sports, culture, events | Activity lists and descriptions |
 | `travels.php` | **Travels** — trips and travel info | Trip text and links |
-| `accommodation.php` | **Housing** — where students stay | Housing options and text |
+| `accommodation.php` | **Housing** | Housing options and text |
 | `student.php` | **Services** — help for students | Service descriptions |
 | `work.php` | **Jobs** — work and scholarships | Job-related text |
 | `prices.php` | **Prices** — fees and packages | Price tables and wording |
-| `register.php` | **Register** — how to sign up | Registration info (cancellation rules, etc.) |
-| `contact.php` | **Contact** — address, map link, opening feel | Address, directions, Skype, map link |
-| `news.php` | **News** — announcements | News items, dates, links |
-| `links.php` | **Links** — list of useful websites | Link list |
-| `newclasses.php` | New classes information (if linked) | Class info |
-| `nicejobs.php` | “Nice jobs” / work-related extra page | Content on that page |
-| `class_breakdown.php` | Class / level breakdown | Class structure text |
-| `homework_breakdown.php` | Homework breakdown | Homework info |
+| `register.php` | **Register** — how to sign up | Registration info |
+| `contact.php` | **Contact** — address, map link | Address, directions, contact details |
+| `links.php` | **Links** — useful websites | Link list |
+| `newclasses.php` | New classes information | Class info |
 | `day.php` | “Typical day” schedule | Daily schedule text |
 | `chart.php` | Language level chart | Chart content |
-| `chinaearthquake.php` | One old special fundraising page | Only if you still use this page |
+| `class_breakdown.php` | Class / level breakdown | Class structure text |
+| `homework_breakdown.php` | Homework breakdown | Homework info |
 
 ### German site (`de/` folder)
 
-Same names as above, plus a few **only in German**:
+Same page names as English, plus a few **German-only** helpers:
 
 | File | Notes |
 |------|--------|
-| `de/home.php`, `de/programs.php`, … | German versions of the main pages |
+| `de/index.php`, `de/programs.php`, `de/prices.php`, … | German versions of the main menu pages |
 | `de/faq.php` | German FAQ |
 | `de/newclasses.php` | German “new classes” |
-| `de/nicejobs.php` | German jobs-related page |
-| `de/rde.php` | German **contact form** (big form with subject dropdown) |
-| `de/register.php` | German register page (text about cancellation) |
-
-Other language folders (`fr/`, `it/`, `pt/`, `jp/`, `tr/`, `sp/`) have the **same page names** as English/German for the main menu. Edit the matching file in that folder for that language.
+| `de/nicejobs.php` | German jobs-related page (no English equivalent in root) |
+| `de/rde.php` | German **contact form** (fields, subjects, thank-you messages) |
+| `de/r.php` | Registration sidebar text for German register page |
+| `de/register.php` | German register page |
 
 ---
 
-## PHP “helper” files — small pieces used inside pages
+## PHP “helper” files — shared pieces
 
-You **can** edit these, but they affect **many pages at once**. Be careful.
+Edit with care — they affect multiple pages.
 
 | File | Role | When to edit |
 |------|------|----------------|
-| `header.php` | Top banner: logo (Flash), **language flag links** | Change flag links, or replace logo area |
-| `r.php` | Chunk of HTML for **registration** (payment text, links to PDF forms) | Used inside `register.php` on some language sites via `<?php include("r.php") ?>` |
-| `k.php` | Meant for **contact form** snippet on some pages | Often empty; check `contact.php` in each language |
-| `k-de.php` | German-related contact helper | If used on German contact page |
-| `de/rde.php` | Full **German contact form** | Form fields, email subjects, “thank you” messages |
-| `de/header.php` | German folder’s own header (flags point to `/de/…`) | Same as `header.php` but for German URLs |
+| `header.php` | Top banner: **logo image** + **EN/DE flag links** | Logo area or flag links |
+| `de/header.php` | Same for German URLs | Same, with paths for `/de/` |
+| `r.php` | HTML chunk for **registration** (PDF links, payment text) | Registration sidebar on English site |
+| `de/r.php` | German registration sidebar | German register page |
+| `de/rde.php` | Full **German contact form** | Form fields and messages |
+| `k.php` | Contact form snippet (English) | If used on `contact.php` |
+| `k-de.php` | German contact helper | If used on German contact flow |
 
-**How they connect (example — Register page in Japanese):**
+**Example — German register page:**
 
 ```
-jp/register.php  →  includes jp/header.php  →  includes jp/r.php (registration text)
+de/register.php  →  includes de/header.php  →  may include de/r.php
 ```
 
 ---
 
-## PHP files that **do work behind the scenes** (developers, not daily text edits)
+## PHP files for developers (not daily text edits)
 
 | File | What it does | Should you edit? |
 |------|----------------|------------------|
-| `registration.php` (in some language folders) | Sends registration form data by **email** when someone submits a form | Only with a developer — wrong settings = forms break |
-| `formk.php` | Checks **reCAPTCHA** (“I’m not a robot”) on forms | Developer — needs secret keys |
-| `payment.php` | **Stripe** payment processing | Developer — contains payment secrets |
+| `formk.php` | **reCAPTCHA** check on forms | Developer only — needs secret keys |
+| `payment.php` | **Stripe** payment processing | Developer only — payment secrets |
 | `container.php` | Alternate page layout wrapper | Rarely needed |
-| `test.php` (inside `de/`, `fr/`, etc.) | Test copy of a page | Do not use for the live site |
-| `k-old.php` | Old backup of contact helper | **Do not use** — keep for history or delete later with developer |
-| `register_oldwithflash.php` | Old registration page with Flash | **Old** — use `register.php` instead |
-| `tests.php` | Looks like another test/home variant | Treat as test, not main site |
-| `pics/activities.php` | Huge duplicate of activities content in wrong folder | **Confusing** — real page is `activities.php` in root |
+| `de/k-old.php` | Old backup of contact helper | **Do not use** on live site |
+| `tests.php` | Test variant | Not for production |
+| `pics/activities.php` | Duplicate content in wrong folder | Real page is `activities.php` in root |
+
+The **`aviva/`** folder is **Joomla 1.5** (old CMS with its own admin and database). It is **not** the same as `index.php` / `programs.php`. The main school site is the PHP pages in the root and `de/`. GitHub deploy **excludes** `aviva/` from automatic uploads.
 
 ---
 
-## Files that are **not** PHP but you will still edit often
+## Files that are **not** PHP but you will edit often
 
 | Type | Where | Used for |
 |------|--------|----------|
-| **Styles** | `aviva.css` (and `aviva.css` inside language folders) | Background colour, fonts, menu look |
-| **Images** | `pics/` | Photos, banners, menu side images (`home.jpg`, `register.jpg`, flags `en.gif`, `de.gif`, …) |
-| **PDFs for download** | `registration/` | Registration forms, terms & conditions |
-| **More PDFs** | `PDF/`, `downloads/` | Calendars, flyers, old brochures |
-| **Legal pages** | `impressum.html` | Impressum (legal notice) |
-| **Privacy PDF** | `DATENSCHUTZERKLÄRUNG-_-DATA-PROTECTION.pdf` (root) | Data protection |
-| **JavaScript** | `Scripts/AC_RunActiveContent.js` | Old Flash support — usually leave as-is |
-| **Server rules** | `.htaccess` | How the server handles URLs — developer only |
+| **Styles** | `aviva.css` only | Background colour, fonts, menu, logo size — **both languages** |
+| **Images** | `pics/` | Logo (`logo.png`), side images, flags (`en.gif`, `de.gif`) |
+| **PDFs for download** | `registration/` | Registration forms, terms |
+| **More PDFs** | `PDF/`, `downloads/` | Calendars, flyers, brochures |
+| **Legal** | `impressum.html`, privacy PDF in root | Impressum, data protection |
+| **Server rules** | `.htaccess` | URL/server behaviour — developer only |
 
 ---
 
@@ -156,162 +167,96 @@ jp/register.php  →  includes jp/header.php  →  includes jp/r.php (registrati
 
 ### Part of the **main school website**
 
-| Folder | Role | Link to rest of site |
-|--------|------|----------------------|
-| `pics/` | Pictures and Flash files for headers, side images | Pages use paths like `pics/home.jpg` |
-| `registration/` | PDF registration forms linked from `r.php` / register pages | Linked as `/registration/….pdf` |
-| `downloads/` | Calendars, audio (`avamari.mp3`), extra downloads | Linked from pages or PDFs |
-| `PDF/` | Many older PDF documents (events, concerts, forms) | Linked from news/activities or old links |
-| `galeries/` | **Old photo galleries** (HTML + images: sushi, salsa, squash, …) | Separate mini-sites; opened by direct links, not the main menu |
-| `quiz/` | Small **quiz / game** area with its own `de/` copy of pages | Separate from main menu; uses `quizpics/` |
-| `quizpics/` | Images for the quiz | Used by `quiz/` |
-| `sushiflyer/` | Flyer HTML/material | Marketing / print related |
+| Folder | Role |
+|--------|------|
+| `pics/` | Images shared by English and German pages |
+| `registration/` | PDF registration forms |
+| `downloads/` | Calendars, audio, extra downloads |
+| `PDF/` | Older PDF documents |
+| `galeries/` | Old photo galleries (direct links, not main menu) |
+| `quizpics/` | Images for quiz content |
 
-### **Copies, tests, backups — not the live site**
-
-| Folder | Role | Recommendation |
-|--------|------|----------------|
-| `_backup/` | Old snapshots of pages (2014, 2016, …) | Move to `archive/` or off the server — do not edit for live content |
-| `test/` | Full duplicate site for testing | Keep for developers; visitors should not use it |
-| `regtest/` | Registration form tests (Flash experiments) | Archive or delete after developer review |
-| `cn/` | Almost empty (only `header.php`) | Finish or remove |
-
-### **Separate big system (Joomla CMS)**
+### **Archive / not live**
 
 | Folder | Role |
 |--------|------|
-| `aviva/` | **Joomla 1.5** — thousands of files, own admin panel, database. This is **not** the same as `home.php` / `programs.php`. It was a second way to run a website. |
+| `_archive/` | Old snapshots — do not edit for live content |
+| `docs/` | Developer notes (local setup, etc.) |
 
-If you only maintain the classic PHP pages, you can think of `aviva/` as **another product in the same box** — developers decide whether it is still needed.
-
-### **Server / tool folders (do not reorganise without a developer)**
+### **Separate system (Joomla)**
 
 | Folder | Role |
 |--------|------|
-| `cgi-bin/` | Server scripts |
-| `.well-known/` | SSL / domain verification |
-| `aviva/administrator/`, `aviva/components/`, … | Joomla internals |
+| `aviva/` | Joomla 1.5 — thousands of files, separate admin. Not updated by the main deploy workflow. |
+
+### **Server / tool folders**
+
+| Folder | Role |
+|--------|------|
+| `cgi-bin/`, `.well-known/` | Server scripts, SSL verification |
+| `.github/` | GitHub Actions deploy workflow (developers) |
 
 ---
 
 ## How the main pieces link together
 
 ```
-index.php  ──(auto redirect)──►  home.php
-                                    │
-                    ┌───────────────┼───────────────┐
-                    ▼               ▼               ▼
-              header.php      aviva.css         pics/*.jpg
-              (logo, flags)
-                    │
-        ┌───────────┼───────────┬──────────────┐
-        ▼           ▼           ▼              ▼
-   programs.php  activities.php  register.php  contact.php
-        │                           │              │
-        │                           ▼              ▼
-        │                        r.php          k.php / rde.php
-        │                    registration/*.pdf
-        ▼
-   links to galeries/, PDF/, downloads/
+index.php  (English home)
+de/index.php  (German home)
+        │
+        ├── header.php / de/header.php  (logo + EN | DE flags)
+        ├── aviva.css  (one stylesheet, both languages)
+        └── pics/  (shared images)
+        │
+        ├── programs.php, prices.php, contact.php, …
+        └── de/programs.php, de/prices.php, de/contact.php, …
 ```
-
-**Language switch:** `header.php` flag links go to `home.php`, `de/home.php`, `fr/home.php`, etc. Each language folder has its own `header.php` with paths adjusted for that language.
 
 ---
 
-## Recommendations to make the project neater for developers
+## Publishing changes
 
-These are **suggestions** — do them with a developer so links on the live website do not break.
+The site is hosted on **Host Europe**. The repo uses **GitHub Actions** to upload changed files over FTPS when you push to **`main`**.
 
-### 1. Split “live site” from “storage”
+**Typical workflow:**
 
-Create clear top-level areas (names can be chosen with your developer):
+1. Edit files locally (e.g. in Laragon).
+2. Commit and push to GitHub.
+3. Check **GitHub → Actions → Deploy to Host Europe** for a green checkmark.
+4. Visit **https://a-viva.net** and press **Ctrl+F5** to verify.
 
-| New area | Move into it |
-|----------|----------------|
-| `public/` or keep root as live | Only files the website must serve: pages, `pics/`, `aviva.css`, `registration/`, `downloads/` |
-| `archive/` | `_backup/`, old `*_old*.php`, `chinaearthquake.php`, `register_oldwithflash.php`, unused `regtest/` |
-| `staging/` | `test/` (rename to `staging/` so everyone knows it is not production) |
+FTP credentials live in **GitHub Secrets**, not in the repo. The deploy skips `aviva/`, `_archive/`, `docs/`, and `.env`.
 
-### 2. One folder per language (already partly done)
-
-You already have `de/`, `fr/`, etc. **Do not** also keep duplicate logic in random places (e.g. `pics/activities.php`). Delete or move duplicates after checking nothing links to them.
-
-### 3. Shared pieces instead of copy-paste
-
-Today, every `home.php` repeats the same menu HTML. Long term, a developer can:
-
-- Put the menu in **one** file (e.g. `includes/menu-en.php`) and `include` it from every English page.
-- Same for `header.php` and footers.
-
-That way you change the menu **once**, not on ten pages.
-
-### 4. Rename confusing files
-
-| Current name | Clearer name (example) |
-|--------------|-------------------------|
-| `r.php` | `register-sidebar-en.php` |
-| `k.php` | `contact-form-snippet.php` |
-| `rde.php` | `contact-form-de.php` |
-| `k-old.php` | Move to `archive/` |
-
-### 5. Group assets
-
-| Current | Suggested |
-|---------|-----------|
-| PDFs in root + `PDF/` + `downloads/` + `registration/` | `assets/pdf/registration/`, `assets/pdf/marketing/`, `assets/downloads/` |
-| All images in `pics/` | `assets/images/` (and update paths in PHP — developer task) |
-| `galeries/` | `archive/galleries/` if still needed only for old links |
-
-### 6. Decide fate of Joomla (`aviva/`)
-
-- If the school **no longer uses** Joomla: document that, export anything needed, then move `aviva/` to `archive/joomla-1.5/` so the main project looks like one website, not two.
-- If still used: keep it, but add a short `aviva/README.md` saying “admin URL” and “do not touch for main brochure site”.
-
-### 7. Remove or hide Flash-era files
-
-Many pages still reference `.swf` Flash files in `pics/`. Modern browsers do not show them. Plan with a developer to replace header/register Flash with normal images or HTML.
-
-### 8. Add a simple map file for editors
-
-Keep this `README.md` updated when you add a new page. Optional: a one-page `EDITORS.md` with only the table “file → what it changes”.
-
-### 9. Use version control (Git)
-
-The project is not a git repo yet. A developer can run `git init` so every change is tracked and you can undo mistakes.
-
-### 10. Do not delete before checking links
-
-Before moving or deleting any file, search the project for its name (e.g. `register_form00.swf`). Old links in PDFs or emails may still point to old paths.
+You can also run the deploy manually: **Actions → Deploy to Host Europe → Run workflow**.
 
 ---
 
 ## Quick cheat sheet — “I want to change…”
 
-| I want to change… | Open this file (English) | German |
-|-------------------|---------------------------|--------|
-| Home page text | `home.php` | `de/home.php` |
+| I want to change… | English | German |
+|-------------------|---------|--------|
+| Home page text | `index.php` | `de/index.php` |
 | Course / program info | `programs.php` | `de/programs.php` |
 | Activities | `activities.php` | `de/activities.php` |
 | Trips | `travels.php` | `de/travels.php` |
 | Housing | `accommodation.php` | `de/accommodation.php` |
 | Prices | `prices.php` | `de/prices.php` |
-| Registration info | `register.php` and maybe `r.php` | `de/register.php`, `de/r.php` |
+| Registration info | `register.php`, maybe `r.php` | `de/register.php`, `de/r.php` |
 | Contact details | `contact.php` | `de/contact.php` |
 | German contact form | — | `de/rde.php` |
 | Logo / language flags | `header.php` | `de/header.php` |
-| Colours and fonts | `aviva.css` | `de/aviva.css` |
-| Registration PDF | `registration/*.pdf` | same folder |
-| Side column picture on a page | `pics/` (e.g. `pics/home.jpg`) | same `pics/` folder (shared) |
+| Colours and fonts | `aviva.css` | **same file** — `aviva.css` |
+| Registration PDF | `registration/*.pdf` | same folder (shared) |
+| Side column picture | `pics/` (e.g. `pics/home.jpg`) | same `pics/` folder (shared) |
 
 ---
 
 ## Summary
 
-- **Main website** = PHP page files in the **root** (English) and in **`de/`**, **`fr/`**, etc. (other languages).
-- **`header.php`** = shared top; **`aviva.css`** = look; **`pics/`** = images.
-- **`r.php`**, **`rde.php`**, **`registration.php`** = registration and contact **pieces** or **email sending** — edit text with care.
-- **`galeries/`**, **`quiz/`**, **`aviva/`** = separate corners of the project.
-- **`_backup/`**, **`test/`**, **`regtest/`** = clutter for a tidy repo — archive them, do not mix with live edits.
+- **Main website** = PHP pages in the **root** (English) and **`de/`** (German) — **no other language folders**.
+- **`header.php`** / **`de/header.php`** = logo and EN/DE flags.
+- **`aviva.css`** = one shared stylesheet for both languages.
+- **`galeries/`** and **`aviva/`** = separate corners of the project; main deploy does not push `aviva/`.
+- **`_archive/`** = old material — not for live edits.
 
-When in doubt, change text only in the **page file** that matches the menu item you see in the browser, and ask a developer before moving folders or renaming files.
+When in doubt, edit the **page file** that matches the menu item you see in the browser, and update the matching file in the other language if needed. Ask a developer before moving folders, renaming files, or changing `.htaccess` / deploy settings.

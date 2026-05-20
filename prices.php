@@ -528,9 +528,9 @@ function popitup2(url) {
         <p align="left">
           <!-- END #c2 -->
           <br /> <br />
-          *Exams and certificates given at the end of each level, from A1 to C2,  are free of charge for students enrolled in the corresponding course.  About 95% of A-viva students pass the exams successfully. If anyone misses the scheduled exam for any reason, a fee of 100 � to 150 � will be charged to take the exam at another date.<br /> <br /> 
+          *Exams and certificates given at the end of each level, from A1 to C2,  are free of charge for students enrolled in the corresponding course.  About 95% of A-viva students pass the exams successfully. If anyone misses the scheduled exam for any reason, a fee of 100 € to 150 € will be charged to take the exam at another date.<br /> <br /> 
 
-*For external students from other schools who wish to take exams at A-viva, the fee is 200 � for A1 or A2 exams, and 300 � for B1 to C2 exams.    Please note that we only accept those whom we think have a chance of passing the exams.  Those who are not prepared or have very poor levels are advised not to risk their money until their German improves.  
+*For external students from other schools who wish to take exams at A-viva, the fee is 200 € for A1 or A2 exams, and 300 € for B1 to C2 exams.    Please note that we only accept those whom we think have a chance of passing the exams.  Those who are not prepared or have very poor levels are advised not to risk their money until their German improves.  
           </p>
        
         <p class="sidenote">&nbsp;</p>
@@ -543,6 +543,6 @@ function popitup2(url) {
     
   </div>
 <p class="impressum"> <br><br><br><br><br>
-<a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKL�RUNG / DATA-PROTECTION</a></p>
+<a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLÄRUNG / DATA-PROTECTION</a></p>
 </body>
 </html>

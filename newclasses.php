@@ -44,22 +44,22 @@
 </td>
 <td>
 <b>French 4 Fun Package</b><br><br />
-Weekly French classes taught by experienced teachers, with free practice sessions, participation at our beautiful French soirées, French film nights, invitation to homemade food & wine from France, and other events related to the French language and culture. Whole package costs 85€ per month. You will enjoy the experience!
+Weekly French classes taught by experienced teachers, with free practice sessions, participation at our beautiful French soirÃ©es, French film nights, invitation to homemade food & wine from France, and other events related to the French language and culture. Whole package costs 85Â€ per month. You will enjoy the experience!
 <br /><br />
 <b>Spanish 4 Fun Package</b><br><br />
-Weekly Spanish classes taught by experienced teachers, with free practice sessions, participation at our popular salsa parties, invitation to homemade food from Spanish speaking countries, and other events related to the Spanish language and culture. Whole package costs 85€ per month. You will enjoy the experience! 
+Weekly Spanish classes taught by experienced teachers, with free practice sessions, participation at our popular salsa parties, invitation to homemade food from Spanish speaking countries, and other events related to the Spanish language and culture. Whole package costs 85Â€ per month. You will enjoy the experience! 
 <br /> <br />
 <b>Business German Class</b><br><br />
-Learn to communicate in German on a professional level.  This 4-week course will cover presentation skills, intercultural communication ideas, multiple case studies, and role plays.  This course is suitable for intermediate to advanced German speakers.  Cost: 100€ for the course.
+Learn to communicate in German on a professional level.  This 4-week course will cover presentation skills, intercultural communication ideas, multiple case studies, and role plays.  This course is suitable for intermediate to advanced German speakers.  Cost: 100Â€ for the course.
 <br /> <br />
 <b>English 4 Fun Package</b><br><br />
-Weekly English classes taught by experienced teachers, with free practice sessions, participation at our popular game nights in English, pot luck dinners, and other events. Whole package costs 85€ per month. 
+Weekly English classes taught by experienced teachers, with free practice sessions, participation at our popular game nights in English, pot luck dinners, and other events. Whole package costs 85Â€ per month. 
 <br /> <br />
 <b>Japanese 4 Fun Package</b><br><br />
-Weekly Japanese classes taught by experienced teachers, with free practice sessions, participation at our beloved sushi cooking class and other events related to the Japanese language and culture. Whole package costs 85€ per month.
+Weekly Japanese classes taught by experienced teachers, with free practice sessions, participation at our beloved sushi cooking class and other events related to the Japanese language and culture. Whole package costs 85Â€ per month.
 <br /><br />
 <b>Chinese 4 Fun Package</b><br><br />
-Weekly Chinese classes taught by experienced teachers, with free practice sessions, calligraphy demonstration, participation at our Chinese dinner & conversation nights, Chinese karaoke, and other events related to the Chinese language and culture. Whole package costs 85€ per month.
+Weekly Chinese classes taught by experienced teachers, with free practice sessions, calligraphy demonstration, participation at our Chinese dinner & conversation nights, Chinese karaoke, and other events related to the Chinese language and culture. Whole package costs 85Â€ per month.
 </td>
 <td width="7%">
 </td>

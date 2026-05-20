@@ -69,7 +69,7 @@ newWindow=window.open(URLtoOpen, windowName, windowFeatures); }
         <table width="95%" border="0">
           <tr>
             <td width="33%" valign="top"><p align="center"><b>Open 7 days a week</b><br />Please contact us for an appointment<br /><br /><strong>A-viva</strong><strong></strong><br />
-              Rotlintstraﬂe 64<br />
+              Rotlintstra√üe 64<br />
               60316 Frankfurt<br />
               Germany <br />
               www.a-viva.net<br />
@@ -118,11 +118,11 @@ http://www.skype.com/go/skypebuttons
 			<p align="center">		        <b>Directions:</b><br />
 	          Tram 12 to Rothschildallee <br />
 			  or <br />
-			  Bus 30 to Rohrbachstraﬂe/Friedberger Landstraﬂe <br />
+			  Bus 30 to Rohrbachstra√üe/Friedberger Landstra√üe <br />
 			  or <br />
-			  U4 to H&ouml;henstraﬂe <br />
+			  U4 to H&ouml;henstra√üe <br />
 			  or  <br />
-			  U5 to Glauburgstraﬂe</p></td>
+			  U5 to Glauburgstra√üe</p></td>
             <td width="7%" valign="top">&nbsp;</td>
             <td width="60%" valign="top">
                
@@ -137,6 +137,6 @@ http://www.skype.com/go/skypebuttons
     
   </div>
 <p class="impressum"> <br><br><br><br><br>
-<a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLƒRUNG / DATA-PROTECTION</a></p>
+<a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKL√ÑRUNG / DATA-PROTECTION</a></p>
 </body>
 </html>

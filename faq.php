@@ -95,6 +95,6 @@ function popitup2(url) {
     
   </div>
  <br><br><br><br><br>
-<p class="impressum"><a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLÄRUNG / DATA-PROTECTION</a></p>
+<p class="impressum"><a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLÃ„RUNG / DATA-PROTECTION</a></p>
 </body>
 </html>

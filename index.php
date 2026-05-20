@@ -142,6 +142,6 @@ newWindow=window.open(URLtoOpen, windowName, windowFeatures); }
     
   </div>
 <br><br><br><br><br>
-<p class="impressum"><a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKL�RUNG / DATA-PROTECTION</a></p>
+<p class="impressum"><a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLÄRUNG / DATA-PROTECTION</a></p>
 </body>
 </html>

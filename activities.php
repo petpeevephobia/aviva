@@ -99,12 +99,12 @@ language and get a real sense of life in Germany.</p>
 <table class="aktivtable" border="1">
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
 	 
-<tr height="18"><td>Fri </td><td>4  </td><td>17:00 </td><td>Picnic in Günthersburg Park                                                   </td></tr>
+<tr height="18"><td>Fri </td><td>4  </td><td>17:00 </td><td>Picnic in GÃ¼nthersburg Park                                                   </td></tr>
 <tr height="18"><td>Sat </td><td>5  </td><td>10:00 </td><td>Trip to Strasbourg                                                            </td></tr>
 <tr height="18"><td>Tue </td><td>8  </td><td>14:30 </td><td>Dialogue Museum                                                               </td></tr>
 <tr height="18"><td>Fri </td><td>11 </td><td>19:30 </td><td>Open Air Opera in Palmengarten                                                </td></tr>
 <tr height="18"><td>Sun </td><td>13 </td><td>17:00 </td><td>BBQ & Fruit Picking                                                           </td></tr>
-<tr height="18"><td>Wed </td><td>16 </td><td>13:30 </td><td>Let´s Cook Together                                                           </td></tr>
+<tr height="18"><td>Wed </td><td>16 </td><td>13:30 </td><td>LetÂ´s Cook Together                                                           </td></tr>
 <tr height="18"><td>Fri </td><td>18 </td><td>13:30 </td><td>Bike Trip to Bad Homburg                                                      </td></tr>
 <tr height="18"><td>Sun </td><td>20 </td><td>12:00 </td><td>Bike Trip to Rheingau                                                         </td></tr>
 <tr height="18"><td>Sat </td><td>26 </td><td>12:00 </td><td>Rotlintstrassenfest                                                           </td></tr>
@@ -125,12 +125,12 @@ language and get a real sense of life in Germany.</p>
 
 <tr height="18"><td>Sat   </td><td>1    </td><td>   19:00</td><td>  Rhein in Flammen                                                       </td></tr>
 <tr height="18"><td>Wed   </td><td>5    </td><td>   13:30</td><td>  Lunch on Campus                                                        </td></tr>
-<tr height="18"><td>Fri   </td><td>7    </td><td>   14:00</td><td>  Guided Tour of Höchst Old Town                                         </td></tr>
+<tr height="18"><td>Fri   </td><td>7    </td><td>   14:00</td><td>  Guided Tour of HÃ¶chst Old Town                                         </td></tr>
 <tr height="18"><td>Sat   </td><td>8    </td><td>   10:00</td><td>  Trip to Holland                                                        </td></tr>
 <tr height="18"><td>Wed   </td><td>19   </td><td>   13:30</td><td>  Lunch around Bethmann Park                                             </td></tr>
 <tr height="18"><td>Sat   </td><td>22   </td><td>   10:00</td><td>  Trip to Metzingen                                                      </td></tr>
 <tr height="18"><td>Wed   </td><td>26   </td><td>   14:00</td><td>  Geldmuseum                                                             </td></tr>
-<tr height="18"><td>Fri   </td><td>28   </td><td>   19:00</td><td>  Film Festival at the Höchsterschloss                                   </td></tr>
+<tr height="18"><td>Fri   </td><td>28   </td><td>   19:00</td><td>  Film Festival at the HÃ¶chsterschloss                                   </td></tr>
 <tr height="18"><td>Sat   </td><td>29   </td><td>   16:00</td><td>  BBQ Party                                                              </td></tr>
 			 
 		 
@@ -169,11 +169,11 @@ language and get a real sense of life in Germany.</p>
 
 <tr height="18"><td>Thur  </td><td> 4 </td><td>   20:30 </td><td> Art Bar Concert                                                </td></tr>
 <tr height="18"><td>Sat   </td><td> 6 </td><td>   20:00 </td><td> Nacht der Museen                                               </td></tr>
-<tr height="18"><td>Fri   </td><td>12 </td><td>   19:00 </td><td> Let´s Go Bowling!                                              </td></tr>
+<tr height="18"><td>Fri   </td><td>12 </td><td>   19:00 </td><td> LetÂ´s Go Bowling!                                              </td></tr>
 <tr height="18"><td>Wed   </td><td>17 </td><td>   17:30 </td><td> Seminar:  History of Hessen                                    </td></tr>
 <tr height="18"><td>Sun   </td><td>21 </td><td>   11:00 </td><td> Bike Trip                                                      </td></tr>
 <tr height="18"><td>Wed   </td><td>24 </td><td>   19:00 </td><td> Boat Training                                                  </td></tr>
-<tr height="18"><td>Fri   </td><td>26 </td><td>   18:30 </td><td> Let´s Party!                                                   </td></tr>
+<tr height="18"><td>Fri   </td><td>26 </td><td>   18:30 </td><td> LetÂ´s Party!                                                   </td></tr>
 <tr height="18"><td>Sun   </td><td>28 </td><td>   10:00 </td><td> Hiking Trip                                                    </td></tr>
 <tr height="18"><td>Tue   </td><td>30 </td><td>   19:00 </td><td> Boat Training                                                  </td></tr>
 
@@ -191,10 +191,10 @@ language and get a real sense of life in Germany.</p>
 
 <tr height="18"><td>Sat    </td><td>01 </td><td>    12:00 </td><td> Indian Festival                                             </td></tr>
 <tr height="18"><td>Sat    </td><td>08 </td><td>    10:00 </td><td> Trip to Holland                                             </td></tr>
-<tr height="18"><td>Fri    </td><td>21 </td><td>    19:00 </td><td> Concert at the Dreikönigskirche                             </td></tr>
-<tr height="18"><td>Sat    </td><td>22 </td><td>    18:00 </td><td> Grüne Soße Festival                                         </td></tr>
+<tr height="18"><td>Fri    </td><td>21 </td><td>    19:00 </td><td> Concert at the DreikÃ¶nigskirche                             </td></tr>
+<tr height="18"><td>Sat    </td><td>22 </td><td>    18:00 </td><td> GrÃ¼ne SoÃŸe Festival                                         </td></tr>
 <tr height="18"><td>Thur   </td><td>27 </td><td>    15:00 </td><td> Historical Tour of Frankfurt                                </td></tr>
-<tr height="18"><td>Fri    </td><td>28 </td><td>    14:00 </td><td> Historical Tour of Höchst Old Town                          </td></tr>
+<tr height="18"><td>Fri    </td><td>28 </td><td>    14:00 </td><td> Historical Tour of HÃ¶chst Old Town                          </td></tr>
 <tr height="18"><td>Sun    </td><td>30 </td><td>    14:00 </td><td> BBQ Party!                                                  </td></tr>
 
 </tbody>                                                                                                                                                            
@@ -254,7 +254,7 @@ language and get a real sense of life in Germany.</p>
 
 <tr height="18"><td>Wed     </td><td>11       </td><td>13:30 </td><td>Coffee and Conversation Practice                        </td></tr>
 <tr height="18"><td>Sat     </td><td>14       </td><td>18:00 </td><td>Italian Dinner Party                                    </td></tr>
-<tr height="18"><td>Sat     </td><td>21       </td><td>10:00 </td><td>Trip to Düsseldorf                                      </td></tr>
+<tr height="18"><td>Sat     </td><td>21       </td><td>10:00 </td><td>Trip to DÃ¼sseldorf                                      </td></tr>
 <tr height="18"><td>Wed     </td><td>25       </td><td>20:00 </td><td>Dinner and Games                                        </td></tr>
 <tr height="18"><td>Fri     </td><td>27       </td><td>13:30 </td><td>Indian Party                                            </td></tr>
 <tr height="18"><td>Sun     </td><td>29       </td><td>12:00 </td><td>Hiking Trip                                             </td></tr>
@@ -272,7 +272,7 @@ language and get a real sense of life in Germany.</p>
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
 
 <tr height="18"><td>Fri </td><td>2  </td><td>13:30     </td><td>Christmas Market                                              </td></tr>
-<tr height="18"><td>Wed </td><td>7  </td><td>20:00     </td><td>Jazz Concert at Rotlint Café                                  </td></tr>
+<tr height="18"><td>Wed </td><td>7  </td><td>20:00     </td><td>Jazz Concert at Rotlint CafÃ©                                  </td></tr>
 <tr height="18"><td>Sat </td><td>10 </td><td>19:00     </td><td>A-viva Christmas Party!                                       </td></tr>
 <tr height="18"><td>Fri </td><td>16 </td><td>13:30     </td><td>Christmas Market                                              </td></tr>
 
@@ -323,7 +323,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Thur	</td><td>20		</td><td>13:30		</td><td>Goethe Haus                                         </td></tr>
 <tr height="18"><td>Sun		</td><td>23		</td><td>16:00		</td><td>BBQ Party                                           </td></tr>
 <tr height="18"><td>Wed		</td><td>26		</td><td>14:00		</td><td>Italian for Fun  Free Trial Class                   </td></tr>
-<tr height="18"><td>Fri		</td><td>28		</td><td>19:00		</td><td>Concert at Dreikönigskirche                         </td></tr>
+<tr height="18"><td>Fri		</td><td>28		</td><td>19:00		</td><td>Concert at DreikÃ¶nigskirche                         </td></tr>
 <tr height="18"><td>Sun		</td><td>30		</td><td>10:00		</td><td>Hiking/Biking Trip                                  </td></tr>
 
 </tbody>                                                                                                                                                            
@@ -341,7 +341,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Fri  </td><td> 2 </td><td>18:00 </td><td>Block Party                                                     </td></tr>
 <tr height="18"><td>Wed  </td><td> 7 </td><td>13:00 </td><td>Lunch on Campus                                                 </td></tr>
 <tr height="18"><td>Fri  </td><td> 9 </td><td>13:30 </td><td>Baking for Charity                                              </td></tr>
-<tr height="18"><td>Sat  </td><td>10 </td><td>14:00 </td><td>Rotlintstraßenfest                                              </td></tr>
+<tr height="18"><td>Sat  </td><td>10 </td><td>14:00 </td><td>RotlintstraÃŸenfest                                              </td></tr>
 <tr height="18"><td>Tue  </td><td>13 </td><td>13:30 </td><td>Dippemess                                                       </td></tr>
 <tr height="18"><td>Fri  </td><td>16 </td><td>14:00 </td><td>Japanese for Fun Trial Class                                    </td></tr>
 <tr height="18"><td>Sun  </td><td>18 </td><td>11:00 </td><td>Trip to Speyer                                                  </td></tr>
@@ -368,13 +368,13 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sat		</td><td>6		</td><td>09:00		</td><td>Bike Trip to Rheingau						     </td></tr>
 <tr height="18"><td>Wed		</td><td>10		</td><td>18:00		</td><td>Stoffelfest und Picnic						     </td></tr>
 <tr height="18"><td>Fri		</td><td>12		</td><td>17:00		</td><td>Tour of Bolongaropalast						 </td></tr>
-<tr height="18"><td>Sat		</td><td>13		</td><td>10:00		</td><td>Trip to Würzburg						         </td></tr>
+<tr height="18"><td>Sat		</td><td>13		</td><td>10:00		</td><td>Trip to WÃ¼rzburg						         </td></tr>
 <tr height="18"><td>Wed		</td><td>17		</td><td>17:00		</td><td>Opel Zoo						                 </td></tr>
 <tr height="18"><td>Fri		</td><td>19		</td><td>13:30		</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>						                 </td></tr>
 <tr height="18"><td>Sat		</td><td>20		</td><td>11:00		</td><td>Trip to Bad Homburg						     </td></tr>
 <tr height="18"><td>Tue		</td><td>23		</td><td>13:30		</td><td>Indian Buffet 						             </td></tr>
 <tr height="18"><td>Fri		</td><td>26		</td><td>13:30		</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>						                 </td></tr>
-<tr height="18"><td>Sat		</td><td>27		</td><td>11:00		</td><td>Trip to Rüdesheim						         </td></tr>
+<tr height="18"><td>Sat		</td><td>27		</td><td>11:00		</td><td>Trip to RÃ¼desheim						         </td></tr>
 <tr height="18"><td>Tue		</td><td>30		</td><td>13:30		</td><td>Tour of Jewish Synagogue                        </td></tr>
 
 </tbody>                                                                                                                                                            
@@ -392,9 +392,9 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sat	</td><td>2	</td><td>16:00	</td><td>Strawberry Picking			                                </td></tr>
 <tr height="18"><td>Wed	</td><td>6	</td><td>13:30	</td><td>Lunch on Campus 			                                </td></tr>
 <tr height="18"><td>Fri	</td><td>8	</td><td>17:00	</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>			                                        </td></tr>
-<tr height="18"><td>Sat	</td><td>9	</td><td>10:00	</td><td>Trip to Köln			                                    </td></tr>
+<tr height="18"><td>Sat	</td><td>9	</td><td>10:00	</td><td>Trip to KÃ¶ln			                                    </td></tr>
 <tr height="18"><td>Wed	</td><td>13	</td><td>13:30	</td><td>Dialogmuseum			                                    </td></tr>
-<tr height="18"><td>Fri	</td><td>15	</td><td>13:30	</td><td>Elina´s cooking show			                            </td></tr>
+<tr height="18"><td>Fri	</td><td>15	</td><td>13:30	</td><td>ElinaÂ´s cooking show			                            </td></tr>
 <tr height="18"><td>Sat	</td><td>16	</td><td>19:00	</td><td>Bal Populair 			                                    </td></tr>
 <tr height="18"><td>Sun	</td><td>17	</td><td>11:00	</td><td>Trip to Bad Nauheim			                            </td></tr>
 <tr height="18"><td>Wed	</td><td>20	</td><td>13:30	</td><td>Jewish Museum			                                    </td></tr>
@@ -428,7 +428,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sat	 	</td><td>18	 	</td><td>11:00	 	</td><td>Day Trip to Aschaffenburg & Miltenberg 	 	</td></tr>	 	 
 <tr height="18"><td>Sun	 	</td><td>19	 	</td><td>16:00	 	</td><td>Victory BBQ Party 	 	 	 	 	 	       </td></tr>
 <tr height="18"><td>Wed	 	</td><td>22	 	</td><td>13:15	 	</td><td>Sushi 	 	 	 	 	 	                   </td></tr>
-<tr height="18"><td>Fri	 	</td><td>24	 	</td><td>14:00	 	</td><td>Medieval Höchst Tour 	 	 	 	 	 	   </td></tr>
+<tr height="18"><td>Fri	 	</td><td>24	 	</td><td>14:00	 	</td><td>Medieval HÃ¶chst Tour 	 	 	 	 	 	   </td></tr>
 <tr height="18"><td>Sun	 	</td><td>26	 	</td><td>11:00	 	</td><td>Day Trip to Bad Nauheim 	 	 	 	 	 	</td></tr>
 <tr height="18"><td>Wed	 	</td><td>29	 	</td><td>13:15	 	</td><td>Maroccan Lunch                                 </td></tr>
 
@@ -475,7 +475,7 @@ language and get a real sense of life in Germany.</p>
 
 <tr height="18"><td>Sat	 	</td><td>2	 	</td><td>10:00	 	</td><td>Trip to Holland  	 	 	 	 	                        </td></tr>
 <tr height="18"><td>Wed	 	</td><td>6	 	</td><td>13:15	 	</td><td>Lunch on Campus	 	 	 	 	 	                    </td></tr>
-<tr height="18"><td>Sat	 	</td><td>9	 	</td><td>18:00	 	</td><td>Grüne Sauce Garden Festival 	 	 	 	 	 	        </td></tr>
+<tr height="18"><td>Sat	 	</td><td>9	 	</td><td>18:00	 	</td><td>GrÃ¼ne Sauce Garden Festival 	 	 	 	 	 	        </td></tr>
 <tr height="18"><td>Sun 	</td><td>10	 	</td><td>10:30	 	</td><td>Hiking in Rheingau 	 	 	 	 	 	                </td></tr>
 <tr height="18"><td>Tue	 	</td><td>12	 	</td><td>18:30	 	</td><td>Concert and Book Reading 	 	 	 	 	 	            </td></tr>
 <tr height="18"><td>Fri	 	</td><td>15	 	</td><td>18:30	 	</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a> </td></tr>
@@ -503,13 +503,13 @@ language and get a real sense of life in Germany.</p>
 
 <tr height="18"><td>Fri	</td><td>4		</td><td>18:30		</td><td>Cello Concert						                                                           </td></tr>
 <tr height="18"><td>Sat	</td><td>5		</td><td>13:30		</td><td>Bad Soden Tour						                                                           </td></tr>
-<tr height="18"><td>Wed	</td><td>9		</td><td>13:30		</td><td>Let´s Cook Together						                                                   </td></tr>
+<tr height="18"><td>Wed	</td><td>9		</td><td>13:30		</td><td>LetÂ´s Cook Together						                                                   </td></tr>
 <tr height="18"><td>Fri	</td><td>11		</td><td>18:30		</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>	</td></tr>
 <tr height="18"><td>Sat	</td><td>12		</td><td>11:30		</td><td>Trip to Luxembourg						                                                       </td></tr>
 <tr height="18"><td>Mon	</td><td>14		</td><td>19:00		</td><td>Improv theater in English						                                               </td></tr>
 <tr height="18"><td>Wed	</td><td>16		</td><td>13:30		</td><td>Lunch on Campus						                                                       </td></tr>
 <tr height="18"><td>Fri	</td><td>18		</td><td>18:30		</td><td>Badminton & Squash						                                                       </td></tr>
-<tr height="18"><td>Sat	</td><td>19		</td><td>14:00		</td><td>Hiking in Königstein						                                                   </td></tr>
+<tr height="18"><td>Sat	</td><td>19		</td><td>14:00		</td><td>Hiking in KÃ¶nigstein						                                                   </td></tr>
 <tr height="18"><td>Wed	</td><td>23		</td><td>16:00		</td><td>Tour of Bolongoro Palace                                                                      </td></tr>
 
 </tbody>                                                                                                                                                            
@@ -600,7 +600,7 @@ language and get a real sense of life in Germany.</p>
  
 <tr height="18"><td>Mon </td><td>	2	</td><td>18:30</td><td>    Jazz in a castle			                                                                 </td></tr>
 <tr height="18"><td>Fri </td><td>	6	</td><td>19:30</td><td>    Korean Dinner			                                                                 </td></tr>
-<tr height="18"><td>Sat </td><td>	7	</td><td>14:00</td><td>    Tour of old Höchst			                                                             </td></tr>
+<tr height="18"><td>Sat </td><td>	7	</td><td>14:00</td><td>    Tour of old HÃ¶chst			                                                             </td></tr>
 <tr height="18"><td>Sun </td><td>	8	</td><td>13:00</td><td>    Language Games			                                                                 </td></tr>
 <tr height="18"><td>Wed </td><td>	11	</td><td>19:00</td><td>    Concert			                                                                         </td></tr>
 <tr height="18"><td>Thur</td><td>	12	</td><td>14:00</td><td>    Language Games			                                                                 </td></tr>
@@ -610,7 +610,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Wed </td><td>	18	</td><td>13:30</td><td>    Brunch Sushimoto			                                                                 </td></tr>
 <tr height="18"><td>Thur</td><td>	19	</td><td>14:00</td><td>    Film & Discussion			                                                             </td></tr>
 <tr height="18"><td>Sat </td><td>	21	</td><td>11:00</td><td>    Day Trip to Wiesbaden                                                                     </td></tr>
-<tr height="18"><td>Fri </td><td>	27	</td><td>13:30</td><td>    Deutsche Börse			                                                                 </td></tr>
+<tr height="18"><td>Fri </td><td>	27	</td><td>13:30</td><td>    Deutsche BÃ¶rse			                                                                 </td></tr>
 <tr height="18"><td>Sun </td><td>	29	</td><td>10:00</td><td>    Trip to Strasbourg			                                                             </td></tr>
 <tr height="18"><td>Mon </td><td>	30	</td><td>19:00</td><td>	   Moksha Dinner Buffet                                                                      </td></tr>
 
@@ -634,7 +634,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Fri</td><td>  9</td><td>19:30</td><td>Star Concert                                                                                   </td></tr>
 <tr height="18"><td>Sat</td><td> 10</td><td>10:00</td><td>Trip to Holland                                                                                </td></tr>
 <tr height="18"><td>Wed</td><td> 14</td><td>19:00</td><td>Italian Dinner                                                                                 </td></tr>
-<tr height="18"><td>Fri</td><td> 16</td><td>14:00</td><td>Guided Tour of Old Höchst                                                                      </td></tr>
+<tr height="18"><td>Fri</td><td> 16</td><td>14:00</td><td>Guided Tour of Old HÃ¶chst                                                                      </td></tr>
 <tr height="18"><td>Sun</td><td> 18</td><td> 9:00</td><td>Pilzwanderung                                                                                  </td></tr>
 <tr height="18"><td>Thu</td><td> 22</td><td>18:00</td><td>Wiesbaden Opera Kafka                                                                          </td></tr>
 <tr height="18"><td>Fri</td><td> 23</td><td>13:15</td><td>Sushi Brunch                                                                                   </td></tr>
@@ -663,7 +663,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sun </td><td>13 </td><td>11:00 </td><td>Day Trip Biebrich - Eltville                                                                           </td></tr>
 <tr height="18"><td>Wed </td><td>16 </td><td>13:30 </td><td>Concert at the Hanau Palace                                                                            </td></tr>
 <tr height="18"><td>Fri </td><td>18 </td><td>13:00 </td><td>Baking for Charity                                                                                     </td></tr>
-<tr height="18"><td>Sat </td><td>19 </td><td>14:00 </td><td>Rotlintstraßenfest                                                                                     </td></tr>
+<tr height="18"><td>Sat </td><td>19 </td><td>14:00 </td><td>RotlintstraÃŸenfest                                                                                     </td></tr>
 <tr height="18"><td>Thu </td><td>24 </td><td>20:00 </td><td>Salsa Party                                                                                            </td></tr>
 <tr height="18"><td>Sat </td><td>26 </td><td>18:00 </td><td>Oktoberfest                                                                                            </td></tr>
 <tr height="18"><td>Sun </td><td>27 </td><td>11:00 </td><td>Hiking Trip Rheingau                                                                                   </td></tr>
@@ -694,7 +694,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sun	</td><td>16	</td><td>18:00	</td><td>Palmengarten Concert                                                                                           </td></tr>
 <tr height="18"><td>Wed	</td><td>19	</td><td>13:30	</td><td>Trip to Marburg                                                                                                </td></tr>
 <tr height="18"><td>Thu	</td><td>20	</td><td>13:30	</td><td>Opel Zoo                                                                                                       </td></tr>
-<tr height="18"><td>Fri	</td><td>21	</td><td>13:30	</td><td>Rüdesheim                                                                                                      </td></tr>
+<tr height="18"><td>Fri	</td><td>21	</td><td>13:30	</td><td>RÃ¼desheim                                                                                                      </td></tr>
 <tr height="18"><td>Tue	</td><td>25	</td><td>13:15	</td><td>Lunch on Campus                                                                                                </td></tr>
 <tr height="18"><td>Fri	</td><td>28	</td><td>13:30	</td><td>Wertheim Outlet                                                                                                </td></tr>
 <tr height="18"><td>Sat	</td><td>29	</td><td>11:00	</td><td>Museum Tour                                                                                                    </td></tr>
@@ -714,14 +714,14 @@ language and get a real sense of life in Germany.</p>
 
 <tr height="18"><td>Wed	</td><td>1	</td><td>18:00	</td><td>Stoffel Outdoor Concert	                                                                                          </td></tr>
 <tr height="18"><td>Thu	</td><td>2	</td><td>20:00	</td><td>Stoffel Outdoor Concert	                                                                                          </td></tr>
-<tr height="18"><td>Fri	</td><td>3	</td><td>14:00	</td><td>Höchst Castle tour	                                                                                                  </td></tr>
-<tr height="18"><td>Sun	</td><td>5	</td><td>10:00	</td><td>Höchst City Tour	                                                                                                  </td></tr>
+<tr height="18"><td>Fri	</td><td>3	</td><td>14:00	</td><td>HÃ¶chst Castle tour	                                                                                                  </td></tr>
+<tr height="18"><td>Sun	</td><td>5	</td><td>10:00	</td><td>HÃ¶chst City Tour	                                                                                                  </td></tr>
 <tr height="18"><td>Mon	</td><td>6	</td><td>18:00	</td><td>Private Shopping RL Polo	                                                                                          </td></tr>
 <tr height="18"><td>Wed	</td><td>8	</td><td>13:30	</td><td>Lunch on Campus	                                                                                                  </td></tr>
 <tr height="18"><td>Fri	</td><td>10	</td><td>13:00	</td><td>Wertheim Outlet Shopping	                                                                                          </td></tr>
 <tr height="18"><td>Sat	</td><td>11	</td><td>11:00	</td><td>Trip to Bamberg	                                                                                                  </td></tr>
 <tr height="18"><td>Mon	</td><td>13	</td><td>19:30	</td><td>Salsakurs	                                                                                                          </td></tr>
-<tr height="18"><td>Wed	</td><td>15	</td><td>20:00	</td><td>Open Air Kino Städel	                                                                                              </td></tr>
+<tr height="18"><td>Wed	</td><td>15	</td><td>20:00	</td><td>Open Air Kino StÃ¤del	                                                                                              </td></tr>
 <tr height="18"><td>Fri	</td><td>17	</td><td>18:00	</td><td>Stoffel Outdoor Concert	                                                                                           </td></tr>
 <tr height="18"><td>Sat	</td><td>18	</td><td>18:00	</td><td>French Festival	                                                                                                   </td></tr>
 <tr height="18"><td>Sun	</td><td>19	</td><td>11:00	</td><td>Day Trip to Heidelberg	                                                                                               </td></tr>
@@ -749,16 +749,16 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sun	</td><td>7	</td><td>12:00	</td><td>Strawberry Picking                                                                                                 </td></tr>
 <tr height="18"><td>Mon	</td><td>8	</td><td>19:30	</td><td>Salsakurs					                                                                                        </td></tr>
 <tr height="18"><td>Wed	</td><td>10	</td><td>19:00	</td><td>Dragon Boat Training				                                                                                </td></tr>
-<tr height="18"><td>Fri	</td><td>12	</td><td>13:30	</td><td>Let´s Cook Together                                                                                                </td></tr>
+<tr height="18"><td>Fri	</td><td>12	</td><td>13:30	</td><td>LetÂ´s Cook Together                                                                                                </td></tr>
 <tr height="18"><td>Sat	</td><td>13	</td><td>20:00	</td><td>Rosenlichterfest                                                                                                   </td></tr>
 <tr height="18"><td>Sun	</td><td>14	</td><td>09:00	</td><td>Dragon Boat Race                                                                                                   </td></tr>
 <tr height="18"><td>Mon	</td><td>15	</td><td>19:30	</td><td>Salsakurs					                                                                                        </td></tr>
-<tr height="18"><td>Fri	</td><td>19	</td><td>13:30	</td><td>Let´s Cook Together	                                                                                            </td></tr>
+<tr height="18"><td>Fri	</td><td>19	</td><td>13:30	</td><td>LetÂ´s Cook Together	                                                                                            </td></tr>
 <tr height="18"><td>Sat	</td><td>20	</td><td>		</td><td>Day Trip to Bad    Nauheim	                                                                                         </td></tr>
 <tr height="18"><td>Son	</td><td>21	</td><td>17:00	</td><td>BBQ Party                                                                                                           </td></tr>
 <tr height="18"><td>Mon	</td><td>22	</td><td>19:30	</td><td>Salsakurs				                                                                                             </td></tr>
 <tr height="18"><td>Wed	</td><td>24	</td><td>20:00	</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>			 			</td></tr>
-<tr height="18"><td>Fri	</td><td>26	</td><td>13:30	</td><td>Let´s Cook Together                                                                                                 </td></tr>
+<tr height="18"><td>Fri	</td><td>26	</td><td>13:30	</td><td>LetÂ´s Cook Together                                                                                                 </td></tr>
 <tr height="18"><td>Sat	</td><td>27	</td><td>10:00	</td><td>Bike Trip to Rheingau	                                                                                             </td></tr>
 <tr height="18"><td>Sun	</td><td>28	</td><td>15:00	</td><td>Charity Event                                                                                                       </td></tr>
 <tr height="18"><td>Mon	</td><td>29	</td><td>19:30	</td><td>Salsakurs                                                                                                           </td></tr>
@@ -777,7 +777,7 @@ language and get a real sense of life in Germany.</p>
 
 <tr height="18"><td>Wed  </td><td>6  </td><td>20:00 </td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>	    </td></tr>
 <tr height="18"><td>Fri  </td><td>8  </td><td>13:15 </td><td>Spanish Cooking                                                                                                </td></tr>
-<tr height="18"><td>Sat  </td><td>9  </td><td>12:00 </td><td>Day Trip to Rüdesheim                                                                                          </td></tr>
+<tr height="18"><td>Sat  </td><td>9  </td><td>12:00 </td><td>Day Trip to RÃ¼desheim                                                                                          </td></tr>
 <tr height="18"><td>Mon  </td><td>11 </td><td>19:30 </td><td>Salsakurs                                                                                                      </td></tr>
 <tr height="18"><td>Wed  </td><td>13 </td><td>20:00 </td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>	     </td></tr>
 <tr height="18"><td>Mon  </td><td>18 </td><td>19:30 </td><td>Salsakurs                                                                                                      </td></tr>
@@ -801,12 +801,12 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Thur</td><td>2	</td><td>13:30	</td><td>Dippemess                                                                                         			     </td></tr> 
 <tr height="18"><td>Tue	</td><td>7	</td><td>19:30	</td><td>A-viva Concert & Dinner                                                                           				 </td></tr> 
 <tr height="18"><td>Wed	</td><td>8	</td><td>20:00	</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>        </td></tr>
-<tr height="18"><td>Fri	</td><td>10	</td><td>13:30	</td><td>Let´s Cook Together                                                                               				 </td></tr> 
+<tr height="18"><td>Fri	</td><td>10	</td><td>13:30	</td><td>LetÂ´s Cook Together                                                                               				 </td></tr> 
 <tr height="18"><td>Sat	</td><td>11	</td><td>11:00	</td><td>Trip to Mainz                                                                                     				 </td></tr> 
 <tr height="18"><td>Mon	</td><td>13	</td><td>19:30	</td><td>Salsakurs                                                                                         				 </td></tr> 
 <tr height="18"><td>Tue	</td><td>14	</td><td>14:00	</td><td>Kinotag                                                                                           				 </td></tr> 
 <tr height="18"><td>Thur</td><td>16	</td><td>14:00	</td><td>Dialogmuseum                                                                                    		         </td></tr> 
-<tr height="18"><td>Fri	</td><td>17	</td><td>13:30	</td><td>Let´s Cook Together                                                                               				 </td></tr> 
+<tr height="18"><td>Fri	</td><td>17	</td><td>13:30	</td><td>LetÂ´s Cook Together                                                                               				 </td></tr> 
 <tr height="18"><td>Sun	</td><td>19	</td><td>18:00	</td><td>Schauspielhaus der Physiker                                                                       				 </td></tr> 
 <tr height="18"><td>Mon	</td><td>20	</td><td>19:30	</td><td>Salsakurs                                                                                         				 </td></tr> 
 <tr height="18"><td>Wed	</td><td>22	</td><td>20:00	</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>        </td></tr>
@@ -833,13 +833,13 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Wed	</td><td>11	</td><td>20:00	</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>        </td></tr>
 <tr height="18"><td>Mon	</td><td>16	</td><td>19:30	</td><td>Salsa Course                                                                                                    </td></tr>
 <tr height="18"><td>Wed	</td><td>18	</td><td>20:00	</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>        </td></tr>
-<tr height="18"><td>Thur</td><td>19	</td><td>15:00	</td><td>Deutsche Börse                                                                                                  </td></tr>
+<tr height="18"><td>Thur</td><td>19	</td><td>15:00	</td><td>Deutsche BÃ¶rse                                                                                                  </td></tr>
 <tr height="18"><td>Fri	</td><td>20	</td><td>13:30	</td><td>Cooking with Claus                                                                                              </td></tr>
 <tr height="18"><td>Sat	</td><td>21	</td><td>11:00	</td><td>Day Trip to Mainz                                                                                               </td></tr>
 <tr height="18"><td>Mon	</td><td>23	</td><td>19:30	</td><td>Salsa Course                                                                                                    </td></tr>
 <tr height="18"><td>Wed	</td><td>25	</td><td>20:00	</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>        </td></tr>
 <tr height="18"><td>Thur</td><td>26	</td><td>15:00	</td><td>Dialogmuseum                                                                                                    </td></tr>
-<tr height="18"><td>Sat	</td><td>28	</td><td>12:00	</td><td>Trip to Düsseldorf                                                                                              </td></tr>
+<tr height="18"><td>Sat	</td><td>28	</td><td>12:00	</td><td>Trip to DÃ¼sseldorf                                                                                              </td></tr>
 <tr height="18"><td>Mon	</td><td>30	</td><td>19:30	</td><td>Salsa Course                                                                                                    </td></tr>
 </tbody>                                                                                                        
  </table>     
@@ -853,7 +853,7 @@ language and get a real sense of life in Germany.</p>
 <table class="aktivtable" border="1">
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
 
-<tr height="18"><td>Tue	</td><td>3	</td><td>13:30	</td><td>Deutsche Börse                                                                                                  </td></tr>
+<tr height="18"><td>Tue	</td><td>3	</td><td>13:30	</td><td>Deutsche BÃ¶rse                                                                                                  </td></tr>
 <tr height="18"><td>Fri	</td><td>6	</td><td>15:00	</td><td>Ballett Show			                                                                                         </td></tr>
 <tr height="18"><td>Sat	</td><td>7	</td><td>19:30	</td><td>Christmas Party                                                                                                 </td></tr>
 <tr height="18"><td>Tue	</td><td>10	</td><td>14:00	</td><td>Dialogmuseum                                                                                                    </td></tr>
@@ -878,7 +878,7 @@ language and get a real sense of life in Germany.</p>
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
 
 <tr height="18"><td> Fri	</td><td> 9		</td><td> 13:50	</td><td> Lunch on Campus                                                                                            </td></tr>
-<tr height="18"><td> Sun	</td><td> 11	</td><td> 18:00	</td><td> New year´s conzert Alte Oper                                                                               </td></tr>
+<tr height="18"><td> Sun	</td><td> 11	</td><td> 18:00	</td><td> New yearÂ´s conzert Alte Oper                                                                               </td></tr>
 <tr height="18"><td> Wed	</td><td> 14	</td><td> 20:00	</td><td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>   </td></tr>
 <tr height="18"><td> Fri	</td><td> 16	</td><td> 15:00	</td><td> Ice Scating		                                                                                         </td></tr>
 <tr height="18"><td> Sat	</td><td> 17	</td><td> 13:00	</td><td> Day Trip to Marburg                                                                                        </td></tr>
@@ -944,7 +944,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Wed </td><td>  1</td><td> 19:00 </td><td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>     </td></tr>
 <tr height="18"><td>Sat </td><td>  4</td><td> 13:00 </td><td> Hiking in Rheingau                                                                                          </td></tr> 
 <tr height="18"><td>Wed </td><td>  8</td><td> 19:00 </td><td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>     </td></tr>
-<tr height="18"><td>Sat </td><td> 11</td><td> 10:00 </td><td> Trip to Düsseldorf & Holland                                                                                </td></tr> 
+<tr height="18"><td>Sat </td><td> 11</td><td> 10:00 </td><td> Trip to DÃ¼sseldorf & Holland                                                                                </td></tr> 
 <tr height="18"><td>Wed </td><td> 15</td><td> 18.30 </td><td> Spanish Movie Night                                                                                         </td></tr> 
 <tr height="18"><td>Thu </td><td> 16</td><td> 18:00 </td><td> English Comedy                                                                                              </td></tr> 
 <tr height="18"><td>Sun </td><td> 19</td><td> 12:00 </td><td> Bike Trip                                                                                                   </td></tr> 
@@ -967,18 +967,18 @@ language and get a real sense of life in Germany.</p>
 
 <tr height="18"><td>Mon </td><td>1 </td><td>	13:00</td><td> Lunch on Campus                      </td></tr>
 <tr height="18"><td>Wed </td><td>3 </td><td>	17:15</td><td> Film Night Amma & Appa               </td></tr>
-<tr height="18"><td>Sat </td><td>6 </td><td>  	13:30</td><td> Stadtspaziergang: Die neue Altstadt – Frankfurts großes  Bauprojekt</td></tr>
+<tr height="18"><td>Sat </td><td>6 </td><td>  	13:30</td><td> Stadtspaziergang: Die neue Altstadt Â– Frankfurts groÃŸes  Bauprojekt</td></tr>
 <tr height="18"><td>Sun </td><td>7 </td><td> 	10:30</td><td> Trip to Rheingau: Katz Maus Hike     </td></tr>
 <tr height="18"><td>Mon </td><td>8 </td><td>	14:30</td><td> Concert in Palmengarten              </td></tr>
 <tr height="18"><td>Fri </td><td>12</td><td>  	13:30</td><td> Geldmuseum                      		</td></tr>
 <tr height="18"><td>Sat </td><td>13</td><td> 	14:00</td><td> Rhein im Flammen                      </td></tr>
-<tr height="18"><td>Sun </td><td>14</td><td> 	12:30</td><td> Day Trip to Höchst with Free Tours    </td></tr>
+<tr height="18"><td>Sun </td><td>14</td><td> 	12:30</td><td> Day Trip to HÃ¶chst with Free Tours    </td></tr>
 <tr height="18"><td>Thu </td><td>18</td><td> 	18:00</td><td> English Comedy                      </td></tr>
 <tr height="18"><td>Fri </td><td>19</td><td>  	14:00</td><td> Charity Baking                      </td></tr>
-<tr height="18"><td>Sat </td><td>20</td><td> 	14:00</td><td> Rotlintstraßenfest                   </td></tr>
+<tr height="18"><td>Sat </td><td>20</td><td> 	14:00</td><td> RotlintstraÃŸenfest                   </td></tr>
 <tr height="18"><td>Mon </td><td>22</td><td>	13:00</td><td> Lunch on Campus                      </td></tr>
 <tr height="18"><td>Sat </td><td>27</td><td> 	12:00</td><td> Day trip to Seligenstadt & Apple Picking  </td></tr>
-<tr height="18"><td>Sun </td><td>28</td><td> 	13:30</td><td> Führung: Stadt am Fluss      </td></tr>
+<tr height="18"><td>Sun </td><td>28</td><td> 	13:30</td><td> FÃ¼hrung: Stadt am Fluss      </td></tr>
 <tr height="18"><td>Tue </td><td>30</td><td>  	20:00</td><td> Tibetan Dinner           </td></tr>
 </tbody>                                                                                                        
  </table>                                                                                                          
@@ -996,7 +996,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Mon </td>   <td> 4</td>   <td> 13:30</td>   <td> Lunch in the Park                              </td></tr>
 <tr height="18"><td>Wed </td>   <td> 6</td>   <td> 13:30</td>   <td> Tour of Goethehaus                             </td></tr>
 <tr height="18"><td>Thu </td>   <td> 7</td>   <td> 15:30</td>   <td> Stoffel                                        </td></tr>
-<tr height="18"><td>Sat </td>   <td> 9</td>   <td> 12:00</td>   <td> Day Trip to Rüdesheim                          </td></tr>
+<tr height="18"><td>Sat </td>   <td> 9</td>   <td> 12:00</td>   <td> Day Trip to RÃ¼desheim                          </td></tr>
 <tr height="18"><td>Sun </td>   <td>10</td>   <td> 11:30</td>   <td> Bike Trip                                      </td></tr>
 <tr height="18"><td>Tue </td>   <td>12</td>   <td> 13:30</td>   <td> Apfelweinfest                                  </td></tr>
 <tr height="18"><td>Thu </td>   <td>14</td>   <td> 13.30</td>   <td> Wertheim Oultet Village Shopping               </td></tr>
@@ -1025,7 +1025,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Thu</td>   <td>	3 </td>   <td>	13.30</td>   <td> 	Geldmuseum                                </td></tr>
 <tr height="18"><td>Sat</td>   <td>	5 </td>   <td>	14.00</td>   <td> 	Cherry Picking                            </td></tr>
 <tr height="18"><td>Sun</td>   <td>	6 </td>   <td>	15.00</td>   <td> 	Free Yoga                                 </td></tr>
-<tr height="18"><td>Sun</td>   <td>	6 </td>   <td>	17.00</td>   <td> 	Trip to Höchster Castle                   </td></tr>
+<tr height="18"><td>Sun</td>   <td>	6 </td>   <td>	17.00</td>   <td> 	Trip to HÃ¶chster Castle                   </td></tr>
 <tr height="18"><td>Tue</td>   <td>	8 </td>   <td>	13.30</td>   <td> 	Lunch on Campus                           </td></tr>
 <tr height="18"><td>Wed</td>   <td>	9 </td>   <td>	13:30</td>   <td> 	Frankfurt Zoo                             </td></tr>
 <tr height="18"><td>Thu</td>   <td>	10</td>   <td> 	13.30</td>   <td> 	Goethe Haus                               </td></tr>
@@ -1064,10 +1064,10 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sat</td>   <td> 14</td>   <td> 17.00</td>   <td> Strawberry Picking       						 </td></tr> 
 <tr height="18"><td>Sun</td>   <td> 15</td>   <td>  9.00</td>   <td> Dragon Boat Race        					</td></tr>
 <tr height="18"><td>Sat</td>   <td> 21</td>   <td> 12.00</td>   <td> Day Trip to Wetzlar        					</td></tr>
-<tr height="18"><td>Sun</td>   <td> 22</td>   <td> 12.00</td>   <td> Day Trip to Rüdesheim							</td></tr>
+<tr height="18"><td>Sun</td>   <td> 22</td>   <td> 12.00</td>   <td> Day Trip to RÃ¼desheim							</td></tr>
 <tr height="18"><td>Tue</td>   <td> 24</td>   <td> 18.00</td>   <td> Kino Tag									</td></tr>
 <tr height="18"><td>Fri</td>   <td> 27</td>   <td> 13.30</td>   <td> Lunch on Campus							</td></tr>
-<tr height="18"><td>Sun</td>   <td> 29</td>   <td> 12.00</td>   <td> Höchsterfest								</td></tr>
+<tr height="18"><td>Sun</td>   <td> 29</td>   <td> 12.00</td>   <td> HÃ¶chsterfest								</td></tr>
   </tbody>                                              
 </table>
 <br>
@@ -1080,8 +1080,8 @@ language and get a real sense of life in Germany.</p>
 <table class="aktivtable" border="1">
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
  
-<tr height="18"><td>Fri</td>   <td>  9</td>   <td> 20:00</td>   <td> Let’s Make Sushi																				</td></tr>
-<tr height="18"><td>Sat</td>   <td> 10</td>   <td> 11:30</td>   <td> Bike Trip to Schierstein, Eltville, and Rüdesheim                                              </td></tr>
+<tr height="18"><td>Fri</td>   <td>  9</td>   <td> 20:00</td>   <td> LetÂ’s Make Sushi																				</td></tr>
+<tr height="18"><td>Sat</td>   <td> 10</td>   <td> 11:30</td>   <td> Bike Trip to Schierstein, Eltville, and RÃ¼desheim                                              </td></tr>
 <tr height="18"><td>Mon</td>   <td> 12</td>   <td> 18:30</td>   <td> Frankfurt Historical Lecture                                                                   </td></tr>
 <tr height="18"><td>Wed</td>   <td> 14</td>   <td> 13:30</td>   <td> Lunch on Campus        																		</td></tr>
 <tr height="18"><td>Fri</td>   <td> 16</td>   <td> 16:00</td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton</a>        </td></tr>
@@ -1114,7 +1114,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Thr</td>   <td> 17</td>   <td> 18:30</td>   <td> English Improv Theatre                         </td></tr>
 <tr height="18"><td>Wed</td>   <td> 23</td>   <td> 13:30</td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton, Basketball & Table Tennis </a>          </td></tr>
 <tr height="18"><td>Fri</td>   <td> 25</td>   <td> 14:00</td>   <td> Tea Ceremony                                   </td></tr>
-<tr height="18"><td>Sat</td>   <td> 26</td>   <td> 14:00</td>   <td> Day Trip to Höchst                             </td></tr>
+<tr height="18"><td>Sat</td>   <td> 26</td>   <td> 14:00</td>   <td> Day Trip to HÃ¶chst                             </td></tr>
 <tr height="18"><td>Wed</td>   <td> 30</td>   <td> 13:30</td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton, Basketball & Table Tennis </a>          </td></tr>
   </tbody>                                              
 </table>
@@ -1128,7 +1128,7 @@ language and get a real sense of life in Germany.</p>
 <table class="aktivtable" border="1">
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
  
-<tr height="18"><td>Sun</td>   <td> 2 </td>   <td>13:00 </td>   <td>Day Trip to Höchst                     </td></tr>  
+<tr height="18"><td>Sun</td>   <td> 2 </td>   <td>13:00 </td>   <td>Day Trip to HÃ¶chst                     </td></tr>  
 <tr height="18"><td>Wed</td>   <td> 5 </td>   <td>13:30 </td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton,  Basketball  & Table Tennis</a> </td></tr> 
 <tr height="18"><td>Thu</td>   <td> 6 </td>   <td>19:00 </td>   <td>Jazz Concert @ Cafe Kant               </td></tr> 
 <tr height="18"><td>Fri</td>   <td> 7 </td>   <td>15:45 </td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton </a>                              </td></tr> 
@@ -1161,11 +1161,11 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sat</td>   <td> 8 </td>   <td>12:00 </td>   <td>Day Trip to Marburg</td></tr> 
 <tr height="18"><td>Sun</td>   <td> 9 </td>   <td>11:45 </td>   <td>Matinee Movie, "IO SONO LI"</td></tr> 
 <tr height="18"><td>Wed</td>   <td> 12</td>   <td>13:30 </td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton</a></td></tr>
-<tr height="18"><td>Sat</td>   <td> 15</td>   <td>14:00 </td>   <td>Day Trip to Königstein</td></tr> 
+<tr height="18"><td>Sat</td>   <td> 15</td>   <td>14:00 </td>   <td>Day Trip to KÃ¶nigstein</td></tr> 
 <tr height="18"><td>Sun</td>   <td> 16</td>   <td>11:00 </td>   <td>Liebieghaus Highlight Tour</td></tr> 
 <tr height="18"><td>Wed</td>   <td> 19</td>   <td>13:30 </td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton</a></td></tr>
 <tr height="18"><td>Thu</td>   <td> 20</td>   <td>19:00 </td>   <td>English Improv Theatre</td></tr> 
-<tr height="18"><td>Sat</td>   <td> 22</td>   <td>11:00 </td>   <td>Day Trip to Würzburg + Wertheim</td></tr> 
+<tr height="18"><td>Sat</td>   <td> 22</td>   <td>11:00 </td>   <td>Day Trip to WÃ¼rzburg + Wertheim</td></tr> 
 <tr height="18"><td>Wed</td>   <td> 26</td>   <td>13:30 </td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton</a></td></tr>
 <tr height="18"><td>Fri</td>   <td> 27</td>   <td>13:30 </td>   <td>Sushi Party</td></tr>                                                        
   </tbody>                                              
@@ -1181,7 +1181,7 @@ language and get a real sense of life in Germany.</p>
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
  
 <tr height="18"><td>Tue</td>   <td>  7</td>   <td> 13:30</td>   <td>Free Yoga Class</td></tr>
-<tr height="18"><td>Wed</td>   <td>  8</td>   <td> 19:00</td>   <td>Concert at Café Kante</td></tr>
+<tr height="18"><td>Wed</td>   <td>  8</td>   <td> 19:00</td>   <td>Concert at CafÃ© Kante</td></tr>
 <tr height="18"><td>Fri</td>   <td> 10</td>   <td> 13:30</td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton</a></td></tr>
 <tr height="18"><td>Sat</td>   <td> 11</td>   <td> 10:00</td>   <td>Frankfurt on Foot Walking Tour</td></tr>
 <tr height="18"><td>Tue</td>   <td> 14</td>   <td> 16:30</td>   <td>Free Karate Class</td></tr>
@@ -1191,10 +1191,10 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Tue</td>   <td> 21</td>   <td> 18:00</td>   <td>Kino Tag</td></tr>
 <tr height="18"><td>Wed</td>   <td> 22</td>   <td> 13:30</td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton</a></td></tr>
 <tr height="18"><td>Fri</td>   <td> 24</td>   <td> 13:30</td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton</a></td></tr>
-<tr height="18"><td>Sun</td>   <td> 26</td>   <td> 16:00</td>   <td>Städel Museum Tour</td></tr>
+<tr height="18"><td>Sun</td>   <td> 26</td>   <td> 16:00</td>   <td>StÃ¤del Museum Tour</td></tr>
 <tr height="18"><td>Wed</td>   <td> 29</td>   <td> 13:30</td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton</a></td></tr>
 <tr height="18"><td>Fri</td>   <td> 31</td>   <td> 13:30</td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton</a></td></tr>
-<tr height="18"><td>Fri</td>   <td> 31</td>   <td> 19:00</td>   <td>Chinese New Year´s Party </td></tr>                                                       
+<tr height="18"><td>Fri</td>   <td> 31</td>   <td> 19:00</td>   <td>Chinese New YearÂ´s Party </td></tr>                                                       
   </tbody>                                              
 </table>
 <br>
@@ -1229,7 +1229,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sat </td>   <td>2 </td>   <td>15:30  </td>   <td> Nordend Walking Tour                                                                                                      </td></tr>
 <tr height="18"><td>Tue </td>   <td>5 </td>   <td>13:30  </td>   <td> Lunch on Campus                                                                                                           </td></tr>
 <tr height="18"><td>Fri </td>   <td>8 </td>   <td>13:30  </td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a>              </td></tr>
-<tr height="18"><td>Sat </td>   <td>9 </td>   <td>14:30  </td>   <td> Guided Tour of Königstein                                                                                                 </td></tr>
+<tr height="18"><td>Sat </td>   <td>9 </td>   <td>14:30  </td>   <td> Guided Tour of KÃ¶nigstein                                                                                                 </td></tr>
 <tr height="18"><td>Wed </td>   <td>13</td>   <td>15:30  </td>   <td> Frankfurt Tour                                                                                                            </td></tr>
 <tr height="18"><td>Fri </td>   <td>15</td>   <td>13:30  </td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a>              </td></tr>
 <tr height="18"><td>Sat </td>   <td>16</td>   <td>12:00  </td>   <td> Day Trip to Wertheim                                                                                                      </td></tr>
@@ -1260,7 +1260,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Mon  </td>   <td> 7</td>   <td>18:30  </td>   <td> Westend Tour                                                                                                </td></tr>
 <tr height="18"><td>Wed  </td>   <td> 9</td>   <td>13:30  </td>   <td> Lunch on Campus                                                                                             </td></tr>
 <tr height="18"><td>Fri  </td>   <td>11</td>   <td>13:30  </td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a></td></tr>
-<tr height="18"><td>Sat  </td>   <td>12</td>   <td>20:00  </td>   <td> Soirée Française                                                                                            </td></tr>
+<tr height="18"><td>Sat  </td>   <td>12</td>   <td>20:00  </td>   <td> SoirÃ©e FranÃ§aise                                                                                            </td></tr>
 <tr height="18"><td>Sun  </td>   <td>13</td>   <td>14:00  </td>   <td> Michelstadt Tour                                                                                             </td></tr>
 <tr height="18"><td>Wed  </td>   <td>16</td>   <td>18:30  </td>   <td> Frankfurt Tour                                                                                               </td></tr>
 <tr height="18"><td>Thur  </td>   <td>17</td>   <td>13:30  </td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a> </td></tr>
@@ -1288,7 +1288,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Wed </td>   <td> 4</td>   <td> 13:30 </td>   <td> Day Trip to Marburg                                                                                                    </td></tr>
 <tr height="18"><td>Fri </td>   <td> 6</td>   <td> 13:30 </td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a>         </td></tr>
 <tr height="18"><td>Sat </td>   <td> 7</td>   <td> 12:00 </td>   <td> Trip to Wertheim                                                                                                            </td></tr>
-<tr height="18"><td>Mon </td>   <td> 9</td>   <td> 15:00 </td>   <td> Trip to Höchst                                                                                                              </td></tr>
+<tr height="18"><td>Mon </td>   <td> 9</td>   <td> 15:00 </td>   <td> Trip to HÃ¶chst                                                                                                              </td></tr>
 <tr height="18"><td>Wed </td>   <td>11</td>   <td> 13:30 </td>   <td> Lunch on Campus                                                                                                     </td></tr>
 <tr height="18"><td>Fri </td>   <td>13</td>   <td> 13:30 </td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a>         </td></tr>
 <tr height="18"><td>Sat </td>   <td>14</td>   <td> 12:00 </td>   <td> Trip to Rheingau                                                                                                     </td></tr>
@@ -1299,7 +1299,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Mon </td>   <td>23</td>   <td> 13:00 </td>   <td> Lunch on Campus                                                                                                        </td></tr>
 <tr height="18"><td>Wed </td>   <td>25</td>   <td> 16:00 </td>   <td> US Info Night                                                                                                        </td></tr>
 <tr height="18"><td>Fri </td>   <td>27</td>   <td> 13:30 </td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a>         </td></tr>
-<tr height="18"><td>Sun </td>   <td>29</td>   <td> 12:00 </td>   <td> Trip to Rüdesheim                                                                                                    </td></tr>
+<tr height="18"><td>Sun </td>   <td>29</td>   <td> 12:00 </td>   <td> Trip to RÃ¼desheim                                                                                                    </td></tr>
   </tbody>
 </table>
 <br>
@@ -1357,7 +1357,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Wed  </td>   <td> 24 </td>   <td>   14:00</td>   <td> A-viva Kinotag                                                                                                           </td></tr>
 <tr height="18"><td>Fri  </td>   <td> 26 </td>   <td>   13:30</td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a>         </td></tr>
 <tr height="18"><td>Sat  </td>   <td> 27 </td>   <td>   13:30</td>   <td> Feldberg Hike                                                                                                             </td></tr>
-<tr height="18"><td>Sun  </td>   <td> 28 </td>   <td>   10:00</td>   <td> Day Trip to Würzburg                                                                                                     </td></tr>
+<tr height="18"><td>Sun  </td>   <td> 28 </td>   <td>   10:00</td>   <td> Day Trip to WÃ¼rzburg                                                                                                     </td></tr>
   </tbody>          
 </table>
 <br>
@@ -1378,8 +1378,8 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sat </td>   <td> 8  </td>   <td>	19:30</td>   <td> English Theatre "Brighton Beach Memoirs"                                                                       </td></tr>
 <tr height="18"><td>Sun </td>   <td> 9  </td>   <td>	13:00</td>   <td> Day Trip                                                                                                       </td></tr>
 <tr height="18"><td>Thu </td>   <td> 13 </td>   <td>	19:30</td>   <td> Dragonboat Training                                                                                            </td></tr>
-<tr height="18"><td>Fri </td>   <td> 14 </td>   <td>	     </td>   <td> Soirée Française / French Party                                                                                </td></tr>
-<tr height="18"><td>Sat </td>   <td> 15 </td>   <td>	13:00</td>   <td> Kräuterwanderung                                                                                               </td></tr>
+<tr height="18"><td>Fri </td>   <td> 14 </td>   <td>	     </td>   <td> SoirÃ©e FranÃ§aise / French Party                                                                                </td></tr>
+<tr height="18"><td>Sat </td>   <td> 15 </td>   <td>	13:00</td>   <td> KrÃ¤uterwanderung                                                                                               </td></tr>
 <tr height="18"><td>Sun </td>   <td> 16 </td>   <td>	13:00</td>   <td> Hiking                                                                                                         </td></tr>
 <tr height="18"><td>Tue </td>   <td> 18 </td>   <td>    20:00</td>   <td> Dragonboat Training                                                                                            </td></tr>
 <tr height="18"><td>Fri </td>   <td> 21 </td>   <td>    15:00</td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a>   </td></tr>
@@ -1423,7 +1423,7 @@ language and get a real sense of life in Germany.</p>
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
  
 <tr height="18"><td>Mon </td>   <td> 1  </td>   <td>	     </td>   <td> Easter Holiday    </td></tr>
-<tr height="18"><td>Fri </td>   <td> 5  </td>   <td>	13:30</td>   <td> Let´s Cook Together </td></tr>
+<tr height="18"><td>Fri </td>   <td> 5  </td>   <td>	13:30</td>   <td> LetÂ´s Cook Together </td></tr>
 <tr height="18"><td>Sat </td>   <td> 6  </td>   <td>	10:00</td>   <td> Day Trip to Limburg & Bad Camberg </td></tr>
 <tr height="18"><td>Wed </td>   <td> 10 </td>   <td>	14:00</td>   <td> A-viva Kinotag </td></tr>
 <tr height="18"><td>Fri </td>   <td> 12 </td>   <td>	15:00</td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a>     </td></tr>
@@ -1448,7 +1448,7 @@ language and get a real sense of life in Germany.</p>
 <table class="aktivtable" border="1">
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
  
-<tr height="18"><td>Fri </td>   <td> 1  </td>   <td>	13:00</td>   <td> Let´s Cook Together       </td></tr>
+<tr height="18"><td>Fri </td>   <td> 1  </td>   <td>	13:00</td>   <td> LetÂ´s Cook Together       </td></tr>
 <tr height="18"><td>Sun </td>   <td> 3  </td>   <td>	12:15</td>   <td> Hiking Trip       </td></tr>
 <tr height="18"><td>Mon </td>   <td> 4  </td>   <td>	14:00</td>   <td> Laser Tag        </td></tr>
 <tr height="18"><td>Wed </td>   <td> 6  </td>   <td>	14:00</td>   <td> A-viva Kinotag   </td></tr>
@@ -1473,12 +1473,12 @@ language and get a real sense of life in Germany.</p>
 <table class="aktivtable" border="1">
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
  
-<tr height="18"><td>Fri </td>   <td> 1  </td>   <td>	13:00</td>   <td>Let´s Cook Together            </td></tr>
-<tr height="18"><td>Sat </td>   <td> 2  </td>   <td>	20:00</td>   <td>Soirée Crêpes                  </td></tr>
+<tr height="18"><td>Fri </td>   <td> 1  </td>   <td>	13:00</td>   <td>LetÂ´s Cook Together            </td></tr>
+<tr height="18"><td>Sat </td>   <td> 2  </td>   <td>	20:00</td>   <td>SoirÃ©e CrÃªpes                  </td></tr>
 <tr height="18"><td>Sun </td>   <td> 3  </td>   <td>	12:15</td>   <td>Hiking Trip                     </td></tr>
 <tr height="18"><td>Wed </td>   <td> 6  </td>   <td>	14:00</td>   <td>Kino Tag                   </td></tr>
 <tr height="18"><td>Fri </td>   <td> 8  </td>   <td>	15:00</td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Sports Day </a>     </td></tr>
-<tr height="18"><td>Sat </td>   <td> 9  </td>   <td>	11:00</td>   <td>Köln Carneval                    </td></tr>
+<tr height="18"><td>Sat </td>   <td> 9  </td>   <td>	11:00</td>   <td>KÃ¶ln Carneval                    </td></tr>
 <tr height="18"><td>Tue </td>   <td> 12 </td>   <td>	13:30</td>   <td>Michis Schokoatelier            </td></tr>
 <tr height="18"><td>Fri </td>   <td> 15 </td>   <td>	15:00</td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Sports Day </a></td></tr>
 <tr height="18"><td>Sat </td>   <td> 16 </td>   <td>	10:00</td>   <td>Day Trip to Seligenstadt          </td></tr>
@@ -1535,7 +1535,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Fri </td>   <td> 7  </td>   <td>	21:00</td>   <td>Christmas Party  </td></tr>
 <tr height="18"><td>Sun </td>   <td> 9  </td>   <td>	11:00</td>   <td>Michelstadt + Erbach Trip        </td></tr>
 <tr height="18"><td>Fri </td>   <td> 14 </td>   <td>	13:30</td>   <td>Cafe 60318     </td></tr>
-<tr height="18"><td>Sat </td>   <td> 15 </td>   <td>	11:00</td>   <td>Nürnberg Trip </td></tr>
+<tr height="18"><td>Sat </td>   <td> 15 </td>   <td>	11:00</td>   <td>NÃ¼rnberg Trip </td></tr>
 <tr height="18"><td>Mon </td>   <td> 17 </td>   <td>	     </td>   <td>Christmas Vacation through January 6     </td></tr>
   </tbody>          
 </table>
@@ -1552,17 +1552,17 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sat  </td>   <td>  3	</td>   <td>	12:00 </td>   <td>Bad Camberg Trip                                </td></tr>
 <tr height="18"><td>Mon  </td>   <td>  5	</td>   <td>	13:30 </td>   <td>Lunch on Campus                                 </td></tr>
 <tr height="18"><td>Tue  </td>   <td>  6	</td>   <td>	18:00 </td>   <td>Movie Night "Agent Ranjid rettet die Welt"      </td></tr>
-<tr height="18"><td>Fri  </td>   <td>  9	</td>   <td>	13:30 </td>   <td>Let´s Cook Together                             </td></tr>
+<tr height="18"><td>Fri  </td>   <td>  9	</td>   <td>	13:30 </td>   <td>LetÂ´s Cook Together                             </td></tr>
 <tr height="18"><td>Sat  </td>   <td> 10	</td>   <td>	10:00 </td>   <td>Limburg Trip                                          </td></tr>
-<tr height="18"><td>Thur </td>   <td> 15	</td>   <td>	20:00 </td>   <td>Dinner at Lam Frères                               </td></tr>
+<tr height="18"><td>Thur </td>   <td> 15	</td>   <td>	20:00 </td>   <td>Dinner at Lam FrÃ¨res                               </td></tr>
 <tr height="18"><td>Fri  </td>   <td> 16	</td>   <td>	21:00 </td>   <td>Jazz Concert                                   </td></tr>
-<tr height="18"><td>Sat  </td>   <td> 17	</td>   <td>	10:00 </td>   <td>Eltville & Rüdesheim Trip                          </td></tr>
+<tr height="18"><td>Sat  </td>   <td> 17	</td>   <td>	10:00 </td>   <td>Eltville & RÃ¼desheim Trip                          </td></tr>
 <tr height="18"><td>Tue  </td>   <td> 20	</td>   <td>	17:00 </td>   <td>Schirn Museum "Gustave Caillebotte"           </td></tr>
 <tr height="18"><td>Wed  </td>   <td> 21	</td>   <td>	13:30 </td>   <td>Cafe 60316                                      </td></tr>
 <tr height="18"><td>Fri  </td>   <td> 23	</td>   <td>	13:30 </td>   <td>Christmas Market                                </td></tr>
 <tr height="18"><td>Sat  </td>   <td> 24	</td>   <td>	10:00 </td>   <td>Wertheim Trip                                             </td></tr>
 <tr height="18"><td>Wed  </td>   <td> 28	</td>   <td>	13:30 </td>   <td>Phoenix Tea House                                    </td></tr>
-<tr height="18"><td>Fri  </td>   <td> 30	</td>   <td>	13:30 </td>   <td>Let´s Cook Together                                    </td></tr>
+<tr height="18"><td>Fri  </td>   <td> 30	</td>   <td>	13:30 </td>   <td>LetÂ´s Cook Together                                    </td></tr>
   </tbody>          
 </table>
 <br>
@@ -1576,21 +1576,21 @@ language and get a real sense of life in Germany.</p>
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
  
 <tr height="18"><td>Tue  </td>   <td> 2 	</td>   <td>	13:30 </td>   <td>Lunch on Campus                                                                                </td></tr>
-<tr height="18"><td>Wed  </td>   <td> 3 	</td>   <td>	14:00 </td>   <td>Jazz at Römerberg                                                                               </td></tr>
+<tr height="18"><td>Wed  </td>   <td> 3 	</td>   <td>	14:00 </td>   <td>Jazz at RÃ¶merberg                                                                               </td></tr>
 <tr height="18"><td>Fri  </td>   <td> 5 	</td>   <td>	13:30 </td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash</a>      </td></tr>
 <tr height="18"><td>Sat  </td>   <td> 6 	</td>   <td>	10:00 </td>   <td>Trip to Limburg                                                                         </td></tr>
 <tr height="18"><td>Sun  </td>   <td> 7 	</td>   <td>	10:00 </td>   <td>Hiking Trip                                                                            </td></tr>
 <tr height="18"><td>Tue  </td>   <td> 9 	</td>   <td>	13:30 </td>   <td>Lunch at Little India                                                                           </td></tr>
 <tr height="18"><td>Thur </td>   <td> 11	</td>   <td>	13:30 </td>   <td>Buchmesse Frankfurt                                                                        </td></tr>
-<tr height="18"><td>Sat  </td>   <td> 13	</td>   <td>	20:00 </td>   <td>Soirée Française                                                                              </td></tr>
+<tr height="18"><td>Sat  </td>   <td> 13	</td>   <td>	20:00 </td>   <td>SoirÃ©e FranÃ§aise                                                                              </td></tr>
 <tr height="18"><td>Tue  </td>   <td> 16	</td>   <td>	14:00 </td>   <td>Kino Tag                                                                                       </td></tr>
 <tr height="18"><td>Wed  </td>   <td> 17	</td>   <td>	13:30 </td>   <td>Cafe Kante                                                                                     </td></tr>
 <tr height="18"><td>Fri  </td>   <td> 19	</td>   <td>	13:30 </td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash</a>     </td></tr>
 <tr height="18"><td>Sat  </td>   <td> 20	</td>   <td>	10:00 </td>   <td>Trip to Marburg                                                                                </td></tr>
 <tr height="18"><td>Tue  </td>   <td> 23	</td>   <td>	13:30 </td>   <td>Dialogmuseum                                                                                   </td></tr>
 <tr height="18"><td>Thur </td>   <td> 25	</td>   <td>	13:30 </td>   <td>Lunch at Phoenix Tea House                                                                       </td></tr>
-<tr height="18"><td>Sat  </td>   <td> 27	</td>   <td>	13:00 </td>   <td>Domäne Mechtildshausen                                                                         </td></tr>
-<tr height="18"><td>Sun  </td>   <td> 28	</td>   <td>	10:00 </td>   <td>Bike Trip to Eltville and Rüdesheim                                                              </td></tr>
+<tr height="18"><td>Sat  </td>   <td> 27	</td>   <td>	13:00 </td>   <td>DomÃ¤ne Mechtildshausen                                                                         </td></tr>
+<tr height="18"><td>Sun  </td>   <td> 28	</td>   <td>	10:00 </td>   <td>Bike Trip to Eltville and RÃ¼desheim                                                              </td></tr>
   </tbody>          
 </table>
 <br>
@@ -1603,14 +1603,14 @@ language and get a real sense of life in Germany.</p>
 <table class="aktivtable" border="1">
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
  
-<tr height="18"><td>Sat </td>   <td> 1	</td>   <td>	14:00 </td>   <td>Rotlintstraßenfest               </td></tr>
+<tr height="18"><td>Sat </td>   <td> 1	</td>   <td>	14:00 </td>   <td>RotlintstraÃŸenfest               </td></tr>
 <tr height="18"><td>Wed </td>   <td> 5	</td>   <td>	13:30 </td>   <td>Lunch on Campus                  </td></tr>
 <tr height="18"><td>Thur</td>   <td> 6	</td>   <td>	13:30 </td>   <td>Shopping Trip                    </td></tr>
 <tr height="18"><td>Fri </td>   <td> 7	</td>   <td>	13:30 </td>   <td>Volleyball in the park           </td></tr>
 <tr height="18"><td>Sat </td>   <td> 8	</td>   <td>	10:00 </td>   <td>Trip to France                   </td></tr>
 <tr height="18"><td>Sun </td>   <td> 9	</td>   <td>	      </td>   <td>Trip to France                   </td></tr>
 <tr height="18"><td>Tue </td>   <td> 11	</td>   <td>	13:30 </td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash</a>     </td></tr>
-<tr height="18"><td>Wed </td>   <td> 12	</td>   <td>	13:30 </td>   <td>Café Glauburg                    </td></tr>
+<tr height="18"><td>Wed </td>   <td> 12	</td>   <td>	13:30 </td>   <td>CafÃ© Glauburg                    </td></tr>
 <tr height="18"><td>Thur</td>   <td> 13	</td>   <td>	20:00 </td>   <td>Shorts at Moonlight              </td></tr>
 <tr height="18"><td>Fri </td>   <td> 14	</td>   <td>	13:15 </td>   <td>Dippemess                        </td></tr>
 <tr height="18"><td>Sun </td>   <td> 16	</td>   <td>	10:00 </td>   <td>Bike Trip to Seligenstadt        </td></tr>
@@ -1636,11 +1636,11 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Thur</td>   <td>	2</td>   <td>	19:30</td>   <td>Jazz at Palmengarten</td></tr>
 <tr height="18"><td>Sat</td>   <td>	4</td>   <td>	19:00</td>   <td>Mainuferfest	</td></tr>
 <tr height="18"><td>Sun</td>   <td>	5</td>   <td>	10:00</td>   <td>Castle Hopping</td></tr>
-<tr height="18"><td>Tue</td>   <td>	7</td>   <td>	14:00</td>   <td>Ice Café Christina</td></tr>
+<tr height="18"><td>Tue</td>   <td>	7</td>   <td>	14:00</td>   <td>Ice CafÃ© Christina</td></tr>
 <tr height="18"><td>Thur</td>   <td>	9</td>   <td>	14:00</td>   <td>BBQ at A-viva</td></tr>
 <tr height="18"><td>Fri</td>   <td>	10</td>   <td>	18:00</td>   <td>Bernemer Kerb (Bornheim)</td></tr>
 <tr height="18"><td>Sat</td>   <td>	11</td>   <td>	10:00</td>   <td>Day Trip to Marburg</td></tr>
-<tr height="18"><td>Sun</td>   <td>	12</td>   <td>	10:00</td>   <td>Day Trip to Rüdesheim</td></tr>
+<tr height="18"><td>Sun</td>   <td>	12</td>   <td>	10:00</td>   <td>Day Trip to RÃ¼desheim</td></tr>
 <tr height="18"><td>Tue</td>   <td>	14</td>   <td>	13:00</td>   <td>Brunch at Sushimoto</td></tr>
 <tr height="18"><td>Thur</td>   <td>	16</td>   <td>	20:00</td>   <td>Int. Short Film Festival</td></tr>
 <tr height="18"><td>Sat</td>   <td>	18</td>   <td>	10:00</td>   <td>Day Trip to Koblenz</td></tr>
@@ -1668,12 +1668,12 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Fri	</td>   <td>	6</td>   <td>	14:00</td>   <td>Dialogue Musuem</td></tr>
 <tr height="18"><td>Sat	</td>   <td>	7</td>   <td>	17:00</td>   <td>French Gourmet Market & Concert</td></tr>
 <tr height="18"><td>Sun	</td>   <td>	8</td>   <td>	10:00</td>   <td>Bike Trip to Seligenstadt</td></tr>
-<tr height="18"><td>Tue	</td>   <td>	10</td>   <td>	14:00</td>   <td>Ice Café Christina</td></tr>
+<tr height="18"><td>Tue	</td>   <td>	10</td>   <td>	14:00</td>   <td>Ice CafÃ© Christina</td></tr>
 <tr height="18"><td>Wed	</td>   <td>	11</td>   <td>	20:00</td>   <td>Int. Short Film Festival</td></tr>
-<tr height="18"><td>Fri	</td>   <td>	13</td>   <td>	19:00</td>   <td>Dinner at Schöne Aussicht</td></tr>
+<tr height="18"><td>Fri	</td>   <td>	13</td>   <td>	19:00</td>   <td>Dinner at SchÃ¶ne Aussicht</td></tr>
 <tr height="18"><td>Sat	</td>   <td>	14</td>   <td>	10:00</td>   <td>Day Trip to Rothenburg</td></tr>
 <tr height="18"><td>Sun	</td>   <td>	15</td>   <td> 	12:00</td>   <td>Concert at the Park</td></tr>
-<tr height="18"><td>Wed	</td>   <td>	18</td>   <td>	18:00</td>   <td>Cabaret & Concert at Günthersburg Park</td></tr>
+<tr height="18"><td>Wed	</td>   <td>	18</td>   <td>	18:00</td>   <td>Cabaret & Concert at GÃ¼nthersburg Park</td></tr>
 <tr height="18"><td>Fri	</td>   <td>	20</td>   <td>	14:00</td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank"> Sports Day</a></td></tr>
 <tr height="18"><td>Sat	</td>   <td>	21</td>   <td>	10:00</td>   <td>Day Trip to Heidelberg</td></tr>
 <tr height="18"><td>Sun	</td>   <td>	22</td>   <td>	10:00</td>   <td>Day Trip to Closter Hildegard</td></tr>
@@ -1701,13 +1701,13 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sat</td>   <td>  9</td>   <td>    </td>   <td>Trip to Moselle  / Luxembourg</td></tr>
 <tr height="18"><td>Sun</td>   <td>  10</td>   <td>    </td>   <td>Trip to Moselle  / Luxembourg</td></tr>
 <tr height="18"><td>Wed</td>   <td>  13</td>   <td>  13:00</td>   <td> Grill Party</td></tr>
-<tr height="18"><td>Sun</td>   <td>  17</td>   <td>  12:00</td>   <td> Let´s Go Boating</td></tr>
+<tr height="18"><td>Sun</td>   <td>  17</td>   <td>  12:00</td>   <td> LetÂ´s Go Boating</td></tr>
 <tr height="18"><td>Tue</td>   <td>  19</td>   <td>  14:00</td>   <td> Kino Tag</td></tr>
-<tr height="18"><td>Wed</td>   <td>  20</td>   <td>  14:00</td>   <td> Günthersburg Park</td></tr>
+<tr height="18"><td>Wed</td>   <td>  20</td>   <td>  14:00</td>   <td> GÃ¼nthersburg Park</td></tr>
 <tr height="18"><td>Sat</td>   <td>  23</td>   <td>  14:00</td>   <td> International Festival</td></tr>
 <tr height="18"><td>Sun</td>   <td>  24</td>   <td>  10:00</td>   <td> Dragon Boat Competition</td></tr>
 <tr height="18"><td>Wed</td>   <td>  27</td>   <td>  20:00</td>   <td> Rotlintcafe Concert</td></tr>
-<tr height="18"><td>Fri</td>   <td>  29</td>   <td>   20:0</td>   <td>0 Let´s Make Sushi</td></tr>
+<tr height="18"><td>Fri</td>   <td>  29</td>   <td>   20:0</td>   <td>0 LetÂ´s Make Sushi</td></tr>
   </tbody>
 </table>
 <br>
@@ -1721,7 +1721,7 @@ language and get a real sense of life in Germany.</p>
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
       
 <tr height="18"><td>Tue</td>   <td>  1</td>   <td>  18:00</td>   <td> David Garrett Concert</td></tr>
-<tr height="18"><td>Thur</td>   <td>  3</td>   <td>  18:00</td>   <td> "Andy Warhol"  Museum für Moderne Kunst</td></tr>
+<tr height="18"><td>Thur</td>   <td>  3</td>   <td>  18:00</td>   <td> "Andy Warhol"  Museum fÃ¼r Moderne Kunst</td></tr>
 <tr height="18"><td>Sun</td>   <td>  6</td>   <td>  17:00</td>   <td> Indoor Climbing</td></tr>
 <tr height="18"><td>Mon</td>   <td>  7</td>   <td>  19:30</td>   <td> Jazz at the Water Castle</td></tr>
 <tr height="18"><td>Wed</td>   <td>  9</td>   <td>  19:00</td>   <td>  "Edvard Munch"  Schirn Museum</td></tr>
@@ -1750,7 +1750,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sat</td>   <td>  7</td>   <td>     </td>   <td>   Trip to Holland + Belgium</td></tr>
 <tr height="18"><td>Sun</td>   <td>  8</td>   <td>       </td>   <td>    Trip to Holland + Belgium</td></tr>
 <tr height="18"><td>Wed</td>   <td>  11</td>   <td>  20:00</td>   <td> Rotlintcafe Concert</td></tr>
-<tr height="18"><td>Fri</td>   <td>  13</td>   <td>  20:00</td>   <td> Let´s Make Sushi</td></tr>
+<tr height="18"><td>Fri</td>   <td>  13</td>   <td>  20:00</td>   <td> LetÂ´s Make Sushi</td></tr>
 <tr height="18"><td>Sun</td>   <td>  15</td>   <td>  16:00</td>   <td> Indoor Wall Climbing</td></tr>
 <tr height="18"><td>Tue</td>   <td>  17</td>   <td>  20:00</td>   <td> "The Foreigner"  English Theatre</td></tr>
 <tr height="18"><td>Fri</td>   <td>  20</td>   <td>  14:00</td>   <td> Dippemess</td></tr>
@@ -1773,7 +1773,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sat</td>   <td>  3</td>   <td>  9:00</td>   <td>  Day Trip to Luxembourg</td></tr>
 <tr height="18"><td>Sun</td>   <td>  4</td>   <td>  11:00</td>   <td>  Bike Trip to Seligenstadt</td></tr>
 <tr height="18"><td>Tue</td>   <td>  6</td>   <td>  14:00</td>   <td> Phoenix Tea House</td></tr>
-<tr height="18"><td>Thur</td>   <td>  8</td>   <td>  14:00</td>   <td>  "Andy Warhol"  Museum für Moderne Kunst</td></tr>
+<tr height="18"><td>Thur</td>   <td>  8</td>   <td>  14:00</td>   <td>  "Andy Warhol"  Museum fÃ¼r Moderne Kunst</td></tr>
 <tr height="18"><td>Fri</td>   <td>  9</td>   <td>  20:00</td>   <td> South American Party</td></tr>
 <tr height="18"><td>Sun</td>   <td>  11</td>   <td>  19:00</td>   <td> Palmengarten Night Tour</td></tr>
 <tr height="18"><td>Wed</td>   <td>  14</td>   <td>  16:00</td>   <td>  "Edvard Munch"  Schirn Museum</td></tr>
@@ -1796,13 +1796,13 @@ language and get a real sense of life in Germany.</p>
 <table class="aktivtable" border="1">
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
       
-<tr height="18"><td>Thur</td>   <td> 2</td>   <td> 17:00</td>   <td> Körperwelten der Tiere, Senckenberg Naturmuseum</td></tr>
+<tr height="18"><td>Thur</td>   <td> 2</td>   <td> 17:00</td>   <td> KÃ¶rperwelten der Tiere, Senckenberg Naturmuseum</td></tr>
 <tr height="18"><td>Fri</td>   <td> 3</td>   <td> 14:00</td>   <td> Visit of Venos Market</td></tr>
 <tr height="18"><td>Sat</td>   <td> 4</td>   <td> 20:00</td>   <td> French Party</td></tr>
 <tr height="18"><td>Tue</td>   <td> 7</td>   <td>       </td>   <td>Kino Tag</td></tr>
 <tr height="18"><td>Thur</td>   <td> 9</td>   <td> 19:00-20:00</td>   <td> Der Moderne Blick, Schirn Museum</td></tr>
-<tr height="18"><td>Fri</td>   <td> 10</td>   <td> 17:00</td>   <td> Götterdämmerung, Opernhaus</td></tr>
-<tr height="18"><td>Sat</td>   <td> 11</td>   <td> 14:00</td>   <td> Elina’s Kochschule</td></tr>
+<tr height="18"><td>Fri</td>   <td> 10</td>   <td> 17:00</td>   <td> GÃ¶tterdÃ¤mmerung, Opernhaus</td></tr>
+<tr height="18"><td>Sat</td>   <td> 11</td>   <td> 14:00</td>   <td> ElinaÂ’s Kochschule</td></tr>
 <tr height="18"><td>Sun</td>   <td> 12</td>   <td> 10:00</td>   <td> Day Trip to Marburg</td></tr>
 <tr height="18"><td>Mon</td>   <td> 13</td>   <td> 19:30</td>   <td> Jazz Concert, Water Castle</td></tr>
 <tr height="18"><td>Wed</td>   <td> 15</td>   <td> </td>   <td>Dialog im Dunkeln, Dialogmuseeum</td></tr>
@@ -1812,10 +1812,10 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Mon</td>   <td> 20</td>   <td> 14:00</td>   <td> Visit of Kleinmarkthalle</td></tr>
 <tr height="18"><td>Wed</td>   <td> 22</td>   <td> 13:30</td>   <td> Indian Brunch</td></tr>
 <tr height="18"><td>Fri</td>   <td> 24</td>   <td> 14:00</td>   <td> Sports Day, <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank"> Squash/Badminton/Swimming</a></td></tr>
-<tr height="18"><td>Sat</td>   <td> 25</td>   <td> 11:00</td>   <td> Museums Day, Liebieghaus – Sculpturen Sammlung</td></tr>
+<tr height="18"><td>Sat</td>   <td> 25</td>   <td> 11:00</td>   <td> Museums Day, Liebieghaus Â– Sculpturen Sammlung</td></tr>
 <tr height="18"><td>Sun</td>   <td> 26</td>   <td> 10:00</td>   <td> Day Trip to Koblenz</td></tr>
 <tr height="18"><td>Tue</td>   <td> 28</td>   <td> 13:30</td>   <td> Japanese Brunch</td></tr>
-<tr height="18"><td>Wed</td>   <td> 29</td>   <td> 20:00</td>   <td> Jazz Concert, Rotlint Café</td></tr>
+<tr height="18"><td>Wed</td>   <td> 29</td>   <td> 20:00</td>   <td> Jazz Concert, Rotlint CafÃ©</td></tr>
   </tbody>
 </table>
 <br>
@@ -1831,14 +1831,14 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Wed</td>   <td> 11</td>   <td> 17:30</td>   <td> Guided Tour, Geldmuseum der Deutschen Bundesbank </td></tr>
 <tr height="18"><td>Fri</td>    <td>13</td>   <td> 17:00</td>   <td> Ice Skating</td></tr>
 <tr height="18"><td>Tue</td>   <td> 17</td>   <td> </td>        <td> Kino Tag </td></tr>
-<tr height="18"><td>Wed</td>   <td> 18</td>   <td> 20:00</td>   <td> Jazz Concert, Rotlint Café</td></tr>
+<tr height="18"><td>Wed</td>   <td> 18</td>   <td> 20:00</td>   <td> Jazz Concert, Rotlint CafÃ©</td></tr>
 <tr height="18"><td>Fri</td>   <td> 20</td>   <td> 20:00</td>   <td> 'HIM', Comedy drama, The International English Theatre</td></tr>
 <tr height="18"><td>Sat</td>   <td> 21</td>  <td> 12:00</td>   <td>   Turkish Brunch </td></tr>
-<tr height="18"><td>Sun</td>   <td> 22 </td> <td> 11:00</td>   <td>New Year´s Concert, Wasserschloss </td></tr>
-<tr height="18"><td>Wed</td>   <td> 25</td>   <td> 20:00</td>   <td>  Jazz Concert, Rotlint Café</td></tr>
+<tr height="18"><td>Sun</td>   <td> 22 </td> <td> 11:00</td>   <td>New YearÂ´s Concert, Wasserschloss </td></tr>
+<tr height="18"><td>Wed</td>   <td> 25</td>   <td> 20:00</td>   <td>  Jazz Concert, Rotlint CafÃ©</td></tr>
 <tr height="18"><td>Thur</td>  <td> 26</td>   <td> 19:00</td>   <td> Classical Concert, Wasserschloss </td></tr>
 <tr height="18"><td>Fri</td>   <td> 27</td>   <td> 20:00</td>   <td>  Dinner at Grosswand</td></tr>
-<tr height="18"><td>Sat</td>   <td> 28</td>   <td> 12:00</td>   <td>  Elina´s Kochkunst</td></tr>
+<tr height="18"><td>Sat</td>   <td> 28</td>   <td> 12:00</td>   <td>  ElinaÂ´s Kochkunst</td></tr>
 <tr height="18"><td>Sun</td>   <td> 29</td>  <td> 09:00</td>   <td> Day Trip to Trier </td></tr>
   </tbody>
 </table>
@@ -1862,7 +1862,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sun</td>   <td> 11</td>   <td> 16:00</td>   <td>  Advent Concert, VocalRaum</td></tr>
 <tr height="18"><td>Mo</td>    <td> 12</td>   <td> 21:00</td>   <td> Balalaika Jazz Quartet, Balalaika Bar</td></tr>
 <tr height="18"><td>Tue</td>   <td> 13</td>   <td> 17:00</td>   <td>  Kino Tag</td></tr>
-<tr height="18"><td>Wed</td>   <td> 14</td>   <td> 20:00</td>   <td>  Jazz Concert, Rotlint Café</td></tr>
+<tr height="18"><td>Wed</td>   <td> 14</td>   <td> 20:00</td>   <td>  Jazz Concert, Rotlint CafÃ©</td></tr>
 <tr height="18"><td>Thur</td>   <td> 15</td>  <td> 14:00</td>   <td> Tennis</td></tr>
 <tr height="18"><td>Sat</td>   <td> 17</td>   <td> 19:00</td>   <td>  A-viva Christmas Party! </td></tr>
 <tr height="18"><td>Sun</td>   <td> 18</td>   <td> 10:00</td>   <td>  Der Nussknacker, Oper Frankfurt</td></tr>
@@ -1882,7 +1882,7 @@ language and get a real sense of life in Germany.</p>
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
       
 <tr height="18"><td>Tue</td>   <td> 1</td>   <td> 13:30</td>   <td> Chess Competition</td></tr>
-<tr height="18"><td>Wed</td>   <td> 2</td>   <td> 20:00</td>   <td> Sofar - Jazz, Rotlint Café</td></tr>
+<tr height="18"><td>Wed</td>   <td> 2</td>   <td> 20:00</td>   <td> Sofar - Jazz, Rotlint CafÃ©</td></tr>
 <tr height="18"><td>Thur</td>  <td> 3</td>   <td> 14:30</td>   <td> Tennis</td></tr>
 <tr height="18"><td>Fri</td>   <td> 4</td>   <td> 17:00</td>   <td> Ice Skating</td></tr>
 <tr height="18"><td>Sat</td>   <td> 5</td>   <td> 20:00</td>   <td> Indian Dinner Party</td></tr>
@@ -1902,11 +1902,11 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Wed</td>   <td> 23</td>   <td> 13:30</td>   <td> Lunch on Campus</td></tr>
 <tr height="18"><td>Thur</td>  <td> 24</td>   <td> 13:45</td>   <td>  Christmas Market </td></tr>
 <tr height="18"><td>Fri</td>   <td> 25</td>   <td> 16:00</td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash/Badminton/Swimming</a></td></tr>
-<tr height="18"><td>Sat</td>   <td> 26</td>   <td> 11:00</td>   <td>Archäologisches Museum</td></tr>
+<tr height="18"><td>Sat</td>   <td> 26</td>   <td> 11:00</td>   <td>ArchÃ¤ologisches Museum</td></tr>
 <tr height="18"><td>Sat</td>   <td> 26</td>   <td> 20:00</td>   <td>Chinese Party</td></tr>
 <tr height="18"><td>Sun</td>   <td> 27</td>   <td> 09:45</td>   <td>Day Trip to Marburg</td></tr>
 <tr height="18"><td>Tue</td>   <td> 29</td>   <td> 19:00</td>   <td>Kino Tag</td></tr>
-<tr height="18"><td>Wed</td>   <td> 30</td>   <td> 13:30</td>   <td>Let's Make Glühwein</td></tr>
+<tr height="18"><td>Wed</td>   <td> 30</td>   <td> 13:30</td>   <td>Let's Make GlÃ¼hwein</td></tr>
   </tbody>
 </table>
 <br>
@@ -1921,26 +1921,26 @@ language and get a real sense of life in Germany.</p>
       
 <tr height="18"><td>Mon</td>   <td> 3</td>   <td> 10:00</td>   <td> Hiking Trip</td></tr>
 <tr height="18"><td>Mon</td>   <td> 3</td>   <td> 19:00</td>   <td>  Cosi Fan Tute Drama, Opernhaus</td></tr>
-<tr height="18"><td>Wed</td>   <td> 5</td>   <td> 17:30</td>   <td> Museum für Moderne Kunst</td></tr>
+<tr height="18"><td>Wed</td>   <td> 5</td>   <td> 17:30</td>   <td> Museum fÃ¼r Moderne Kunst</td></tr>
 <tr height="18"><td>Fri</td>   <td> 7</td>   <td> 14:00</td>   <td> Sports Day </td></tr>
-<tr height="18"><td>Sat</td>   <td> 8</td>   <td> 20:00</td>   <td> Soirée Française</td></tr>
+<tr height="18"><td>Sat</td>   <td> 8</td>   <td> 20:00</td>   <td> SoirÃ©e FranÃ§aise</td></tr>
 <tr height="18"><td>Sun</td>   <td> 9</td>   <td> 11:00</td>   <td> Stadtwaldhaus </td></tr>
 <tr height="18"><td>Tue</td>   <td> 11</td>  <td> 13:30</td>   <td>  Brunch at Sushimoto</td></tr>
-<tr height="18"><td>Wed</td>   <td> 12 </td>  <td> 20:00</td>   <td>Jazz Concert at Rotlint Café</td></tr>
-<tr height="18"><td>Thur</td>  <td> 13</td>   <td> 13:30</td>   <td>  Let´s Cook Pumpkin Soup </td></tr>
+<tr height="18"><td>Wed</td>   <td> 12 </td>  <td> 20:00</td>   <td>Jazz Concert at Rotlint CafÃ©</td></tr>
+<tr height="18"><td>Thur</td>  <td> 13</td>   <td> 13:30</td>   <td>  LetÂ´s Cook Pumpkin Soup </td></tr>
 <tr height="18"><td>Fri</td>   <td> 14</td>   <td> 14:00</td>   <td>  Sports Day</td></tr>
 <tr height="18"><td>Sat</td>   <td> 15</td>   <td> 12:00</td>   <td> Frankfurter Buchmesse</td></tr>
 <tr height="18"><td>Sun</td>   <td> 16</td>   <td> 10:00</td>   <td> Trip to Aschaffenburg</td></tr>
-<tr height="18"><td>Wed</td>   <td> 19</td>   <td> 20:00</td>   <td> Jazz Concert at Rotlint Café</td></tr>
+<tr height="18"><td>Wed</td>   <td> 19</td>   <td> 20:00</td>   <td> Jazz Concert at Rotlint CafÃ©</td></tr>
 <tr height="18"><td>Thur</td>  <td> 20</td>   <td> 20:00</td>   <td> Dinner at Fish Franke Restaurant</td></tr>
 <tr height="18"><td>Fri</td>   <td> 21</td>    <td>14:00</td>   <td> Sports Day </td></tr>
-<tr height="18"><td>Sun</td>   <td> 23</td>   <td> 12:00 </td>   <td>Hiking Trip to Rüdesheim & Assmannshausen</td></tr>
-<tr height="18"><td>Tue</td>   <td> 25 </td>  <td> 16:00</td>   <td>Children´s Choir at  the Water Castle</td></tr>
+<tr height="18"><td>Sun</td>   <td> 23</td>   <td> 12:00 </td>   <td>Hiking Trip to RÃ¼desheim & Assmannshausen</td></tr>
+<tr height="18"><td>Tue</td>   <td> 25 </td>  <td> 16:00</td>   <td>ChildrenÂ´s Choir at  the Water Castle</td></tr>
 <tr height="18"><td>Wed</td>   <td> 26</td>   <td> 20:00</td>   <td> Movie Night at A-viva </td></tr>
 <tr height="18"><td>Thur</td>  <td> 27</td>   <td> 20:30</td>   <td> Tennis</td></tr>
 <tr height="18"><td>Fri</td>   <td> 28</td>   <td> 14:00</td>   <td> Sports Day </td></tr>
-<tr height="18"><td>Sat</td>   <td> 29</td>   <td> 13:30</td>    <td>Expressionist Exhibition at the Jüdisches Museum</td></tr>
-<tr height="18"><td>Sun</td>   <td> 30</td>   <td> 09:45</td>   <td>Day Trip to Würzburg</td></tr>
+<tr height="18"><td>Sat</td>   <td> 29</td>   <td> 13:30</td>    <td>Expressionist Exhibition at the JÃ¼disches Museum</td></tr>
+<tr height="18"><td>Sun</td>   <td> 30</td>   <td> 09:45</td>   <td>Day Trip to WÃ¼rzburg</td></tr>
   </tbody>
 </table>
 <br>
@@ -1962,20 +1962,20 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Thur</td>  <td> 8 </td>  <td> 20:00</td>   <td> Indian Dinner </td></tr>
 <tr height="18"><td>Fri</td>   <td> 9</td>   <td> 18:00</td>   <td> Frankfurt Sightseeing Tour </td></tr>
 <tr height="18"><td>Sat</td>   <td> 10</td>  <td> 14:00</td>   <td> Discover Frankfurt on bike</td></tr>
-<tr height="18"><td>Sun</td>   <td> 11</td>   <td> 9:45</td>   <td> Day trip to Rüdesheim & Assmannshausen</td></tr>
+<tr height="18"><td>Sun</td>   <td> 11</td>   <td> 9:45</td>   <td> Day trip to RÃ¼desheim & Assmannshausen</td></tr>
 <tr height="18"><td>Mon</td>   <td> 12</td>   <td> 19:30</td>   <td>Classical Concert at the Water Castle</td></tr>
 <tr height="18"><td>Tue</td>   <td> 13</td>   <td> 13:30</td>   <td> Lunch in the Park</td></tr>
-<tr height="18"><td>Wed</td>   <td> 14</td>   <td> 20:30</td>   <td> Jazz Concert at Rotlint Café</td></tr>
+<tr height="18"><td>Wed</td>   <td> 14</td>   <td> 20:30</td>   <td> Jazz Concert at Rotlint CafÃ©</td></tr>
 <tr height="18"><td>Thur</td>  <td>15</td>    <td> 19:00</td>   <td> Schirn Museum </td></tr>
 <tr height="18"><td>Fri</td>   <td> 16</td>   <td> 14:00 </td>   <td>Sports Day</td></tr>
 <tr height="18"><td>Sat</td>   <td> 17 </td>  <td> 10:00</td>   <td>Goethe Turm</td></tr>
 <tr height="18"><td>Sat</td>   <td> 17</td>   <td> 10:00</td>   <td> Flea Market </td></tr>
-<tr height="18"><td>Sun</td>   <td> 18</td>   <td> 9:45</td>   <td> Day Trip to Würzburg </td></tr>
+<tr height="18"><td>Sun</td>   <td> 18</td>   <td> 9:45</td>   <td> Day Trip to WÃ¼rzburg </td></tr>
 <tr height="18"><td>Wed</td>   <td> 21</td>   <td> 13:45</td>   <td> Pumpkin Soup by Elina  </td></tr>
 <tr height="18"><td>Thur</td>  <td>22 </td>   <td> 16:00</td>    <td>International Auto Show </td></tr>
 <tr height="18"><td>Fri</td>   <td> 23</td>   <td> 14:00</td>   <td>Sports Day</td></tr>
 <tr height="18"><td>Sat</td>   <td> 24</td>   <td> 9:00</td>   <td> Day Trip to Colmar, France</td></tr>
-<tr height="18"><td>Sun</td>   <td> 25 </td>  <td>11:00-17:00</td>    <td>Theaterfest Tag der offenen Tür in Oper und Schauspiel Frankfurt </td></tr>
+<tr height="18"><td>Sun</td>   <td> 25 </td>  <td>11:00-17:00</td>    <td>Theaterfest Tag der offenen TÃ¼r in Oper und Schauspiel Frankfurt </td></tr>
 <tr height="18"><td>Tue</td>   <td> 27</td>   <td> 15:00 </td>   <td>Kino Tag </td></tr>
 <tr height="18"><td>Thur</td>  <td>29</td>    <td> 20:00</td>   <td> Movie Night at A-viva</td></tr>
 <tr height="18"><td>Sun</td>   <td> 30</td>   <td>13:30 </td>   <td> Brunch</td></tr>
@@ -2007,13 +2007,13 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Tue</td>   <td> 16</td>   <td> 13:30</td>   <td> German Baking</td></tr>
 <tr height="18"><td>Wed</td>   <td>17</td>   <td> 19:00</td>   <td> Palmengarten</td></tr>
 <tr height="18"><td>Thur</td>  <td> 18</td>   <td> 18:30 </td>   <td> Sunset Bicycle Tour </td></tr>
-<tr height="18"><td>Thur</td>   <td> 18 </td>   <td> 19:00</td>   <td>Bahnhofsviertelnacht 30 Öffene Türen</td></tr>
+<tr height="18"><td>Thur</td>   <td> 18 </td>   <td> 19:00</td>   <td>Bahnhofsviertelnacht 30 Ã–ffene TÃ¼ren</td></tr>
 <tr height="18"><td>Fri</td>   <td> 19</td>   <td> 20:45</td>   <td> Barbarella - Verwirrt im Weltall</td></tr>
 <tr height="18"><td>Sat</td>   <td> 20</td>   <td> 14:00</td>   <td> Rotlintstrassenfest</td></tr>
-<tr height="18"><td>Sun</td>   <td> 21</td>   <td> 12:00</td>   <td> Day Trip to Würzburg </td></tr>
-<tr height="18"><td> Sun</td>   <td>21 </td>   <td>18:00</td>    <td>Sachsenhäuser Brunnenfest</td></tr>
+<tr height="18"><td>Sun</td>   <td> 21</td>   <td> 12:00</td>   <td> Day Trip to WÃ¼rzburg </td></tr>
+<tr height="18"><td> Sun</td>   <td>21 </td>   <td>18:00</td>    <td>SachsenhÃ¤user Brunnenfest</td></tr>
 <tr height="18"><td>Wed</td>   <td> 24</td>   <td> 14:00</td>   <td>Day Trip to Speyer</td></tr>
-<tr height="18"><td>Fri</td>   <td> 26</td>   <td> 10:00</td>   <td> Day Trip to Königstein</td></tr>
+<tr height="18"><td>Fri</td>   <td> 26</td>   <td> 10:00</td>   <td> Day Trip to KÃ¶nigstein</td></tr>
 <tr height="18"><td>Fri</td>   <td> 26 </td>   <td>20:00</td>    <td>Museumsuferfest</td></tr>
 <tr height="18"><td>Sat</td>   <td> 27</td>   <td> 08:00 </td>   <td>Trip to Schwarzwald</td></tr>
 <tr height="18"><td>Sun</td>   <td> 28</td>   <td> </td>   <td> Trip to Schwarzwald</td></tr>
@@ -2033,9 +2033,9 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sun</td>   <td> 3</td>   <td> 10:00</td>   <td> Bike Tour</td></tr>
 <tr height="18"><td>Wed</td>   <td> 6</td>   <td> 20:45</td>   <td> Open-air theatre "Alice im Wunderland"</td></tr>
 <tr height="18"><td>Thur</td>   <td> 7</td>   <td> 18:30</td>   <td> Sunset Bicycle Tour</td></tr>
-<tr height="18"><td>Fri</td>   <td> 8</td>   <td> 18:00</td>   <td> "Wölfe" Senckenberg Naturmuseum</td></tr>
+<tr height="18"><td>Fri</td>   <td> 8</td>   <td> 18:00</td>   <td> "WÃ¶lfe" Senckenberg Naturmuseum</td></tr>
 <tr height="18"><td>Sat</td>   <td> 9</td>   <td> 16:00</td>   <td> Grill Party in Ostpark</td></tr>
-<tr height="18"><td>Sun</td>   <td> 10</td>   <td> 10:00</td>   <td> Bike Tour "Offenbach - Heusenstamm"//Höchster Schloßfest//Abenteuerpark, Offenbach</td></tr>
+<tr height="18"><td>Sun</td>   <td> 10</td>   <td> 10:00</td>   <td> Bike Tour "Offenbach - Heusenstamm"//HÃ¶chster SchloÃŸfest//Abenteuerpark, Offenbach</td></tr>
 <tr height="18"><td>Tue</td>   <td> 12</td>   <td>  15:00</td>   <td> Kino Tag</td></tr>
 <tr height="18"><td>Wed</td>   <td> 13</td>   <td> 17:30</td>   <td> Expressionism Exhibition</td></tr>
 <tr height="18"><td>Thur</td>   <td> 14</td>   <td>  20:00</td>   <td> Open Air Kurz Film Festival</td></tr>
@@ -2046,7 +2046,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Thur</td>   <td> 21</td>   <td> 18:30</td>   <td> Jazz im Palmengarten</td></tr>
 <tr height="18"><td>Fri</td>   <td> 22</td>   <td> 15:00</td>   <td>  <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash/Badminton/Swimming</a> </td></tr>
 <tr height="18"><td>Sat</td>   <td> 23</td>   <td> 10:00</td>   <td> Trip to Heidelberg </td></tr>
-<tr height="18"><td>Sun</td>   <td> 24</td>   <td> 10:00</td>   <td> Trip to Rüdesheim and Assmannhausen</td></tr>
+<tr height="18"><td>Sun</td>   <td> 24</td>   <td> 10:00</td>   <td> Trip to RÃ¼desheim and Assmannhausen</td></tr>
 <tr height="18"><td>Thur</td>   <td> 28</td>   <td>  20:00</td>   <td> Games Night</td></tr>
 <tr height="18"><td>Fri</td>   <td> 29</td>   <td>  </td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash/Badminton/Swimming</a></td></tr>
 <tr height="18"><td>Sat</td>   <td> 30</td>   <td> 10:00</td>   <td> Trip to Mainz</td></tr>
@@ -2072,7 +2072,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Wed</td>   <td> 8  </td>   <td>15:00  </td>   <td>Expressionism Exhibition</td></tr>
 <tr height="18"><td>Thur</td>   <td>   9  </td>   <td>19:00 </td>   <td>Lecture on Chinese Calligraphy</td></tr>
 <tr height="18"><td>Fri</td>   <td>   10 </td>   <td>19:45 </td>   <td>Dragonboat Training</td></tr>
-<tr height="18"><td>Sat</td>   <td>  11 </td>   <td>12:00 </td>   <td>Wäldchestag Festival Frankfurt City Forest</td></tr>
+<tr height="18"><td>Sat</td>   <td>  11 </td>   <td>12:00 </td>   <td>WÃ¤ldchestag Festival Frankfurt City Forest</td></tr>
 <tr height="18"><td>Sun</td>   <td> 12  </td>   <td>09:00 </td>   <td>Hiking</td></tr>
 <tr height="18"><td>Sun</td>   <td> 12  </td>   <td>18:00 </td>   <td>Rosen- und Lichterfest</td></tr>
 <tr height="18"><td>Thur</td>   <td>  16  </td>   <td>14:00 </td>   <td>Guatemalan Lunch by Margarita</td></tr>
@@ -2106,15 +2106,15 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sat</td>   <td> 7</td>   <td>  19:00 </td>   <td>        Nacht der Museen</td></tr>
 <tr height="18"><td>Fri </td>   <td>13</td>   <td>   15:00 </td>   <td>     <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash/Badminton/Swimming</a></td></tr>
 <tr height="18"><td>Sat</td>   <td> 14</td>   <td>  20:00 </td>   <td>      Eurovision Party</td></tr>
-<tr height="18"><td>Sun</td>   <td> 15</td>   <td>  10:00</td>   <td>     Biking Tour of the Frankfurt Grüngürtel</td></tr>
+<tr height="18"><td>Sun</td>   <td> 15</td>   <td>  10:00</td>   <td>     Biking Tour of the Frankfurt GrÃ¼ngÃ¼rtel</td></tr>
 <tr height="18"><td>Tue</td>   <td> 17</td>   <td>  18:30 </td>   <td>    High Heels & High End - Mode, Shopping & Lifestyle in Frankfurt</td></tr>
-<tr height="18"><td>Wed</td>   <td> 18</td>   <td> 14:00  </td>   <td>   Farmers´ Market</td></tr>
+<tr height="18"><td>Wed</td>   <td> 18</td>   <td> 14:00  </td>   <td>   FarmersÂ´ Market</td></tr>
 <tr height="18"><td>Fri </td>   <td> 20</td>   <td>  15:00 </td>   <td>      <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash/Badminton/Swimming</a></td></tr>
 <tr height="18"><td>Sat</td>   <td> 21</td>   <td>  19:00 </td>   <td>        Russian Party</td></tr>
 <tr height="18"><td>Sun</td>   <td> 22</td>   <td> 18:00  </td>   <td>     English Theatre:  " The Dead Guy"</td></tr>
 <tr height="18"><td>Fri </td>   <td>27 </td>   <td> 15:00 </td>   <td>         <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash/Badminton/Swimming</a></td></tr>
 <tr height="18"><td>Sat </td>   <td>28</td>   <td>  11:00 </td>   <td>       Palmen Garten</td></tr>
-<tr height="18"><td>Sun </td>   <td>29 </td>   <td> 14:00  </td>   <td>       Let´s Go Boating</td></tr>
+<tr height="18"><td>Sun </td>   <td>29 </td>   <td> 14:00  </td>   <td>       LetÂ´s Go Boating</td></tr>
   </tbody>
 </table>
 <br>
@@ -2132,11 +2132,11 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Thur</td> <td> 6</td>   <td> 19:30</td>  <td>Lesung, Die Verbrechen von FFM</td></tr>
 <tr height="18"><td>Fri</td>  <td> 7</td>   <td> 15:00</td>  <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Sat</td>  <td> 9</td>   <td>  9:30</td>  <td>Hiking Trip, 15km</td></tr>
-<tr height="18"><td>Tue</td>  <td> 12</td>  <td> 18:00</td>  <td>Höchst Palace Tour</td></tr>
-<tr height="18"><td>Thur</td> <td> 14</td>  <td> 15:00</td>  <td>Städel Museum</td></tr>
+<tr height="18"><td>Tue</td>  <td> 12</td>  <td> 18:00</td>  <td>HÃ¶chst Palace Tour</td></tr>
+<tr height="18"><td>Thur</td> <td> 14</td>  <td> 15:00</td>  <td>StÃ¤del Museum</td></tr>
 <tr height="18"><td>Fri</td>  <td> 15</td>  <td> 15:00</td>  <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
-<tr height="18"><td>Sat</td>  <td> 16</td>  <td> 10:00</td>  <td>Rüdesheim Trip</td></tr>
-<tr height="18"><td>Sun</td>  <td> 17</td>  <td> 11:00</td>  <td>Höchst Porcelain Museum</td></tr>
+<tr height="18"><td>Sat</td>  <td> 16</td>  <td> 10:00</td>  <td>RÃ¼desheim Trip</td></tr>
+<tr height="18"><td>Sun</td>  <td> 17</td>  <td> 11:00</td>  <td>HÃ¶chst Porcelain Museum</td></tr>
 <tr height="18"><td>Tue</td>  <td> 19</td>  <td> 15:00</td>  <td>Kino Tag</td></tr>
 <tr height="18"><td>Thur</td> <td> 21</td>  <td> 12:00</td>  <td><a href="http://www.a-viva.net/PDF/Paris_Apri 2011.pdf" target="_blank">Paris Trip</a></td></tr>
 <tr height="18"><td>Fri</td>  <td> 22</td>  <td>      </td>  <td><a href="http://www.a-viva.net/PDF/Paris_Apri 2011.pdf" target="_blank">Paris Trip</a></td></tr>
@@ -2161,7 +2161,7 @@ language and get a real sense of life in Germany.</p>
 
 <tr height="18"><td>Sat</td>  <td> 5</td>   <td> 11:00 </td>  <td>Mainz Carneval</td></tr>
 <tr height="18"><td>Mon</td>  <td> 7</td>   <td> 21:00 </td>  <td>Dinner after Crash Course</td></tr>
-<tr height="18"><td>Tue</td>  <td> 8</td>   <td> 13:30 </td>  <td>Let´s Make Pancakes</td></tr>
+<tr height="18"><td>Tue</td>  <td> 8</td>   <td> 13:30 </td>  <td>LetÂ´s Make Pancakes</td></tr>
 <tr height="18"><td>Wed</td>  <td> 9</td>   <td> 20:30 </td>  <td>Indian Dinner</td></tr>
 <tr height="18"><td>Fri</td>  <td> 11</td>  <td> 14:00 </td>  <td>Billiards</td></tr>
 <tr height="18"><td>Sat</td>  <td> 12</td>  <td> 11:00 </td>  <td>Marburg Day Trip</td></tr>
@@ -2170,7 +2170,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Wed</td>  <td> 16</td>  <td> 20:00 </td>  <td>Anne-Sophie Mutter Concert</td></tr>
 <tr height="18"><td>Thur</td> <td> 17</td>  <td> 17:00 </td>  <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Sat</td>  <td> 19</td>  <td> 19:00 </td>  <td>Fleamarket</td></tr>
-<tr height="18"><td>Sun</td>  <td> 20</td>  <td> 19:00 </td>  <td>Let´s Make Sushi</td></tr>
+<tr height="18"><td>Sun</td>  <td> 20</td>  <td> 19:00 </td>  <td>LetÂ´s Make Sushi</td></tr>
 <tr height="18"><td>Wed</td>  <td> 23</td>  <td> 20:00 </td>  <td>Dinner & Disco</td></tr>
 <tr height="18"><td>Fri</td>  <td> 25</td>  <td> 13:30 </td>  <td>Coffee at the Market</td></tr>
 <tr height="18"><td>Sun</td>  <td> 27</td>  <td> 11:00 </td>  <td>Bike Trip</td></tr>
@@ -2189,17 +2189,17 @@ language and get a real sense of life in Germany.</p>
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col
  width="450"> </colgroup> <tbody>
 
-<tr height="18"><td>Wed </td>  <td> 2</td>  <td> 20:00 </td>  <td>Chinese New Year´s Party</td></tr>
-<tr height="18"><td>Sat </td>  <td> 5</td>  <td> 20:00 </td>  <td>Soirée Française</td></tr>
+<tr height="18"><td>Wed </td>  <td> 2</td>  <td> 20:00 </td>  <td>Chinese New YearÂ´s Party</td></tr>
+<tr height="18"><td>Sat </td>  <td> 5</td>  <td> 20:00 </td>  <td>SoirÃ©e FranÃ§aise</td></tr>
 <tr height="18"><td>Sun </td>  <td> 6</td>  <td> 17:00 </td>  <td>Concert by Som Soave</td></tr>
 <tr height="18"><td>Tue </td>  <td> 8</td>  <td> 15:00 </td>  <td>Kino Tag</td></tr>
-<tr height="18"><td>Thur</td>  <td>10</td>  <td> 13:00 </td>  <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Thur</td>  <td>10</td>  <td> 13:00 </td>  <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Sun </td>  <td>13</td>  <td>  9:00 </td>  <td>Ski Trip Wasserkuppe</td></tr>
 <tr height="18"><td>Tue </td>  <td>15</td>  <td> 20:30 </td>  <td>Korean Dinner</td></tr>
-<tr height="18"><td>Fri </td>  <td>18</td>  <td> 13:30 </td>  <td>Farmers´ Market</td></tr>
+<tr height="18"><td>Fri </td>  <td>18</td>  <td> 13:30 </td>  <td>FarmersÂ´ Market</td></tr>
 <tr height="18"><td>Sat </td>  <td>19</td>  <td> 12:00 </td>  <td>Flea Market</td></tr>
-<tr height="18"><td>Sun </td>  <td>20</td>  <td> 10:00 </td>  <td>Rüdesheim Day Trip</td></tr>
-<tr height="18"><td>Thur</td>  <td>24</td>  <td> 13:00 </td>  <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Sun </td>  <td>20</td>  <td> 10:00 </td>  <td>RÃ¼desheim Day Trip</td></tr>
+<tr height="18"><td>Thur</td>  <td>24</td>  <td> 13:00 </td>  <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Sat </td>  <td>26</td>  <td> 12:00 </td>  <td>Museum Day</td></tr>
 <tr height="18"><td>Sun </td>  <td>27</td>  <td> 10:00 </td>  <td>Heidelberg Day Trip</td></tr>
   </tbody>
@@ -2217,9 +2217,9 @@ language and get a real sense of life in Germany.</p>
 
 <tr height="18"><td>Tues</td>  <td>11</td> <td>14:00 </td> <td>Walking Tour</td></tr>
 <tr height="18"><td>Thur</td>  <td>13</td> <td>13:00 </td> <td>Brunch at Sushimoto</td></tr>
-<tr height="18"><td>Fri </td>  <td>14</td> <td>13:30 </td> <td>Let´s Make Pizza</td></tr>
+<tr height="18"><td>Fri </td>  <td>14</td> <td>13:30 </td> <td>LetÂ´s Make Pizza</td></tr>
 <tr height="18"><td>Tue        </td>  <td>18</td> <td>14:00 </td> <td>Kino Tag (Movie Day)</td></tr>
-<tr height="18"><td>Thur</td>  <td>20</td> <td>13:30 </td> <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Thur</td>  <td>20</td> <td>13:30 </td> <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Sat </td>  <td>22</td> <td>10:00 </td> <td>Day Trip to Marburg</td></tr>
 <tr height="18"><td>Tue </td>  <td>25</td> <td>14:00 </td> <td>Bowling</td></tr>
 <tr height="18"><td>Fri </td>  <td>28</td> <td>20:00 </td> <td>Hungarian Dinner Party</td></tr>
@@ -2242,8 +2242,8 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sat </td>  <td>4 </td> <td> 9:00</td> <td>Strasbourg Day Trip</td></tr>
 <tr height="18"><td>Sun </td>  <td>5 </td> <td>19:00</td> <td>Czech Dinner Party</td></tr>
 <tr height="18"><td>Sat </td>  <td>11</td> <td>19:30</td> <td>Concert Ludovico Einaudi</td></tr>
-<tr height="18"><td>Sun </td>  <td>12</td> <td>19:00</td> <td>Let´s Make Jiao Zi</td></tr>
-<tr height="18"><td>Wed </td>  <td>15</td> <td>13:00</td> <td>Let´s Bake Together</td></tr>
+<tr height="18"><td>Sun </td>  <td>12</td> <td>19:00</td> <td>LetÂ´s Make Jiao Zi</td></tr>
+<tr height="18"><td>Wed </td>  <td>15</td> <td>13:00</td> <td>LetÂ´s Bake Together</td></tr>
 <tr height="18"><td>Thur</td>  <td>16</td> <td>19:00</td> <td>French Cooking</td></tr>
 <tr height="18"><td>Sat </td>  <td>18</td> <td>20:00</td> <td>Christmas Party / Karaoke Party</td></tr>
 <tr height="18"><td>Sun </td>  <td>19</td> <td>10:00</td> <td>Ski Trip</td></tr>
@@ -2264,16 +2264,16 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Tue</td>  <td>2 </td> <td>20:00</td> <td>Jazz @ Rotlintcafe</td></tr>
 <tr height="18"><td>Fri</td>  <td>5 </td> <td>21:00</td> <td>Karaoke</td></tr>
 <tr height="18"><td>Sun</td>  <td>7 </td> <td>18:00</td> <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
-<tr height="18"><td>Mon</td>  <td>8 </td> <td>13:00</td> <td>Let´s Cook Pumpkin Soup</td></tr>
-<tr height="18"><td>Wed</td>  <td>10</td> <td>13:00</td> <td>Let´s Make Sushi</td></tr>
-<tr height="18"><td>Sat</td>  <td>13</td> <td>11:00</td> <td>Day Trip to Wasserschloß and Wertheim Outlet</td></tr>
+<tr height="18"><td>Mon</td>  <td>8 </td> <td>13:00</td> <td>LetÂ´s Cook Pumpkin Soup</td></tr>
+<tr height="18"><td>Wed</td>  <td>10</td> <td>13:00</td> <td>LetÂ´s Make Sushi</td></tr>
+<tr height="18"><td>Sat</td>  <td>13</td> <td>11:00</td> <td>Day Trip to WasserschloÃŸ and Wertheim Outlet</td></tr>
 <tr height="18"><td>Tue</td>  <td>16</td> <td>13:00</td> <td>Brunch</td></tr>
 <tr height="18"><td>Sat</td>  <td>20</td> <td>12:00</td> <td>Fleamarket</td></tr>
 <tr height="18"><td>Tue</td>  <td>23</td> <td>14:00</td> <td>Christmas Market</td></tr>
 <tr height="18"><td>Thr</td>  <td>25</td> <td>12:00</td> <td>Dinner & Games</td></tr>
 <tr height="18"><td>Sat</td>  <td>27</td> <td>20:00</td> <td>Russian Party</td></tr>
 <tr height="18"><td>Sun</td>  <td>28</td> <td>18:00</td> <td>Dickens by Candlelight</td></tr>
-<tr height="18"><td>Mon</td>  <td>30</td> <td>13:00</td> <td>Michi´s Chocolate Shop</td></tr>
+<tr height="18"><td>Mon</td>  <td>30</td> <td>13:00</td> <td>MichiÂ´s Chocolate Shop</td></tr>
   </tbody>
 </table>
 <br>
@@ -2293,7 +2293,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Thur</td>  <td>7 </td> <td>16:00</td> <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Sat </td>  <td>9 </td> <td>10:00</td> <td>Day Trip</td></tr>
 <tr height="18"><td>Sun </td>  <td>10</td> <td>12:00</td> <td>Frankfurt Book Fair</td></tr>
-<tr height="18"><td>Mon </td>  <td>11</td> <td>13:30</td> <td>Let´s Go For Brunch</td></tr>
+<tr height="18"><td>Mon </td>  <td>11</td> <td>13:30</td> <td>LetÂ´s Go For Brunch</td></tr>
 <tr height="18"><td>Thur</td>  <td>14</td> <td>16:00</td> <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Thur</td>  <td>14</td> <td>19:00</td> <td>Dinner & Karaoke</td></tr>
 <tr height="18"><td>Sat </td>  <td>16</td> <td>10:00</td> <td>Day Trip</td></tr>
@@ -2319,15 +2319,15 @@ language and get a real sense of life in Germany.</p>
 
 <tr height="18"><td>Wed</td>  <td>1</td> <td>20:00</td> <td>Jazz at the Rotlint Cafe</td></tr>
 <tr height="18"><td>Thur</td> <td>2</td> <td>17:00</td> <td>American Citizens Info Night</td></tr>
-<tr height="18"><td>Sat</td>  <td>4</td> <td>14:00</td> <td>Rotlintstraßenfest</td></tr>
+<tr height="18"><td>Sat</td>  <td>4</td> <td>14:00</td> <td>RotlintstraÃŸenfest</td></tr>
 <tr height="18"><td>Mon</td>  <td>6</td> <td>14:00</td> <td>Kino Tag</td></tr>
 <tr height="18"><td>Wed</td>  <td>8</td> <td>14:00</td> <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Wed</td>  <td>8</td> <td>21:00</td> <td>Home Made Indian Dinner by Imran</td></tr>
 <tr height="18"><td>Sat</td>  <td>11</td> <td>19:00</td> <td>Spanish Party</td></tr>
-<tr height="18"><td>Mon</td>  <td>13</td> <td>13:00</td> <td>Let´s Make Sushi</td></tr>
+<tr height="18"><td>Mon</td>  <td>13</td> <td>13:00</td> <td>LetÂ´s Make Sushi</td></tr>
 <tr height="18"><td>Wed</td>  <td>15</td> <td>14:00</td> <td>Dippemess</td></tr>
 <tr height="18"><td>Thur</td> <td>16</td> <td>15:00</td> <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
-<tr height="18"><td>Sat</td>  <td>18</td> <td>19:00</td> <td>Soirée Française</td></tr>
+<tr height="18"><td>Sat</td>  <td>18</td> <td>19:00</td> <td>SoirÃ©e FranÃ§aise</td></tr>
 <tr height="18"><td>Wed</td>  <td>22</td> <td>20:00</td> <td>German Film Night</td></tr>
 <tr height="18"><td>Sat</td>  <td>25</td> <td>11:00</td> <td>Day Trip (Destination tba on Facebook)</td></tr>
 <tr height="18"><td>Sat</td>  <td>25</td> <td>12:00</td> <td>Museum Day</td></tr>
@@ -2350,19 +2350,19 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Mon</td> <td> 2</td> <td>  19:00</td> <td>  Sushi class</td></tr>
 <tr height="18"><td>Tue</td> <td> 3</td> <td>  19:00</td> <td>  Rotlint Jazz</td></tr>
 <tr height="18"><td>Thur</td> <td>5</td> <td>  16.30</td> <td>  Cinema</td></tr>
-<tr height="18"><td>Sat</td> <td> 7</td> <td>  11:00</td> <td>  Rüdesheim Day Trip</td></tr>
+<tr height="18"><td>Sat</td> <td> 7</td> <td>  11:00</td> <td>  RÃ¼desheim Day Trip</td></tr>
 <tr height="18"><td>Mon</td> <td> 9</td> <td>  13:00</td> <td>  Brunch</td></tr>
-<tr height="18"><td>Tues</td> <td> 10</td> <td> 18:00</td> <td>  Berry Blue Band - Günthersburgpark</td></tr>
+<tr height="18"><td>Tues</td> <td> 10</td> <td> 18:00</td> <td>  Berry Blue Band - GÃ¼nthersburgpark</td></tr>
 <tr height="18"><td>Wed</td> <td> 11</td> <td>  20:00</td> <td>  BBQ</td></tr>
 <tr height="18"><td>Fri</td> <td> 13</td> <td>  20:00</td> <td>  Thai Cooking Class & Dinner</td></tr>
 <tr height="18"><td>Sat</td> <td> 14</td> <td>  08:00</td> <td>  Strasbourg Day Trip</td></tr>
 <tr height="18"><td>Sun</td> <td> 15</td> <td>  15:00</td> <td>  Bernemer Kerb</td></tr>
 <tr height="18"><td>Tue</td> <td> 17</td> <td>  16.30</td> <td>  Cinema</td></tr>
-<tr height="18"><td>Wed</td> <td> 18</td> <td>  13.30</td> <td>  Königstein Day Trip</td></tr>
+<tr height="18"><td>Wed</td> <td> 18</td> <td>  13.30</td> <td>  KÃ¶nigstein Day Trip</td></tr>
 <tr height="18"><td>Fri</td> <td> 20</td> <td>  20:00</td> <td>  A-viva Concert</td></tr>
 <tr height="18"><td>Sat</td> <td> 21</td> <td>  11:00</td> <td>  Wiesbaden Day Trip</td></tr>
 <tr height="18"><td>Sun</td> <td> 22</td> <td>  19:00</td> <td>  Yamato Drum Show</td></tr>
-<tr height="18"><td>Mon</td> <td> 23</td> <td>  13:00</td> <td>  Let´s Cook Together</td></tr>
+<tr height="18"><td>Mon</td> <td> 23</td> <td>  13:00</td> <td>  LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Wed</td> <td> 25</td> <td>   13.30</td> <td>  Mainz Day Trip</td></tr>
 <tr height="18"><td>Fri</td> <td> 27</td> <td>  20:00</td> <td>  Museumsuferfest</td></tr>
 <tr height="18"><td>Sat</td> <td> 28</td> <td>  10:00</td> <td>  Museum day</td></tr>
@@ -2380,31 +2380,31 @@ language and get a real sense of life in Germany.</p>
  width="450"> </colgroup> <tbody>
 
 <tr height="18"><td>Mon</td> <td>  5</td> <td> 15:00 </td> <td> City Tour</td></tr>
-<tr height="18"><td>Mon</td> <td>  5</td> <td> 17:00 </td> <td> Visit of Höchster Castle</td></tr>
+<tr height="18"><td>Mon</td> <td>  5</td> <td> 17:00 </td> <td> Visit of HÃ¶chster Castle</td></tr>
 <tr height="18"><td>Wed</td> <td>  7</td> <td>  19:00 </td> <td> Worldcup Viewing</td></tr>
 <tr height="18"><td>Thur</td> <td>  8</td> <td> 13:00 </td> <td>  Lunch: Best Wurst in Town</td></tr>
 <tr height="18"><td>Thur</td> <td>  8</td> <td> 14:30 </td> <td> Board Games</td></tr>
-<tr height="18"><td>Fri</td> <td>  9</td> <td>  15:00 </td> <td> Bergerstraßenfest</td></tr>
+<tr height="18"><td>Fri</td> <td>  9</td> <td>  15:00 </td> <td> BergerstraÃŸenfest</td></tr>
 <tr height="18"><td>Sat</td> <td>  10</td> <td> 20:00 </td> <td> <a href="http://www.a-viva.net/galeries/avivaconcert/index.htm" target="_blank">A-viva Concert/Karaoke/Party</a></td></tr>
 <tr height="18"><td>Sun</td> <td>  11</td> <td>  20:00 </td> <td>  Worldcup Viewing</td></tr>
 <tr height="18"><td>Tue</td> <td>  13</td> <td> 20:00 </td> <td> Film Night</td></tr>
-<tr height="18"><td>Wed</td> <td>  14</td> <td> 14:00 </td> <td> Günthersburg Park Tour</td></tr>
+<tr height="18"><td>Wed</td> <td>  14</td> <td> 14:00 </td> <td> GÃ¼nthersburg Park Tour</td></tr>
 <tr height="18"><td>Thur</td> <td>  15</td> <td> 20:00 </td> <td> International Short Film Festival</td></tr>
 <tr height="18"><td>Fri</td> <td>  16</td> <td> 14:30</td> <td> Visit of Science Museum</td></tr>
 <tr height="18"><td>Sat</td> <td>  17</td> <td> 10:00 </td> <td> Day Trip to Marburg</td></tr>
-<tr height="18"><td>Sun</td> <td>  18</td> <td> 15:00 </td> <td> Let´s Go Boating</td></tr>
-<tr height="18"><td>Mon</td> <td>  19</td> <td> 20:00 </td> <td> Let´s Cook Together</td></tr>
+<tr height="18"><td>Sun</td> <td>  18</td> <td> 15:00 </td> <td> LetÂ´s Go Boating</td></tr>
+<tr height="18"><td>Mon</td> <td>  19</td> <td> 20:00 </td> <td> LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Tue</td> <td>  20</td> <td> 14:00 </td> <td> Visit of Palmengarten</td></tr>
-<tr height="18"><td>Thur</td> <td>  22</td> <td> 20:00 </td> <td> Let´s Cook Together</td></tr>
+<tr height="18"><td>Thur</td> <td>  22</td> <td> 20:00 </td> <td> LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Fri</td> <td>  23</td> <td> 21:00 </td> <td>  International Short Film Festival</td></tr>
 <tr height="18"><td>Sat</td> <td>  24</td> <td> 10:00 </td> <td> Day Trip to Heidelberg</td></tr>
 <tr height="18"><td>Mon</td> <td>  26</td> <td> 15:00 </td> <td> Board Games</td></tr>
-<tr height="18"><td>Mon</td> <td>  26</td> <td> 20:00 </td> <td> Let´s Cook Together</td></tr>
-<tr height="18"><td>Wed</td> <td>  28</td> <td> 18:00 </td> <td> Günthersburg Concert</td></tr>
-<tr height="18"><td>Thur</td> <td>  29</td> <td> 20:00 </td> <td> Let´s Cook Together</td></tr>
+<tr height="18"><td>Mon</td> <td>  26</td> <td> 20:00 </td> <td> LetÂ´s Cook Together</td></tr>
+<tr height="18"><td>Wed</td> <td>  28</td> <td> 18:00 </td> <td> GÃ¼nthersburg Concert</td></tr>
+<tr height="18"><td>Thur</td> <td>  29</td> <td> 20:00 </td> <td> LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Fri</td> <td>  30</td> <td> 20:00 </td> <td> Main Festival</td></tr>
 <tr height="18"><td>Sat</td> <td>  31</td> <td> 14:00 </td> <td> Museum Day</td></tr>
-<tr height="18"><td>Sat</td> <td>  31</td> <td> 19:00 </td> <td> Günthersburg Concert</td></tr>
+<tr height="18"><td>Sat</td> <td>  31</td> <td> 19:00 </td> <td> GÃ¼nthersburg Concert</td></tr>
   </tbody>
 </table>
 <br>
@@ -2422,18 +2422,18 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Wed</td> <td>   2</td> <td>   18:30</td> <td> Free Spanish Trial Class</td></tr>
 <tr height="18"><td>Sat</td> <td>   5</td> <td>   8:00</td> <td>  <b>Day Trip to Strasbourg</b></td></tr>
 <tr height="18"><td>Wed</td> <td>   9</td> <td>   19:00</td> <td> Free Italian Trial Class</td></tr>
-<tr height="18"><td>Thur</td> <td>   10</td> <td>   13:00</td> <td> Let´s Cook Together</td></tr>
+<tr height="18"><td>Thur</td> <td>   10</td> <td>   13:00</td> <td> LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Sat</td> <td>   12</td> <td>   21:00</td> <td> <b>Rosen-Lichterfest</b></td></tr>
 <tr height="18"><td>Sun</td> <td>   13</td> <td>   11:00</td> <td> Strawberry Picking</td></tr>
-<tr height="18"><td>Mon</td> <td>   14</td> <td>   13:00</td> <td> Let´s Bake Together</td></tr>
+<tr height="18"><td>Mon</td> <td>   14</td> <td>   13:00</td> <td> LetÂ´s Bake Together</td></tr>
 <tr height="18"><td>Wed</td> <td>   16</td> <td>   13:00</td> <td> Brunch</td></tr>
 <tr height="18"><td>Sat</td> <td>   19</td> <td>   11:00</td> <td> <b>Day Trip to Michelstadt</b></td></tr>
 <tr height="18"><td>Sat</td> <td>   19</td> <td>   20:00</td> <td> <a href="http://www.a-viva.net/galeries/avivaconcert/index.htm" target="_blank">A-viva Student Concert</a></td></tr>
-<tr height="18"><td>Sun</td> <td>   20</td> <td>   16:00</td> <td> Let´s Go Boating</td></tr>
+<tr height="18"><td>Sun</td> <td>   20</td> <td>   16:00</td> <td> LetÂ´s Go Boating</td></tr>
 <tr height="18"><td>Wed</td> <td>   23</td> <td>   13:00</td> <td> Lets Cook Together</td></tr>
 <tr height="18"><td>Sat</td> <td>   26</td> <td>   12:00</td> <td> <b>A-viva Celebrates The International Culture Festival</b></td></tr>
 <tr height="18"><td>Sun</td> <td>   27</td> <td>   11:00</td> <td> Stawberry Picking</td></tr>
-<tr height="18"><td>Mon</td> <td>   28</td> <td>   13:00</td> <td> Let´s Bake Together</td></tr>
+<tr height="18"><td>Mon</td> <td>   28</td> <td>   13:00</td> <td> LetÂ´s Bake Together</td></tr>
   </tbody>
 </table>
 <br>
@@ -2449,11 +2449,11 @@ language and get a real sense of life in Germany.</p>
 
 <tr height="18"><td>Sat</td> <td>   1</td> <td>   9:00</td> <td> <b>Free German Trial Class</b></td></tr>
 <tr height="18"><td>Sat</td> <td>   1</td> <td>   12:00</td> <td> Indian Food Festival - Charity Event</td></tr>
-<tr height="18"><td>Sun</td> <td>   2</td> <td>   16:00</td> <td> Let´s Go Boating!</td></tr>
+<tr height="18"><td>Sun</td> <td>   2</td> <td>   16:00</td> <td> LetÂ´s Go Boating!</td></tr>
 <tr height="18"><td>Tue</td> <td>   4</td> <td>   20:00</td> <td> Jazz Next Door at the Rotlint Cafe</td></tr>
 <tr height="18"><td>Wed</td> <td>   5</td> <td>   18:30</td> <td> Free Spanish Trial Class</td></tr>
 <tr height="18"><td>Thur</td> <td>   6</td> <td>   19:30</td> <td> Film Night</td></tr>
-<tr height="18"><td>Sat</td> <td>   8</td> <td>   11:30</td> <td> <b>Frankfurt-Höchst Bike Tour</b></td></tr>
+<tr height="18"><td>Sat</td> <td>   8</td> <td>   11:30</td> <td> <b>Frankfurt-HÃ¶chst Bike Tour</b></td></tr>
 <tr height="18"><td>Sun</td> <td>   9</td> <td>   17:00</td> <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Mon</td> <td>   10</td> <td>   19:00</td> <td> Free Japanese Trial Class</td></tr>
 <tr height="18"><td>Wed</td> <td>   12</td> <td>   19:00</td> <td> Dragon Boat Practice #1</td></tr>
@@ -2461,10 +2461,10 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sat</td> <td>   15</td> <td>   9:00</td> <td> Free German Trial Class</td></tr>
 <tr height="18"><td>Sun</td> <td>   16</td> <td>   16:00</td> <td> <b>Coffee and Conversation at Kempinski Falkenstein</b></td></tr>
 <tr height="18"><td>Mon</td> <td>   17</td> <td>   19:00</td> <td> Dragon Boat Practice #2</td></tr>
-<tr height="18"><td>Wed</td> <td>   19</td> <td>   19:00</td> <td> Ewa´s Cupcake Tasting</td></tr>
+<tr height="18"><td>Wed</td> <td>   19</td> <td>   19:00</td> <td> EwaÂ´s Cupcake Tasting</td></tr>
 <tr height="18"><td>Fri</td> <td>   21</td> <td>    19:00</td> <td> Dragon Boat Practice #3</td></tr>
-<tr height="18"><td>Sat</td> <td>   22</td> <td>   11:00</td> <td> <b>Day Trip to Rüdesheim</b></td></tr>
-<tr height="18"><td>Sat</td> <td>   29</td> <td>   9:00</td> <td> <b>A-viva Competes in the Int´l Dragon Boat Festival!</b></td></tr>
+<tr height="18"><td>Sat</td> <td>   22</td> <td>   11:00</td> <td> <b>Day Trip to RÃ¼desheim</b></td></tr>
+<tr height="18"><td>Sat</td> <td>   29</td> <td>   9:00</td> <td> <b>A-viva Competes in the IntÂ´l Dragon Boat Festival!</b></td></tr>
   </tbody>
 </table>
 <br>
@@ -2480,20 +2480,20 @@ language and get a real sense of life in Germany.</p>
 
 <tr height="18"><td>Sun</td> <td> 4</td> <td> 18:00 </td> <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Tue</td> <td>  6</td> <td>   20:00</td> <td> Jazz Next Door at the Rotlint Cafe</td></tr>
-<tr height="18"><td>Fri</td> <td>  9</td> <td>    12:30</td> <td>  Let´s Cook Together</td></tr>
+<tr height="18"><td>Fri</td> <td>  9</td> <td>    12:30</td> <td>  LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Sat</td> <td>   10</td> <td>  10:00</td> <td> <b>Day Trip to Marburg</b></td></tr>
 <tr height="18"><td>Sun</td> <td>  11</td> <td> 18:00</td> <td>  <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Tue</td> <td>   13</td> <td> 20:00</td> <td> <b>Thai Evening</b></td></tr>
 <tr height="18"><td>Sat</td> <td>  17</td> <td>  20:00</td> <td> <b>A Taste of Vietnam</b></td></tr>
 <tr height="18"><td>Tue</td> <td>   20</td> <td>   18:00</td> <td> Free Chinese Trial Class</td></tr>
-<tr height="18"><td>Wed</td> <td>     21</td> <td>   19:00</td> <td> Ewa´s Cupcake Tasting</td></tr>
+<tr height="18"><td>Wed</td> <td>     21</td> <td>   19:00</td> <td> EwaÂ´s Cupcake Tasting</td></tr>
 <tr height="18"><td>Thur</td> <td>     22</td> <td>   19:00</td> <td> Museum Tour</td></tr>
 <tr height="18"><td>Fri</td> <td>  23</td> <td> 20:00</td> <td>  Film Night</td></tr>
 <tr height="18"><td>Sat</td> <td>  24</td> <td> 10:00</td> <td> Day Trip to Heidelberg</td></tr>
 <tr height="18"><td>Sat</td> <td>       24</td> <td>   20:00</td> <td> Nacht der Museen</td></tr>
 <tr height="18"><td>Sun</td> <td>  25</td> <td>  18:00</td> <td>  <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Thur</td> <td>     29</td> <td>   18:30</td> <td> Free German Trial Lesson 4 Beginners</td></tr>
-<tr height="18"><td>Fri</td> <td>  30</td> <td> 12:30</td> <td>  Let´s Cook Together</td></tr>
+<tr height="18"><td>Fri</td> <td>  30</td> <td> 12:30</td> <td>  LetÂ´s Cook Together</td></tr>
   </tbody>
 </table>
 <br>
@@ -2511,14 +2511,14 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Thur</td> <td>  4</td> <td>  21:00</td> <td> Dinner at Mi Casa</td></tr>
 <tr height="18"><td>Sat</td> <td>  6</td> <td> 20:00</td> <td> A-viva Student Concert</td></tr>
 <tr height="18"><td>Sun</td> <td>  7</td> <td> 18:00</td> <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
-<tr height="18"><td>Fri</td> <td>  12</td> <td> 13:00</td> <td> Let´s Make Sushi Together</td></tr>
+<tr height="18"><td>Fri</td> <td>  12</td> <td> 13:00</td> <td> LetÂ´s Make Sushi Together</td></tr>
 <tr height="18"><td>Sat</td> <td>  13</td> <td> 20:00</td> <td> Bulgarian Party</td></tr>
 <tr height="18"><td>Sun</td> <td>  14</td> <td> 18:00</td> <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Thur</td> <td> 18</td> <td> 20:00</td> <td> Jazz Next Door at the Rotlint Cafe</td></tr>
 <tr height="18"><td>Fri</td> <td>  19</td> <td> 13:30</td> <td>  Brunch at Sushimoto</td></tr>
 <tr height="18"><td>Sun</td> <td>  21</td> <td> 18:00</td> <td>  <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Tue</td> <td>  23</td> <td> 20:00</td> <td> Polish Evening</td></tr>
-<tr height="18"><td>Sat</td> <td>  27</td> <td> 20:00</td> <td> Soirée Française</td></tr>
+<tr height="18"><td>Sat</td> <td>  27</td> <td> 20:00</td> <td> SoirÃ©e FranÃ§aise</td></tr>
 <tr height="18"><td>Sun</td> <td>  28</td> <td> 18:00</td> <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
   </tbody>
 </table>
@@ -2534,18 +2534,18 @@ language and get a real sense of life in Germany.</p>
  width="450"> </colgroup> <tbody>
 
 <tr height="18"><td>Tue</td> <td>2</td> <td>20:00</td> <td> Jazz at Rotlintcafe, Free Admission</td></tr>
-<tr height="18"><td>Wed</td> <td>3</td> <td>12:30</td> <td> Let´s Cook Together</td></tr>
+<tr height="18"><td>Wed</td> <td>3</td> <td>12:30</td> <td> LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Fri</td> <td>5</td> <td>20:00</td> <td> Poker Night</td></tr>
 <tr height="18"><td>Sat</td> <td>6</td> <td>8:00</td> <td> <b>Strasbourg Day Trip</b></td></tr>
 <tr height="18"><td>Sun</td> <td>7</td> <td>18:00</td> <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
-<tr height="18"><td>Wed</td> <td>10</td> <td>12:30</td> <td> Let´s Bake Together</td></tr>
-<tr height="18"><td>Sat</td> <td>13</td> <td>20:00</td> <td> <b>Chinese New Year´s Celebration</b></td></tr>
+<tr height="18"><td>Wed</td> <td>10</td> <td>12:30</td> <td> LetÂ´s Bake Together</td></tr>
+<tr height="18"><td>Sat</td> <td>13</td> <td>20:00</td> <td> <b>Chinese New YearÂ´s Celebration</b></td></tr>
 <tr height="18"><td>Sun</td> <td>14</td> <td>18:00</td> <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
-<tr height="18"><td>Wed</td> <td>17</td> <td>12:30</td> <td> Let´s Cook Together</td></tr>
+<tr height="18"><td>Wed</td> <td>17</td> <td>12:30</td> <td> LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Fri</td> <td>19</td> <td>20:00</td> <td> Games Night</td></tr>
 <tr height="18"><td>Sat</td> <td>20</td> <td>12:00</td> <td> <b>Japanese Brunch</b></td></tr>
 <tr height="18"><td>Sun</td> <td>21</td> <td>9:00</td> <td> A-viva Ski Trip</td></tr>
-<tr height="18"><td>Wed</td> <td>23</td> <td>12:30</td> <td> Let´s Cook Together</td></tr>
+<tr height="18"><td>Wed</td> <td>23</td> <td>12:30</td> <td> LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Sat</td> <td>27</td> <td>9:00</td> <td> <b>Koblenz Day Trip</b></td></tr>
 <tr height="18"><td>Sun</td> <td>28</td> <td>18:00</td> <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
   </tbody>
@@ -2566,14 +2566,14 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Wed</td> <td>6</td> <td>12:30</td> <td>  Tea Tasting, Phoenix Tea House</td></tr>
 <tr height="18"><td>Sat</td> <td>9</td> <td>20:00</td> <td> Spanish Karaoke & Party</td></tr>
 <tr height="18"><td>Sun</td> <td>10</td> <td>17:00</td>  <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
-<tr height="18"><td>Wed</td> <td>13</td> <td>12:30</td> <td> Let´s Cook Together</td></tr>
+<tr height="18"><td>Wed</td> <td>13</td> <td>12:30</td> <td> LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Sat</td> <td>16</td> <td>20:00</td> <td> Polish Party!</td></tr>
 <tr height="18"><td>Sun</td> <td>17</td> <td>9:00</td> <td> A-viva Ski Trip</td></tr>
-<tr height="18"><td>Wed</td> <td>20</td> <td>12:30</td> <td> Let´s Cook Together</td></tr>
+<tr height="18"><td>Wed</td> <td>20</td> <td>12:30</td> <td> LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Fri</td> <td>22</td> <td>20:00</td> <td> Thai Evening</td></tr>
 <tr height="18"><td>Sat</td> <td>23</td> <td>12:00</td> <td> Japanese Brunch</td></tr>
 <tr height="18"><td>Sun</td> <td>24</td> <td>17:00</td>  <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
-<tr height="18"><td>Wed</td> <td>27</td> <td>12:30</td> <td> Let´s Cook Together</td></tr>
+<tr height="18"><td>Wed</td> <td>27</td> <td>12:30</td> <td> LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Fri</td> <td>29</td> <td>20:00</td> <td> Game Night</td></tr>
 <tr height="18"><td>Sat</td> <td>30</td> <td>12:00</td> <td> Museum Day</td></tr>
 <tr height="18"><td>Sat</td> <td>30</td> <td>12:00</td> <td> <a href="http://www.a-viva.net/PDF/haitiweben.pdf" target="_blank">Haiti Fund Raising Brunch & Flea Market</a></td></tr>
@@ -2601,7 +2601,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sat</td> <td>12</td>  <td>20:00</td> <td>A-viva Christmas Party & Concert</td></tr>
 <tr height="18"><td>Sun</td> <td>13</td> <td>18:00</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
 <tr height="18"><td>Wed</td> <td>16</td> <td></td> <td>Christmas Baking</td></tr>
-<tr height="18"><td>Sat</td> <td>19</td> <td>10:00</td> <td>Day Trip to Nürnberg</td></tr>
+<tr height="18"><td>Sat</td> <td>19</td> <td>10:00</td> <td>Day Trip to NÃ¼rnberg</td></tr>
 <tr height="18"><td>Sun</td> <td>20</td> <td>18:00</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
 <tr height="18"><td>Sun</td> <td>27</td>  <td>18:00</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
 <tr height="18"><td>Wed</td> <td>30</td> <td>10:00</td> <td>Ski Trip</td></tr>
@@ -2626,12 +2626,12 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Tue</td> <td>3</td> <td>20:00</td> <td>Jazz @ Rotlintcafe</td></tr>
 <tr height="18"><td>Fri</td> <td>6</td> <td>20:00</td> <td>Polish Ukranian Revolution Party </td></tr>
 <tr height="18"><td>Sun</td> <td>8</td> <td>18:00</td> <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
-<tr height="18"><td>Tue</td> <td>10</td> <td>12:00</td> <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Tue</td> <td>10</td> <td>12:00</td> <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Fri</td> <td>13</td> <td>21:00</td> <td>Film Night</td></tr>
 <tr height="18"><td>Sat</td> <td>14</td> <td>12:00</td> <td>Indian Brunch</td></tr>
 <tr height="18"><td>Sun</td> <td>15</td> <td>18:00</td> <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
-<tr height="18"><td>Tue</td> <td>17</td> <td>12:00</td> <td>Let´s Cook Together</td></tr>
-<tr height="18"><td>Fri</td> <td>20</td> <td>18:00</td> <td>Let´s Go Bowling</td></tr>
+<tr height="18"><td>Tue</td> <td>17</td> <td>12:00</td> <td>LetÂ´s Cook Together</td></tr>
+<tr height="18"><td>Fri</td> <td>20</td> <td>18:00</td> <td>LetÂ´s Go Bowling</td></tr>
 <tr height="18"><td>Sat</td> <td>21</td> <td>8:00</td> <td>Day Trip to Marburg</td></tr>
 <tr height="18"><td>Sun</td> <td>22</td> <td>18:00</td> <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
 <tr height="18"><td>Tue</td> <td>24</td> <td>12:00</td> <td>Let's Cook Together</td></tr>
@@ -2656,18 +2656,18 @@ language and get a real sense of life in Germany.</p>
 
 <tr height="18"><td>Fri</td> <td>2</td> <td>13:00</td> <td><a href=http://www.frankfurt.de/sixcms/detail.php?id=2855&_ffmpar[_id_inhalt]=6134825 target="_blank">Jazz am Zweiten</a></td></tr>
 <tr height="18"><td>Fri</td> <td>2</td> <td>19:00</td> <td>Concert 4 Raii at Club Voltaire</td></tr>
-<tr height="18"><td>Sat</td> <td>3</td> <td>19:30</td> <td>Soirée Française Reservation Required</td></tr>
+<tr height="18"><td>Sat</td> <td>3</td> <td>19:30</td> <td>SoirÃ©e FranÃ§aise Reservation Required</td></tr>
 <tr height="18"><td>Sun</td> <td>4</td> <td>13:00</td> <td><a href=http://www.frankfurt.de/sixcms/detail.php?id=2855&_ffmpar[_id_inhalt]=6138785 target="_blank">Newcomers Festival</a></td></tr>
 <tr height="18"><td>Sun</td> <td>4</td> <td>18:00</td> <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
-<tr height="18"><td>Wed</td> <td>7</td> <td>12:30</td> <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Wed</td> <td>7</td> <td>12:30</td> <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Wed</td> <td>7</td> <td>20:00</td> <td>Jazz @ Rotlintcafe</td></tr>
 <tr height="18"><td>Sat</td> <td>10</td> <td>12:00</td> <td>BBQ</td></tr>
 <tr height="18"><td>Sun</td> <td>11</td> <td>18:00</td> <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
-<tr height="18"><td>Wed</td> <td>14</td> <td>12:30</td> <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Wed</td> <td>14</td> <td>12:30</td> <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Fri</td> <td>16</td> <td>19:00</td> <td>Dinner & Game</td></tr>
 <tr height="18"><td>Sat</td> <td>17</td> <td>16:00</td> <td>Spanish Fiesta Reservation Required</td></tr>
 <tr height="18"><td>Sat</td> <td>18</td>  <td></td> <td><a href=http://www.buchmesse.de/en/fbf/index.html target="_blank">Frankfurt Book Fair</a></td></tr>
-<tr height="18"><td>Wed</td> <td>21</td> <td>12:30</td> <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Wed</td> <td>21</td> <td>12:30</td> <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Sat</td> <td>24</td> <td>7:00</td> <td>Day Trip to Trier & Koblenz</td></tr>
 <tr height="18"><td>Sun</td> <td>25</td> <td>18:00</td> <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
 <tr height="18"><td>Wed</td> <td>28</td> <td>12:30</td> <td>Let's Cook Together</td></tr>
@@ -2688,14 +2688,14 @@ language and get a real sense of life in Germany.</p>
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col
  width="450"> </colgroup> <tbody>
 
-<tr height="18"><td>Wed</td> <td>2</td> <td>20:00</td> <td>Jazz Next Door at the Rotlintcafé</td></tr>
+<tr height="18"><td>Wed</td> <td>2</td> <td>20:00</td> <td>Jazz Next Door at the RotlintcafÃ©</td></tr>
 <tr height="18"><td>Thur</td> <td>3</td> <td>17:00</td> <td>Theater Festival</td></tr>
-<tr height="18"><td>Fri</td> <td>4</td> <td>15:00</td> <td>Stöffchefest</td></tr>
-<tr height="18"><td>Sat</td> <td>5</td> <td>14:00</td> <td>Rotlintstraßenfest</td></tr>
+<tr height="18"><td>Fri</td> <td>4</td> <td>15:00</td> <td>StÃ¶ffchefest</td></tr>
+<tr height="18"><td>Sat</td> <td>5</td> <td>14:00</td> <td>RotlintstraÃŸenfest</td></tr>
 <tr height="18"><td>Mon</td> <td>7</td> <td>18:00</td> <td>Free Spanish Trial Class</td></tr>
-<tr height="18"><td>Tue</td> <td>8</td> <td>12:30</td> <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Tue</td> <td>8</td> <td>12:30</td> <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Wed</td> <td>9</td> <td>13:00</td> <td>Frankfurt City Tour</td></tr>
-<tr height="18"><td>Thur</td> <td>10</td> <td>20:00</td> <td>Concert at Café Kant</td></tr>
+<tr height="18"><td>Thur</td> <td>10</td> <td>20:00</td> <td>Concert at CafÃ© Kant</td></tr>
 <tr height="18"><td>Fri</td> <td>11</td> <td>19:00</td> <td>Reingauer Weinmarkt</td></tr>
 <tr height="18"><td>Sat</td> <td>12</td>  <td>14:00</td> <td>Day Trip to Marburg</td></tr>
 <tr height="18"><td>Sun</td> <td>13</td> <td>17:00</td> <td>Dippemess</td></tr>
@@ -2707,7 +2707,7 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Fri</td> <td>25</td> <td>18:00</td> <td>Billiard Night *</td></tr>
 <tr height="18"><td>Sat</td> <td>26</td>  <td>7:00</td> <td>Day Trip to Strasbourg</td></tr>
 <tr height="18"><td>Sat</td> <td>26</td>  <td>12:00</td> <td>Museum Day</td></tr>
-<tr height="18"><td>Wed</td> <td>30</td>  <td>12:30</td> <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Wed</td> <td>30</td>  <td>12:30</td> <td>LetÂ´s Cook Together</td></tr>
 
   </tbody>
 </table>
@@ -2725,20 +2725,20 @@ language and get a real sense of life in Germany.</p>
 <tr height="18"><td>Sat</td> <td>1</td> <td>16:00</td> <td>BBQ in Ostpark</td></tr>
 <tr height="18"><td>Sun</td> <td>2</td> <td>11:00</td> <td>Day trip to Heidelberg</td></tr>
 <tr height="18"><td>Mon</td> <td>3</td> <td>12:00</td> <td>Mainfest</td></tr>
-<tr height="18"><td>Tue</td> <td>4</td> <td>12:30</td> <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Tue</td> <td>4</td> <td>12:30</td> <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Wed</td> <td>5</td> <td>20:00</td> <td>Jazz Next Door at the Rotlintcafe</td></tr>
-<tr height="18"><td>Thur</td> <td>6</td><td>20:00</td> <td>Magnus´ Farewell Party</td></tr>
+<tr height="18"><td>Thur</td> <td>6</td><td>20:00</td> <td>MagnusÂ´ Farewell Party</td></tr>
 <tr height="18"><td>Sat</td> <td>8</td> <td>     </td><td><a href="http://www.bernemer-kerb.de" target="_blank">Bernermer Kerb </a></td></tr>
 <tr height="18"><td>Sun</td> <td>9</td> <td>11:00</td> <td>Day Trip to Speyer</td></tr>
-<tr height="18"><td>Wed</td> <td>12</td> <td>12:30</td> <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Wed</td> <td>12</td> <td>12:30</td> <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Sat</td> <td>15</td> <td>12:00</td> <td>Brunch</td></tr>
 <tr height="18"><td>Sun</td> <td>16</td>  <td>11:00</td> <td>Day Trip to Marburg</td></tr>
 <tr height="18"><td>Mon</td> <td>17</td> <td>12:30</td> <td>Frankfurt City Tour</td></tr>
-<tr height="18"><td>Wed</td> <td>19</td> <td>12:30</td> <td>Let´s Make Sushi</td></tr>
+<tr height="18"><td>Wed</td> <td>19</td> <td>12:30</td> <td>LetÂ´s Make Sushi</td></tr>
 <tr height="18"><td>Fri</td> <td>21</td> <td>18:00</td> <td>Billiard Night</td></tr>
 <tr height="18"><td>Sat</td> <td>22</td> <td>10:00</td> <td>Hiking in the Taunus</td></tr>
-<tr height="18"><td>Sun</td> <td>23</td> <td>11:00</td> <td>Day Trip to Rüdesheim</td></tr>
-<tr height="18"><td>Mon</td> <td>24</td> <td>12:30</td> <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Sun</td> <td>23</td> <td>11:00</td> <td>Day Trip to RÃ¼desheim</td></tr>
+<tr height="18"><td>Mon</td> <td>24</td> <td>12:30</td> <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Wed</td> <td>26</td> <td>19:00</td> <td>Dinner & Dance at Living</td></tr>
 <tr height="18"><td>Fri</td> <td>28</td> <td>18:00</td> <td>Bowling Night</td></tr>
 <tr height="18"><td>Sat</td> <td>29</td> <td>18:00</td> <td><a href=http://www.museumsuferfest-frankfurt.de/target="_blank">Museumsuferfest</a></td></tr>
@@ -2760,7 +2760,7 @@ language and get a real sense of life in Germany.</p>
       <td>Wed</td>
       <td>1</td>
       <td>13:00</td>
-      <td>Let´s Bake Strawberry Cakes</td>
+      <td>LetÂ´s Bake Strawberry Cakes</td>
     </tr>
     <tr height="18">
       <td>Wed</td>
@@ -2784,7 +2784,7 @@ language and get a real sense of life in Germany.</p>
       <td>Wed</td>
       <td>8</td>
       <td>11:30</td>
-      <td>Let´s Go for Sushi</td>
+      <td>LetÂ´s Go for Sushi</td>
     </tr>
     <tr height="18">
       <td>Thur</td>
@@ -2802,7 +2802,7 @@ language and get a real sense of life in Germany.</p>
       <td>Sat</td>
       <td>11</td>
       <td>11:00</td>
-      <td><a href="http://www.frankfurt.de/sixcms/detail.php?id=3940&_ffmpar[_id_inhalt]=2068746" target="_blank">Höchster Schloßfest </a></td>
+      <td><a href="http://www.frankfurt.de/sixcms/detail.php?id=3940&_ffmpar[_id_inhalt]=2068746" target="_blank">HÃ¶chster SchloÃŸfest </a></td>
     </tr>
     <tr height="18">
       <td>Sun</td>
@@ -2923,7 +2923,7 @@ language and get a real sense of life in Germany.</p>
       <td>Fri</td>
       <td>19</td>
       <td>20:00</td>
-      <td><b>Soirée Française</b></td>
+      <td><b>SoirÃ©e FranÃ§aise</b></td>
     </tr>
     <tr height="18">
       <td>Sun</td>
@@ -2983,7 +2983,7 @@ language and get a real sense of life in Germany.</p>
       <td>Fri</td>
       <td>8</td>
       <td>12:30</td>
-      <td>Let´s Cook Together</td>
+      <td>LetÂ´s Cook Together</td>
     </tr>
     <tr height="18">
       <td>Sat</td>
@@ -3091,7 +3091,7 @@ language and get a real sense of life in Germany.</p>
       <td>Sat</td>
       <td>11</td>
       <td>10:00</td>
-      <td>Nürnberg Tour and Outlet Shopping</td>
+      <td>NÃ¼rnberg Tour and Outlet Shopping</td>
     </tr>
     <tr height="18">
       <td>Sat</td>
@@ -3212,7 +3212,7 @@ language and get a real sense of life in Germany.</p>
       <td>Fri</td>
       <td>20</td>
       <td>20:00</td>
-      <td>1920´s Party</td>
+      <td>1920Â´s Party</td>
     </tr>
     <tr height="18">
       <td>Sat</td>
@@ -3290,7 +3290,7 @@ language and get a real sense of life in Germany.</p>
       <td>Sat</td>
       <td>7</td>
       <td>10:00</td>
-      <td>Nürnberg Tour & Outlet Shopping</td>
+      <td>NÃ¼rnberg Tour & Outlet Shopping</td>
     </tr>    <tr height="18">
       <td>Sun</td>
       <td>8</td>
@@ -3325,7 +3325,7 @@ language and get a real sense of life in Germany.</p>
       <td>Sat</td>
       <td>14</td>
       <td>19:00</td>
-      <td>Valentine´s Dinner Concert at Cafe Imori</td>
+      <td>ValentineÂ´s Dinner Concert at Cafe Imori</td>
     </tr>
     <tr height="18">
       <td>Sun</td>
@@ -3337,7 +3337,7 @@ language and get a real sense of life in Germany.</p>
       <td>Tue</td>
       <td>17</td>
       <td>12:00</td>
-      <td>Let´s Cook Together</td>
+      <td>LetÂ´s Cook Together</td>
     </tr>
     <tr height="18">
       <td>Sat</td>
@@ -3403,7 +3403,7 @@ language and get a real sense of life in Germany.</p>
       <td>Sat</td>
       <td>10</td>
       <td>14:00</td>
-      <td>Day trip to Büdingen</td>
+      <td>Day trip to BÃ¼dingen</td>
     </tr>
         <tr height="18">
       <td>Sat</td>
@@ -6084,6 +6084,6 @@ Ziegler of W&uuml;rzburg University)</td>
 <br>
 <br>
 <br>
-<a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLÄRUNG / DATA-PROTECTION</a></p>
+<a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLÃ„RUNG / DATA-PROTECTION</a></p>
 </body>
 </html>
