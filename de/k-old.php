@@ -5,15 +5,15 @@
        Markus Scherner
        http://www.texmedia.de
 
-       Dieses Script darf für eigene Bedürfnisse angepasst und verändert werden sowie
-       kostenlos benutzt werden. Gerne dürfen Sie dieses Script auch kostenlos
-       verteilen und weitergeben, sofern unser texmedia Copyright in der Datei unverändert
+       Dieses Script darf fÃ¼r eigene BedÃ¼rfnisse angepasst und verÃ¤ndert werden sowie
+       kostenlos benutzt werden. Gerne dÃ¼rfen Sie dieses Script auch kostenlos
+       verteilen und weitergeben, sofern unser texmedia Copyright in der Datei unverÃ¤ndert
        enthalten bleibt.
     */
 
     //-> BITTE ANPASSEN
 
-    $pbetreff[0] = 'Bitte wählen Sie...';
+    $pbetreff[0] = 'Bitte wÃ¤hlen Sie...';
     $pbetreff[1] = 'Programme';
     $pbetreff[2] = 'Reisen';
 	$pbetreff[3] = 'Jobs';
@@ -27,7 +27,7 @@
 
     //--------------------------------------------------------------------------------------------------------------
 
-    // Voreinstellung per Parameterübergabe
+    // Voreinstellung per ParameterÃ¼bergabe
     if(isset($_GET['betreff']) && (int)$_GET['betreff']>0 && (int)$_GET['betreff']<count($pbetreff))
         $pflichtbetreff = true;
 
@@ -43,14 +43,14 @@
 		if(empty($_POST['email']) && empty($_POST['telefon']))  {
             $Nachricht .= $newpoint."Bitte geben Sie Ihre <b>eMail</b> oder <b>Telefonnummer</b> ein, wenn Sie wollen das wir uns mit Ihnen in Kontakt setzen.<br>";
         } elseif(!empty($_POST['email']) && !empty($_POST['email']) && !eregi("^[_a-z0-9-]+(\.[_a-z0-9-]+)*@([a-z0-9-]+\.){1,3}([a-z0-9-]{2,3})$",$_POST['email'])) {
-            $Nachricht .= $newpoint."Bitte geben Sie eine gültige <b>eMail</b> Adresse ein.<br>\n";
+            $Nachricht .= $newpoint."Bitte geben Sie eine gÃ¼ltige <b>eMail</b> Adresse ein.<br>\n";
         } elseif(!empty($_POST['telefon']) && eregi("[^- /0-9]",$_POST['telefon'])) {
             $Nachricht .= $newpoint."Ihre <b>Telefonnummer</b> kann nur aus Zahlen bestehen.<br>\n";
         } elseif(!empty($_POST['telefon']) && strlen($_POST['telefon'])<3) {
             $Nachricht .= $newpoint."Ihre <b>Telefonnummer</b> wurde nicht korrekt eingegeben.<br>\n";
         }
 		if(empty($_POST['betreff']))  {
-            $Nachricht .= $newpoint."Wählen Si bitte ein <b>Betreff</b>.<br>\n";
+            $Nachricht .= $newpoint."WÃ¤hlen Si bitte ein <b>Betreff</b>.<br>\n";
         }
         if(empty($_POST['text']))  {
             $Nachricht .= $newpoint."Sie haben keine <b>Nachricht</b> hinterlassen.<br>\n";
@@ -120,7 +120,7 @@
 
 //----------------------------------------------------------------------------------------------------
 // Hier erfolgt die html-Ausgabe. Diese kann beliebig angepasst werden.
-// Allerdings bitte darauf achten, dass die PHP-Befehle unverändert bleiben.
+// Allerdings bitte darauf achten, dass die PHP-Befehle unverÃ¤ndert bleiben.
 
 ?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
@@ -213,7 +213,7 @@
               <td width="80%"><input type="submit" value="Anfrage senden" width="80" height="31" border="0"></td></tr>
         </table>
         <?php else: ?>
-Danke für Ihre Nachricht. 
+Danke fÃ¼r Ihre Nachricht. 
 <br>
 
         <?php endif;?>    

@@ -43,44 +43,44 @@
 <td width="7%">
 </td>
 <td>
-<b>Französisch 4 Fun</b><br><br />
-Wöchentliche, praxisbezogene Kurse, geleitet von erfahrenen Lehrern.
-Einschließlich der Teilnahme an unseren wunderschönen französischen Parties,
-Film-Nächten, unserer hausgemachten französischen Küche sowie weiteren Kultur- und
-Sprachveranstaltungen. Das gesamte Französisch-Paket kostet 85€ pro Monat.
-Sie werden das Erlebnis genießen!
+<b>FranzÃ¶sisch 4 Fun</b><br><br />
+WÃ¶chentliche, praxisbezogene Kurse, geleitet von erfahrenen Lehrern.
+EinschlieÃŸlich der Teilnahme an unseren wunderschÃ¶nen franzÃ¶sischen Parties,
+Film-NÃ¤chten, unserer hausgemachten franzÃ¶sischen KÃ¼che sowie weiteren Kultur- und
+Sprachveranstaltungen. Das gesamte FranzÃ¶sisch-Paket kostet 85â‚¬ pro Monat.
+Sie werden das Erlebnis genieÃŸen!
 <br /><br />
 <b>Spanisch 4 Fun</b><br><br />
-Wöchentliche, praxisbezogene Kurse, geleitet von erfahrenen Lehrern.
-Einschließlich der Teilnahme an unseren beliebten Salsa-Parties,
-unserem hausgemachten Essen aus spanischsprachigen Ländern sowie weiteren Kultur- und
-Sprachveranstaltungen. Das gesamte Spanisch-Paket kostet 85€ pro Monat.
-Sie werden das Erlebnis genießen!
+WÃ¶chentliche, praxisbezogene Kurse, geleitet von erfahrenen Lehrern.
+EinschlieÃŸlich der Teilnahme an unseren beliebten Salsa-Parties,
+unserem hausgemachten Essen aus spanischsprachigen LÃ¤ndern sowie weiteren Kultur- und
+Sprachveranstaltungen. Das gesamte Spanisch-Paket kostet 85â‚¬ pro Monat.
+Sie werden das Erlebnis genieÃŸen!
 <br /> <br />
 <b>Business Deutsch-Unterricht</b><br><br />
-Lernen Sie Deutsch auf professionellem Niveau. Dieser vierwöchige Kurs beschäftigt
-sich unter anderem mit den Themen: Präsentation, zwischenkultureller Kommunikation,
-multiplen Fall-Studien und Rollenspielen. Dieser Kurs ist geeignet für Anfänger mit
-Vorkenntnissen als auch fur Fortgeschrittene. Die Kosten für den Kurs betragen 100€.
+Lernen Sie Deutsch auf professionellem Niveau. Dieser vierwÃ¶chige Kurs beschÃ¤ftigt
+sich unter anderem mit den Themen: PrÃ¤sentation, zwischenkultureller Kommunikation,
+multiplen Fall-Studien und Rollenspielen. Dieser Kurs ist geeignet fÃ¼r AnfÃ¤nger mit
+Vorkenntnissen als auch fur Fortgeschrittene. Die Kosten fÃ¼r den Kurs betragen 100â‚¬.
 <br /> <br />
 <b>Englisch 4 Fun</b><br><br />
-Wöchentliche, praxisbezogene Kurse, geleitet von erfahrenen Lehrern.
-Einschließlich der Teilnahme an unseren beliebten, englischsprachigen Spiel-Abenden,
+WÃ¶chentliche, praxisbezogene Kurse, geleitet von erfahrenen Lehrern.
+EinschlieÃŸlich der Teilnahme an unseren beliebten, englischsprachigen Spiel-Abenden,
 sowie weiteren Kultur- und Sprachveranstaltungen. Das gesamte Englisch-Paket
-kostet 85€ pro Monat. Sie werden das Erlebnis genießen!
+kostet 85â‚¬ pro Monat. Sie werden das Erlebnis genieÃŸen!
 <br /> <br />
 <b>Japanisch 4 Fun</b><br><br />
-Wöchentliche, praxisbezogene Kurse, geleitet von erfahrenen Lehrern.
-Einschließlich der Teilnahme an unseren beliebten Sushi-Kochkursen
+WÃ¶chentliche, praxisbezogene Kurse, geleitet von erfahrenen Lehrern.
+EinschlieÃŸlich der Teilnahme an unseren beliebten Sushi-Kochkursen
 sowie weiteren Kultur- und Sprachveranstaltungen. Das gesamte Japanisch-Paket
-kostet 85€ pro Monat. Sie werden das Erlebnis genießen!
+kostet 85â‚¬ pro Monat. Sie werden das Erlebnis genieÃŸen!
 <br /><br />
 <b>Chinesisch 4 Fun</b><br><br />
-Wöchentliche, praxisbezogene Kurse, geleitet von erfahrenen Lehrern.
-Einschließlich der Teilnahme an Kalligraphiekursen, chinesischen Dinner- und
+WÃ¶chentliche, praxisbezogene Kurse, geleitet von erfahrenen Lehrern.
+EinschlieÃŸlich der Teilnahme an Kalligraphiekursen, chinesischen Dinner- und
 Konversationsabenden sowie weiteren Kultur- und Sprachveranstaltungen.
-Das gesamte Chinesisch-Paket kostet 85€ pro Monat.
-Sie werden das Erlebnis genießen!
+Das gesamte Chinesisch-Paket kostet 85â‚¬ pro Monat.
+Sie werden das Erlebnis genieÃŸen!
 </td>
 <td width="7%">
 </td>

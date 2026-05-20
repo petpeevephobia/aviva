@@ -57,7 +57,7 @@ function popitup(url) {
 	<li><a href="index.php" class="style3">Home</a></li>
 	<li><a href="faq.php" class="style3">FAQ</a></li>
 	<li><a href="programs.php" class="style3">Programm</a></li>
-	<li><a href="activities.php" class="style3">Aktivitäten</a></li>
+	<li><a href="activities.php" class="style3">AktivitÃ¤ten</a></li>
     <li><a href="travels.php" class="style3">Reisen</a></li>
 	<li><a href="accommodation.php" class="style3">Unterkunft</a></li>
 	<li class="active"><a href="student.php" class="style3">Services</a></li>
@@ -103,6 +103,6 @@ function popitup(url) {
     
   </div>
 <p class="impressum"> <br><br><br><br><br>
-<a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLÄRUNG / DATA-PROTECTION</a></p>
+<a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLÃ„RUNG / DATA-PROTECTION</a></p>
 </body>
 </html>

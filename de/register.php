@@ -50,7 +50,7 @@ newWindow=window.open(URLtoOpen, windowName, windowFeatures); }
         <li><a href="index.php" class="style3">Home</a></li>
         <li><a href="faq.php" class="style3">FAQ</a></li>
         <li><a href="programs.php" class="style3">Programm</a></li>
-        <li><a href="activities.php" class="style3">Aktivit�ten</a></li>
+        <li><a href="activities.php" class="style3">Aktivitäten</a></li>
         <li><a href="travels.php" class="style3">Reisen</a></li>
         <li><a href="accommodation.php" class="style3">Unterkunft</a></li>
         <li><a href="student.php" class="style3">Services</a></li>
@@ -82,6 +82,6 @@ newWindow=window.open(URLtoOpen, windowName, windowFeatures); }
   
   <!-- BEGIN #footer -->
   <p class="impressum"> <br><br><br><br><br>
-  <a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKL�RUNG / DATA-PROTECTION</a></p>
+  <a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLÄRUNG / DATA-PROTECTION</a></p>
 </body>
 </html>

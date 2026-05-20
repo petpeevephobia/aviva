@@ -87,19 +87,19 @@ function popitup2(url) {
       <div id="c2">
         <h2 align="left"><strong>Preise</strong></h2>
 <br />
-<h3 align="left"><strong>Kurspreise f�r Fremdsprachen</strong></h3>
-<p>F�r Chinesisch, Englisch, Franz�sisch, Japanisch, Italienisch, Niederl�ndisch und Spanisch <a href="../PDF/Class.pdf"><b>hier klicken</b></a>. 
+<h3 align="left"><strong>Kurspreise für Fremdsprachen</strong></h3>
+<p>Für Chinesisch, Englisch, Französisch, Japanisch, Italienisch, Niederländisch und Spanisch <a href="../PDF/Class.pdf"><b>hier klicken</b></a>. 
 <br /><br /><br /></p>
-<h3 align="left"><strong>Preise f�r Deutschkurse</strong></h3>
+<h3 align="left"><strong>Preise für Deutschkurse</strong></h3>
         <p align="left">Wir bieten insgesamt 4 Deutsch-Programme, f&uuml;r <a href="chart.php" onclick="return popitup('chart.php')"
 	><strong>7 verschiedene Sprachstufen</strong></a>, passend f&uuml;r alle Anspr&uuml;che und Vorkenntnisse an.</p>
         <p align="left">&nbsp;</p>
- <p align="left">       Intensiv Programm A:   <strong>20 Unterrichtsstunden pro Woche</strong>, Qualifizierung f�r ein deutsches Visum<br />
-                        Intensiv Programm D:   <strong>30 Unterrichtsstunden pro Woche</strong>, Qualifizierung f�r ein deutsches Visum<br />
-                        Abendprogramm E1:      <strong>2 Unterrichtsstunden pro Woche</strong>, 1 w�chentlicher Termin<br />
-                        Abendprogramm E2:      <strong>4 Unterrichtsstunden pro Woche</strong>, 2 w�chentliche Termine</p>
+ <p align="left">       Intensiv Programm A:   <strong>20 Unterrichtsstunden pro Woche</strong>, Qualifizierung für ein deutsches Visum<br />
+                        Intensiv Programm D:   <strong>30 Unterrichtsstunden pro Woche</strong>, Qualifizierung für ein deutsches Visum<br />
+                        Abendprogramm E1:      <strong>2 Unterrichtsstunden pro Woche</strong>, 1 wöchentlicher Termin<br />
+                        Abendprogramm E2:      <strong>4 Unterrichtsstunden pro Woche</strong>, 2 wöchentliche Termine</p>
         <p align="left">&nbsp;</p>
-        <p align="left"><strong>Preise beinhalten Steuern sowie Geb�hren f�r Anmeldung, Pr�fung und Zertifikate*.<br /> 
+        <p align="left"><strong>Preise beinhalten Steuern sowie Gebühren für Anmeldung, Prüfung und Zertifikate*.<br /> 
                                 Alle Preisangaben in Euro.</strong><br />
                         &nbsp;<br />
                         1 Monat = 4 Wochen. &nbsp; &nbsp;    1 Unterrichtsstunde = 45 Minuten<br />
@@ -528,9 +528,9 @@ function popitup2(url) {
         <p align="left">
           <!-- END #c2 -->
           <br /> <br />
-          *Pr�fungen und Zertifikate am Ende jeder Stufe, von A1 bis C2,  kostenlos f�r A-viva Sprachstudenten in den jeweiligen Kursen.  Durchschnittlich bestehen etwa 95% aller A-viva Sprachstudenten die Pr�fungen. Bei Verpassen eines Pr�fungstermins kann dieser f�r eine Geb�hr von 100� bis 150� zu einem anderen Datum nachgeholt werden.<br /> <br /> 
+          *Prüfungen und Zertifikate am Ende jeder Stufe, von A1 bis C2,  kostenlos für A-viva Sprachstudenten in den jeweiligen Kursen.  Durchschnittlich bestehen etwa 95% aller A-viva Sprachstudenten die Prüfungen. Bei Verpassen eines Prüfungstermins kann dieser für eine Gebühr von 100€ bis 150€ zu einem anderen Datum nachgeholt werden.<br /> <br /> 
 
-          *F�r externe Sprachstudenten von anderen Schulen betragen die Geb�hren bei A-viva 200� f�r Pr�fungen der Stufen A1 / A2 und 300� f�r die Pr�fungen B1 bis C2. Bitte beachten Sie, dass wir nur Sprachstudenten mit entsprechenden Vorkenntnissen zu Pr�fungen zulassen.  
+          *Für externe Sprachstudenten von anderen Schulen betragen die Gebühren bei A-viva 200€ für Prüfungen der Stufen A1 / A2 und 300€ für die Prüfungen B1 bis C2. Bitte beachten Sie, dass wir nur Sprachstudenten mit entsprechenden Vorkenntnissen zu Prüfungen zulassen.  
           </p>        
         
 
@@ -543,6 +543,6 @@ function popitup2(url) {
     
   </div>
 <p class="impressum"> <br><br><br><br><br>
-<a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKL�RUNG / DATA-PROTECTION</a></p>
+<a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLÄRUNG / DATA-PROTECTION</a></p>
 </body>
 </html>

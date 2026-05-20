@@ -60,7 +60,7 @@ function popitup(url) {
 	<li><a href="index.php" class="style3">Home</a></li>
 	<li><a href="faq.php" class="style3">FAQ</a></li>
 	<li class="active"><a href="programs.php" class="style3">Programm</a></li>
-	<li><a href="activities.php" class="style3">Aktivitäten</a></li>
+	<li><a href="activities.php" class="style3">AktivitÃ¤ten</a></li>
     <li><a href="travels.php" class="style3">Reisen</a></li>
 	<li><a href="accommodation.php" class="style3">Unterkunft</a></li>
 	<li><a href="student.php" class="style3">Services</a></li>
@@ -78,10 +78,10 @@ function popitup(url) {
       </div><!-- BEGIN #c2 -->
       <div id="c2">
         <h2 align="left"><strong>Programm</strong></h2>
-        <p><b><a href="http://www.a-viva.net/PDF/Class.pdf" target="_blank">Kursübersicht</a></b></p><br />
+        <p><b><a href="http://www.a-viva.net/PDF/Class.pdf" target="_blank">KursÃ¼bersicht</a></b></p><br />
         <p>
       <!-- END #c2 -->
-	Wir bieten Kurse für Deutsch, Englisch, Französisch, Spanisch, Chinesisch, Niederländisch, Portugiesisch und Japanisch an. Weitere Sprachen auf Nachfrage.
+	Wir bieten Kurse fÃ¼r Deutsch, Englisch, FranzÃ¶sisch, Spanisch, Chinesisch, NiederlÃ¤ndisch, Portugiesisch und Japanisch an. Weitere Sprachen auf Nachfrage.
         Unsere Kurse finden das ganze Jahr &uuml;ber statt. Zus&auml;tzlich haben wir spezielle Ferienkurse in den Sommer-, Winter- und Fr&uuml;hlings-Ferien. <br />
         <br />
         Das A-viva <strong>CLASS</strong> -Konzept (<strong>C</strong>ulture, <strong>L</strong>anguage, <strong>A</strong>rts, <strong>S</strong>ports, <strong>S</strong>ocial events) basiert auf dem Prinzip &quot;Lernen mit Spa&szlig;&quot; - wenn das Lernen Spa&szlig; macht, dann sind Kursteilnehmer motiviert und das Lernen wird effektiv.  Unser Lehrplan beinhaltet kreative Lehrmethoden und viele zus&auml;tzliche Unternehmungen. So sieht <a href="day.php" onclick="return popitup('day.php')"
@@ -105,6 +105,6 @@ function popitup(url) {
     
   </div>
 <p class="impressum"> <br><br><br><br><br>
-<a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLÄRUNG / DATA-PROTECTION</a></p>
+<a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLÃ„RUNG / DATA-PROTECTION</a></p>
 </body>
 </html>

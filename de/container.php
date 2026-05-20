@@ -62,7 +62,7 @@ function popitup(url) {
  <ul>
 	<li class="active"><a href="index.php" target="loader" class="style3">Home</a></li>
 	<li><a href="programs.php" target="loader" class="style3">Programm</a></li>
-	<li><a href="activities.php" target="loader" class="style3">Aktivit‰ten</a></li>
+	<li><a href="activities.php" target="loader" class="style3">Aktivit√§ten</a></li>
     <li><a href="travels.php" target="loader" class="style3">Reisen</a></li>
 	<li><a href="accommodation.php" target="loader" class="style3">Unterkunft</a></li>
 	<li><a href="student.php" target="loader" class="style3">Services</a></li>

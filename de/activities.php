@@ -54,7 +54,7 @@ function popitup(url) {
         <li><a href="index.php" class="style3">Home</a></li>
         <li><a href="faq.php" class="style3">FAQ</a></li>
         <li><a href="programs.php" class="style3">Programm</a></li>
-        <li class="active"><a href="activities.php" class="style3">Aktivitäten</a></li>
+        <li class="active"><a href="activities.php" class="style3">AktivitÃ¤ten</a></li>
     <li><a href="travels.php" class="style3">Reisen</a></li>
         <li><a href="accommodation.php" class="style3">Unterkunft</a></li>
         <li><a href="student.php" class="style3">Services</a></li>
@@ -81,23 +81,23 @@ function popitup(url) {
                 <p>Unsere Aktivit&auml;ten werden besonders mit dem Ziel ausgerichtet, das Erlernte umzusetzen und die Sprache mit realen Erfahrungen in der Stadt zu verbinden. Das Besondere bei diesen Aktivit&auml;ten ist, dass wir Muttersprachler entweder als Mitkoordinatoren einladen oder diese an unseren Aktivit&auml;ten teilnehmen. So geben wir den Kursteilnehmern weitere Gelegenheiten die Sprache zu &uuml;ben, eine aktive Beziehung zu ihrer Umwelt aufzubauen und eine Vorstellung von dem Leben in Deutschland zu bekommen.
     Kursteilnehmer k&ouml;nnen jederzeit weitere Vorschl&auml;ge f&uuml;r gew&uuml;nschte Aktivit&auml;ten machen.
     </p>
-  <br /> <p> *Alle Aktivit&auml;ten sind kostenlos, mit Ausnahme jener, die mit * gekennzeichnet sind. Jedes * entspricht etwa 4€. Anmeldung per Email empfohlen.</p>
+  <br /> <p> *Alle Aktivit&auml;ten sind kostenlos, mit Ausnahme jener, die mit * gekennzeichnet sind. Jedes * entspricht etwa 4â‚¬. Anmeldung per Email empfohlen.</p>
 <br>
-<h3> <b style="color:red;" > ** Wir möchten darauf hinweisen, dass wir seit September 2017 alle unsere Events, Aktivitäten und Jobangebote nur noch auf unserer <a href=https://www.facebook.com/groups/12517655820/?ref=ts&fref=ts > Facebook Seite </a> oder auf der Info-Tafel an der Rezeption veröffentlichten. **</b> </h3>
+<h3> <b style="color:red;" > ** Wir mÃ¶chten darauf hinweisen, dass wir seit September 2017 alle unsere Events, AktivitÃ¤ten und Jobangebote nur noch auf unserer <a href=https://www.facebook.com/groups/12517655820/?ref=ts&fref=ts > Facebook Seite </a> oder auf der Info-Tafel an der Rezeption verÃ¶ffentlichten. **</b> </h3>
 <br>
-<h3><b>August 2017 - Für weitere Events und Jobangebote bitte unsere <a href="https://www.facebook.com/groups/12517655820/?ref=ts&fref=ts" target="_blank">Facebook</a> Seite besuchen.
+<h3><b>August 2017 - FÃ¼r weitere Events und Jobangebote bitte unsere <a href="https://www.facebook.com/groups/12517655820/?ref=ts&fref=ts" target="_blank">Facebook</a> Seite besuchen.
 <br>                                                            
 </b></h3>
 <br>
 <table class="aktivtable" border="1">
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
 	 
-<tr height="18"><td>Fr </td><td>4  </td><td>17:00 </td><td>Picknik im Günthersburg Park                                                   </td></tr>
+<tr height="18"><td>Fr </td><td>4  </td><td>17:00 </td><td>Picknik im GÃ¼nthersburg Park                                                   </td></tr>
 <tr height="18"><td>Sa </td><td>5  </td><td>10:00 </td><td>Ausflug nach Strasbourg                                                            </td></tr>
 <tr height="18"><td>Di </td><td>8  </td><td>14:30 </td><td>Dialog Museum                                                               </td></tr>
 <tr height="18"><td>Fr </td><td>11 </td><td>19:30 </td><td>Open Air Oper im Palmengarten                                                </td></tr>
-<tr height="18"><td>So </td><td>13 </td><td>17:00 </td><td>BBQ & Früchte Sammeln                                                           </td></tr>
-<tr height="18"><td>Mi </td><td>16 </td><td>13:30 </td><td>Let´s Cook Together                                                           </td></tr>
+<tr height="18"><td>So </td><td>13 </td><td>17:00 </td><td>BBQ & FrÃ¼chte Sammeln                                                           </td></tr>
+<tr height="18"><td>Mi </td><td>16 </td><td>13:30 </td><td>LetÂ´s Cook Together                                                           </td></tr>
 <tr height="18"><td>Fr </td><td>18 </td><td>13:30 </td><td>Fahrradtour nach Bad Homburg                                                      </td></tr>
 <tr height="18"><td>So </td><td>20 </td><td>12:00 </td><td>Fahrradtour durch den Rheingau                                                         </td></tr>
 <tr height="18"><td>Sa </td><td>26 </td><td>12:00 </td><td>Rotlintstrassenfest                                                           </td></tr>
@@ -118,12 +118,12 @@ function popitup(url) {
 
 <tr height="18"><td>Sa   </td><td>1    </td><td>   19:00</td><td>  Rhein in Flammen                                                       </td></tr>
 <tr height="18"><td>Mi   </td><td>5    </td><td>   13:30</td><td>  Lunch auf dem Campus                                                   </td></tr>
-<tr height="18"><td>Fr   </td><td>7    </td><td>   14:00</td><td>  Führung durch die Höchster Altstadt                                    </td></tr>
+<tr height="18"><td>Fr   </td><td>7    </td><td>   14:00</td><td>  FÃ¼hrung durch die HÃ¶chster Altstadt                                    </td></tr>
 <tr height="18"><td>Sa   </td><td>8    </td><td>   10:00</td><td>  Ausflug nach Holland                                                        </td></tr>
 <tr height="18"><td>Mi   </td><td>19   </td><td>   13:30</td><td>  Lunch am Bethmann Park                                             </td></tr>
 <tr height="18"><td>Sa   </td><td>22   </td><td>   10:00</td><td>  Ausflug nach Metzingen                                                      </td></tr>
 <tr height="18"><td>Mi   </td><td>26   </td><td>   14:00</td><td>  Geldmuseum                                                             </td></tr>
-<tr height="18"><td>Fr   </td><td>28   </td><td>   19:00</td><td>  Film Festival im Höchster Schloss                                   </td></tr>
+<tr height="18"><td>Fr   </td><td>28   </td><td>   19:00</td><td>  Film Festival im HÃ¶chster Schloss                                   </td></tr>
 <tr height="18"><td>Sa   </td><td>29   </td><td>   16:00</td><td>  BBQ Party                                                              </td></tr>
 			 
 		 
@@ -143,7 +143,7 @@ function popitup(url) {
 <tr height="18"><td>Do     </td><td>8    </td><td>    18:30  </td><td>  Dragon Boat Training                       </td></tr>
 <tr height="18"><td>So     </td><td>11   </td><td>    10:00  </td><td>  Dragon Boat Competition                    </td></tr>
 <tr height="18"><td>Mi     </td><td>14   </td><td>    21:00  </td><td>  Dinner and Conversation                    </td></tr>
-<tr height="18"><td>So     </td><td>18   </td><td>    15:00  </td><td>  Erdbeeren Pflücken                         </td></tr>
+<tr height="18"><td>So     </td><td>18   </td><td>    15:00  </td><td>  Erdbeeren PflÃ¼cken                         </td></tr>
 <tr height="18"><td>Mi     </td><td>21   </td><td>    21:00  </td><td>  Dinner and Conversation                    </td></tr>
 <tr height="18"><td>So     </td><td>25   </td><td>    16:00  </td><td>  BBQ Party                                  </td></tr>
 
@@ -162,11 +162,11 @@ function popitup(url) {
 
 <tr height="18"><td>Do   </td><td> 4 </td><td>   20:30 </td><td> Art Bar Konzert                                                </td></tr>
 <tr height="18"><td>Sa   </td><td> 6 </td><td>   20:00 </td><td> Nacht der Museen                                               </td></tr>
-<tr height="18"><td>Fr   </td><td>12 </td><td>   19:00 </td><td> Let´s Go Bowling!                                              </td></tr>
+<tr height="18"><td>Fr   </td><td>12 </td><td>   19:00 </td><td> LetÂ´s Go Bowling!                                              </td></tr>
 <tr height="18"><td>Mi   </td><td>17 </td><td>   17:30 </td><td> Seminar: Die Geschichte Hessens                                </td></tr>
 <tr height="18"><td>So   </td><td>21 </td><td>   11:00 </td><td> Fahrradtour                                                    </td></tr>
 <tr height="18"><td>Mi   </td><td>24 </td><td>   19:00 </td><td> Boot Training                                                  </td></tr>
-<tr height="18"><td>Fr   </td><td>26 </td><td>   18:30 </td><td> Let´s Party!                                                   </td></tr>
+<tr height="18"><td>Fr   </td><td>26 </td><td>   18:30 </td><td> LetÂ´s Party!                                                   </td></tr>
 <tr height="18"><td>So   </td><td>28 </td><td>   10:00 </td><td> Wanderausflug                                                  </td></tr>
 <tr height="18"><td>Di   </td><td>30 </td><td>   19:00 </td><td> Boot Training                                                  </td></tr>
 
@@ -184,10 +184,10 @@ function popitup(url) {
 
 <tr height="18"><td>Sa    </td><td>1  </td><td>    12:00 </td><td> Indisches Festival                                               </td></tr>
 <tr height="18"><td>Sa    </td><td>8  </td><td>    10:00 </td><td> Ausflug nach Holland                                             </td></tr>
-<tr height="18"><td>Fr    </td><td>21 </td><td>    19:00 </td><td> Konzert in der Dreikönigskirche                                  </td></tr>
-<tr height="18"><td>Sa    </td><td>22 </td><td>    18:00 </td><td> Grüne Soße Festival                                              </td></tr>
+<tr height="18"><td>Fr    </td><td>21 </td><td>    19:00 </td><td> Konzert in der DreikÃ¶nigskirche                                  </td></tr>
+<tr height="18"><td>Sa    </td><td>22 </td><td>    18:00 </td><td> GrÃ¼ne SoÃŸe Festival                                              </td></tr>
 <tr height="18"><td>Do    </td><td>27 </td><td>    15:00 </td><td> Historische Tour durch Frankfurt                                 </td></tr>
-<tr height="18"><td>Fr    </td><td>28 </td><td>    14:00 </td><td> Historische Tour durch die Höchster Altstadt                     </td></tr>
+<tr height="18"><td>Fr    </td><td>28 </td><td>    14:00 </td><td> Historische Tour durch die HÃ¶chster Altstadt                     </td></tr>
 <tr height="18"><td>So    </td><td>30 </td><td>    14:00 </td><td> BBQ Party!                                                       </td></tr>
 
 </tbody>                                                                                                                                                            
@@ -195,17 +195,17 @@ function popitup(url) {
 <br>
 <br>
 <br>
-<h3><b>März 2017 
+<h3><b>MÃ¤rz 2017 
 <br>                                                            
 </b></h3>
 <br>
 <table class="aktivtable" border="1">
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
 
-<tr height="18"><td>Mi</td><td> 1  </td><td>15:00   </td><td>Führung durch Frankfurt                                          </td></tr>
+<tr height="18"><td>Mi</td><td> 1  </td><td>15:00   </td><td>FÃ¼hrung durch Frankfurt                                          </td></tr>
 <tr height="18"><td>Fr</td><td> 3  </td><td>13:30   </td><td>Persisches Lunch Buffet                                              </td></tr>
 <tr height="18"><td>Sa</td><td> 3  </td><td>12:00   </td><td>Job Messe                                                          </td></tr>
-<tr height="18"><td>So</td><td> 4  </td><td>14:00   </td><td>Führung durch die Oberurseler Altstadt                                 </td></tr>
+<tr height="18"><td>So</td><td> 4  </td><td>14:00   </td><td>FÃ¼hrung durch die Oberurseler Altstadt                                 </td></tr>
 <tr height="18"><td>Mi</td><td> 8  </td><td>13:30   </td><td>Brunch                                                            </td></tr>
 <tr height="18"><td>Sa</td><td> 11 </td><td>11:00   </td><td>Job Messe                                                          </td></tr>
 <tr height="18"><td>Mi</td><td> 15 </td><td>13:30   </td><td>Brunch                                                            </td></tr>
@@ -227,7 +227,7 @@ function popitup(url) {
 
 <tr height="18"><td>Mi  </td><td> 1    </td><td>13:30   </td><td>Kaffee und Konversationstraining                             </td></tr>
 <tr height="18"><td>Sa  </td><td> 4    </td><td>19:30   </td><td>Spanische Dinner Party                                       </td></tr>
-<tr height="18"><td>Sa  </td><td>11    </td><td>10:30   </td><td>Ausflug nach Straßburg                                       </td></tr>
+<tr height="18"><td>Sa  </td><td>11    </td><td>10:30   </td><td>Ausflug nach StraÃŸburg                                       </td></tr>
 <tr height="18"><td>Di  </td><td>14    </td><td>13:30   </td><td>Schlittschuhlaufen                                           </td></tr>
 <tr height="18"><td>So  </td><td>19    </td><td>20:00   </td><td>Sushi Party                                                  </td></tr>
 <tr height="18"><td>Mi  </td><td>22    </td><td>13:30   </td><td>Kaffee und Konversationstraining                             </td></tr>
@@ -247,7 +247,7 @@ function popitup(url) {
 
 <tr height="18"><td>Mi     </td><td>11       </td><td>13:30 </td><td>Kaffee und Konversationstraining                             </td></tr>
 <tr height="18"><td>Sa     </td><td>14       </td><td>18:00 </td><td>Italienische Dinner Party                                    </td></tr>
-<tr height="18"><td>Sa     </td><td>21       </td><td>10:00 </td><td>Ausflug nach Düsseldorf                                      </td></tr>
+<tr height="18"><td>Sa     </td><td>21       </td><td>10:00 </td><td>Ausflug nach DÃ¼sseldorf                                      </td></tr>
 <tr height="18"><td>Mi     </td><td>25       </td><td>20:00 </td><td>Dinner und Spieleabend                                       </td></tr>
 <tr height="18"><td>Fr     </td><td>27       </td><td>13:30 </td><td>Indische Party                                               </td></tr>
 <tr height="18"><td>So     </td><td>29       </td><td>12:00 </td><td>Wanderausflug                                                </td></tr>
@@ -265,7 +265,7 @@ function popitup(url) {
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
 
 <tr height="18"><td>Fr </td><td>2  </td><td>13:30     </td><td>Weihnachtsmarkt                                               </td></tr>
-<tr height="18"><td>Mi </td><td>7  </td><td>20:00     </td><td>Jazz Konzert im Rotlint Café                                  </td></tr>
+<tr height="18"><td>Mi </td><td>7  </td><td>20:00     </td><td>Jazz Konzert im Rotlint CafÃ©                                  </td></tr>
 <tr height="18"><td>Sa </td><td>10 </td><td>19:00     </td><td>A-viva Christmas Party!                                       </td></tr>
 <tr height="18"><td>Fr </td><td>16 </td><td>13:30     </td><td>Weihnachtsmarkt                                               </td></tr>
 
@@ -312,11 +312,11 @@ function popitup(url) {
 <tr height="18"><td>Do		</td><td>13		</td><td>14:00		</td><td>Japanese for Fun  Free Trial Class                  </td></tr>
 <tr height="18"><td>Sa		</td><td>15		</td><td>09:00		</td><td>Ausflug in den Rheingau & Grape Picking                    </td></tr>
 <tr height="18"><td>So		</td><td>16		</td><td>09:00		</td><td>Ausflug in den Rheingau & Grape Picking                    </td></tr>
-<tr height="18"><td>Mo		</td><td>17		</td><td>14:00		</td><td>Tour durch die Europäische Zentral Bank            </td></tr>
+<tr height="18"><td>Mo		</td><td>17		</td><td>14:00		</td><td>Tour durch die EuropÃ¤ische Zentral Bank            </td></tr>
 <tr height="18"><td>Do		</td><td>20		</td><td>13:30		</td><td>Goethe Haus                                         </td></tr>
 <tr height="18"><td>So		</td><td>23		</td><td>16:00		</td><td>BBQ Party                                           </td></tr>
 <tr height="18"><td>Mi		</td><td>26		</td><td>14:00		</td><td>Italian for Fun  Kostenlose Probestunde                   </td></tr>
-<tr height="18"><td>Fr		</td><td>28		</td><td>19:00		</td><td>Konzert in der Dreikönigskirche                         </td></tr>
+<tr height="18"><td>Fr		</td><td>28		</td><td>19:00		</td><td>Konzert in der DreikÃ¶nigskirche                         </td></tr>
 <tr height="18"><td>So		</td><td>30		</td><td>10:00		</td><td>Wandern/Fahrradtour                                 </td></tr>
 
 </tbody>                                                                                                                                                            
@@ -333,8 +333,8 @@ function popitup(url) {
 
 <tr height="18"><td>Fr  </td><td> 2 </td><td>18:00 </td><td>Block Party                                                     </td></tr>
 <tr height="18"><td>Mi  </td><td> 7 </td><td>13:00 </td><td>Lunch am Campus                                                 </td></tr>
-<tr height="18"><td>Fr  </td><td> 9 </td><td>13:30 </td><td>Backen für eine gute Sache                                      </td></tr>
-<tr height="18"><td>Sa  </td><td>10 </td><td>14:00 </td><td>Rotlintstraßenfest                                              </td></tr>
+<tr height="18"><td>Fr  </td><td> 9 </td><td>13:30 </td><td>Backen fÃ¼r eine gute Sache                                      </td></tr>
+<tr height="18"><td>Sa  </td><td>10 </td><td>14:00 </td><td>RotlintstraÃŸenfest                                              </td></tr>
 <tr height="18"><td>Di  </td><td>13 </td><td>13:30 </td><td>Dippemess                                                       </td></tr>
 <tr height="18"><td>Fr  </td><td>16 </td><td>14:00 </td><td>Japanisch Probeunterricht                                       </td></tr>
 <tr height="18"><td>So  </td><td>18 </td><td>11:00 </td><td>Ausflug nach Speyer                                             </td></tr>
@@ -342,7 +342,7 @@ function popitup(url) {
 <tr height="18"><td>Fr  </td><td>23 </td><td>14:00 </td><td>Koreanisch Probeunterricht                                      </td></tr>
 <tr height="18"><td>So  </td><td>25 </td><td>11:00 </td><td>Ausflug nach Bad Homburg                                        </td></tr>
 <tr height="18"><td>Di  </td><td>27 </td><td>18:00 </td><td>Kinotag                                                         </td></tr>
-<tr height="18"><td>Do  </td><td>29 </td><td>13:00 </td><td>Besichtigung der Börse                                          </td></tr>
+<tr height="18"><td>Do  </td><td>29 </td><td>13:00 </td><td>Besichtigung der BÃ¶rse                                          </td></tr>
 
 </tbody>                                                                                                                                                            
  </table>     
@@ -361,14 +361,14 @@ function popitup(url) {
 <tr height="18"><td>Sa		</td><td>6		</td><td>09:00		</td><td>Fahrradtour im Rheingau						     </td></tr>
 <tr height="18"><td>Mi		</td><td>10		</td><td>18:00		</td><td>Stoffelfest und Picknick						     </td></tr>
 <tr height="18"><td>Fr		</td><td>12		</td><td>17:00		</td><td>Tour durch den Bolongaropalast						 </td></tr>
-<tr height="18"><td>Sa		</td><td>13		</td><td>10:00		</td><td>Ausflug nach Würzburg						         </td></tr>
+<tr height="18"><td>Sa		</td><td>13		</td><td>10:00		</td><td>Ausflug nach WÃ¼rzburg						         </td></tr>
 <tr height="18"><td>Mi		</td><td>17		</td><td>17:00		</td><td>Opel Zoo						                 </td></tr>
 <tr height="18"><td>Fr		</td><td>19		</td><td>13:30		</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>						                 </td></tr>
 <tr height="18"><td>Sa		</td><td>20		</td><td>11:00		</td><td>Ausflug nach Bad Homburg						     </td></tr>
 <tr height="18"><td>Di		</td><td>23		</td><td>13:30		</td><td>Indisches Buffet 						             </td></tr>
 <tr height="18"><td>Fr		</td><td>26		</td><td>13:30		</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>						                 </td></tr>
-<tr height="18"><td>Sa		</td><td>27		</td><td>11:00		</td><td>Ausflug nach Rüdesheim						         </td></tr>
-<tr height="18"><td>Di		</td><td>30		</td><td>13:30		</td><td>Führung durch Jüdische Synagogue                        </td></tr>
+<tr height="18"><td>Sa		</td><td>27		</td><td>11:00		</td><td>Ausflug nach RÃ¼desheim						         </td></tr>
+<tr height="18"><td>Di		</td><td>30		</td><td>13:30		</td><td>FÃ¼hrung durch JÃ¼dische Synagogue                        </td></tr>
 
 </tbody>                                                                                                                                                            
  </table>     
@@ -382,17 +382,17 @@ function popitup(url) {
 <table class="aktivtable" border="1">
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
 
-<tr height="18"><td>Sa	</td><td>2	</td><td>16:00	</td><td>Erdbeeren pflücken			                                </td></tr>
+<tr height="18"><td>Sa	</td><td>2	</td><td>16:00	</td><td>Erdbeeren pflÃ¼cken			                                </td></tr>
 <tr height="18"><td>Mi	</td><td>6	</td><td>13:30	</td><td>Lunch on Campus 			                                </td></tr>
 <tr height="18"><td>Fr	</td><td>8	</td><td>17:00	</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>			                                        </td></tr>
-<tr height="18"><td>Sa	</td><td>9	</td><td>10:00	</td><td>Ausflug nach Köln			                                    </td></tr>
+<tr height="18"><td>Sa	</td><td>9	</td><td>10:00	</td><td>Ausflug nach KÃ¶ln			                                    </td></tr>
 <tr height="18"><td>Mi	</td><td>13	</td><td>13:30	</td><td>Dialogmuseum			                                    </td></tr>
-<tr height="18"><td>Fr	</td><td>15	</td><td>13:30	</td><td>Elina´s Kochshow			                            </td></tr>
+<tr height="18"><td>Fr	</td><td>15	</td><td>13:30	</td><td>ElinaÂ´s Kochshow			                            </td></tr>
 <tr height="18"><td>Sa	</td><td>16	</td><td>19:00	</td><td>Bal Populair 			                                    </td></tr>
 <tr height="18"><td>So	</td><td>17	</td><td>11:00	</td><td>Ausflug nach Bad Nauheim			                            </td></tr>
-<tr height="18"><td>Mi	</td><td>20	</td><td>13:30	</td><td>Jüdisches Museeum			                                    </td></tr>
+<tr height="18"><td>Mi	</td><td>20	</td><td>13:30	</td><td>JÃ¼disches Museeum			                                    </td></tr>
 <tr height="18"><td>Fr	</td><td>22	</td><td>20:00	</td><td>Open Air Kurzfilm Festival			                    </td></tr>
-<tr height="18"><td>Sa	</td><td>23	</td><td>10:00	</td><td>Ausflug nach Straßburg 			                            </td></tr>
+<tr height="18"><td>Sa	</td><td>23	</td><td>10:00	</td><td>Ausflug nach StraÃŸburg 			                            </td></tr>
 <tr height="18"><td>So	</td><td>24	</td><td>18:00	</td><td>Palmengarten & Kammeroper 			                        </td></tr>
 <tr height="18"><td>Do	</td><td>28	</td><td>13:30	</td><td>Japanisch / Koreanische Party			                        </td></tr>
 <tr height="18"><td>Fr	</td><td>29	</td><td>13:30	</td><td>Ausflug nach Mainz                                              </td></tr>
@@ -413,7 +413,7 @@ function popitup(url) {
 <tr height="18"><td>Mi	 	</td><td>1	 	</td><td> 	 		</td><td>MBA Exams 	 	 	 	 	 	               </td></tr>
 <tr height="18"><td>Do	 	</td><td>2	 	</td><td> 	 		</td><td>MBA Exams 	 	 	 	 	 	               </td></tr>
 <tr height="18"><td>Fr	 	</td><td>3	 	</td><td>19:00	 	</td><td>Drachen Boot Training 	 	 	 	 	 	   </td></tr>
-<tr height="18"><td>So	 	</td><td>5	 	</td><td>17:00	 	</td><td>Erdbeeren pflücken 	 	 	 	 	 	   </td></tr>
+<tr height="18"><td>So	 	</td><td>5	 	</td><td>17:00	 	</td><td>Erdbeeren pflÃ¼cken 	 	 	 	 	 	   </td></tr>
 <tr height="18"><td>Mi	 	</td><td>8	 	</td><td>19:00	 	</td><td>Drachen Boot Training 	 	 	 	 	 	   </td></tr>
 <tr height="18"><td>Sa	 	</td><td>11	 	</td><td>20:00	 	</td><td>Rosenlichterfest 	 	 	 	 	 	       </td></tr>
 <tr height="18"><td>So	 	</td><td>12	 	</td><td>09:00	 	</td><td>Drachen Boot Competition 	 	 	 	 	 	</td></tr>
@@ -421,7 +421,7 @@ function popitup(url) {
 <tr height="18"><td>Sa	 	</td><td>18	 	</td><td>11:00	 	</td><td>Ausflug nach Aschaffenburg & Miltenberg 	 	</td></tr>	 	 
 <tr height="18"><td>So	 	</td><td>19	 	</td><td>16:00	 	</td><td>Victory BBQ Party 	 	 	 	 	 	       </td></tr>
 <tr height="18"><td>Mi	 	</td><td>22	 	</td><td>13:15	 	</td><td>Sushi 	 	 	 	 	 	                   </td></tr>
-<tr height="18"><td>Fr	 	</td><td>24	 	</td><td>14:00	 	</td><td>Mittelalterliche Tour durch Höchst 	 	 	   </td></tr>
+<tr height="18"><td>Fr	 	</td><td>24	 	</td><td>14:00	 	</td><td>Mittelalterliche Tour durch HÃ¶chst 	 	 	   </td></tr>
 <tr height="18"><td>So	 	</td><td>26	 	</td><td>11:00	 	</td><td>Tagesausflug nach Bad Nauheim 	 	 	 	 	 	</td></tr>
 <tr height="18"><td>Mi	 	</td><td>29	 	</td><td>13:15	 	</td><td>Marokkanisches Essen                                </td></tr>
 
@@ -444,13 +444,13 @@ function popitup(url) {
 <tr height="18"><td>Fr	 	</td><td>6	 	</td><td> 	 			</td><td>Wochenend-Ausflug 	 	 	 	 	 	  </td></tr>
 <tr height="18"><td>Sa	 	</td><td>7	 	</td><td> 	 			</td><td>Wochenend-Ausflug 	 	 	 	 	 	  </td></tr>
 <tr height="18"><td>Mo	 	</td><td>9	 	</td><td>19:00	 		</td><td>Improv Theater in English 	 	 	 	  </td></tr>	 
-<tr height="18"><td>Mi	 	</td><td>11	 	</td><td>19:30	 		</td><td>Kammer Musik & Französischer Film 	  	  </td></tr>	 	 
+<tr height="18"><td>Mi	 	</td><td>11	 	</td><td>19:30	 		</td><td>Kammer Musik & FranzÃ¶sischer Film 	  	  </td></tr>	 	 
 <tr height="18"><td>Sa	 	</td><td>14	 	</td><td>13:30	 		</td><td>Wandern im Taunus 	 	 	 	 	 	  </td></tr>
 <tr height="18"><td>Mi	 	</td><td>18	 	</td><td>13:15	 		</td><td>Job Assistenz  	 	 	 	 	 	  </td></tr>
 <tr height="18"><td>Sa	 	</td><td>21	 	</td><td>14:00	 		</td><td>Tour durch die Villa Rothschild  	 	  </td></tr>	 
 <tr height="18"><td>Mi 	 	</td><td>25	 	</td><td>14:00	 		</td><td>Interview Practice 	 	 	 	 	  </td></tr>
 <tr height="18"><td>Sa	 	</td><td>28	 	</td><td>11:00	 		</td><td>Ausflug nach Heidelberg 	 	 	 	  </td></tr>
-<tr height="18"><td>Di	 	</td><td>31	 	</td><td>9:30-17:00		</td><td>Job Messe für Engineers				  </td></tr>
+<tr height="18"><td>Di	 	</td><td>31	 	</td><td>9:30-17:00		</td><td>Job Messe fÃ¼r Engineers				  </td></tr>
 
 </tbody>                                                                                                                                                            
  </table>     
@@ -467,7 +467,7 @@ function popitup(url) {
 
 <tr height="18"><td>Sa	 	</td><td>2	 	</td><td>10:00	 	</td><td>Ausflug nach Holland  	 	 	 	 	                        </td></tr>
 <tr height="18"><td>Mi	 	</td><td>6	 	</td><td>13:15	 	</td><td>Lunch on Campus	 	 	 	 	 	                    </td></tr>
-<tr height="18"><td>Sa	 	</td><td>9	 	</td><td>18:00	 	</td><td>Grüne Soße Garten Festival 	 	 	 	 	 	        </td></tr>
+<tr height="18"><td>Sa	 	</td><td>9	 	</td><td>18:00	 	</td><td>GrÃ¼ne SoÃŸe Garten Festival 	 	 	 	 	 	        </td></tr>
 <tr height="18"><td>So 		</td><td>10	 	</td><td>10:30	 	</td><td>Wandern im Rheingau 	 	 	 	 	 	                </td></tr>
 <tr height="18"><td>Di	 	</td><td>12	 	</td><td>18:30	 	</td><td>Konzert und Buch Vorlesung 	 	 	 	 	 	            </td></tr>
 <tr height="18"><td>Fr	 	</td><td>15	 	</td><td>18:30	 	</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a> </td></tr>
@@ -485,7 +485,7 @@ function popitup(url) {
 <br>
 <br>
 <br>
-<h3><b>März 2016
+<h3><b>MÃ¤rz 2016
 <br>                                                            
 </b></h3>
 <br>
@@ -495,13 +495,13 @@ function popitup(url) {
 
 <tr height="18"><td>Fr	</td><td>4		</td><td>18:30		</td><td>Cello Konzert						                                                           </td></tr>
 <tr height="18"><td>Sa	</td><td>5		</td><td>13:30		</td><td>Tour durch Bad Soden 						                                                           </td></tr>
-<tr height="18"><td>Mi	</td><td>9		</td><td>13:30		</td><td>Let´s Cook Together						                                                   </td></tr>
+<tr height="18"><td>Mi	</td><td>9		</td><td>13:30		</td><td>LetÂ´s Cook Together						                                                   </td></tr>
 <tr height="18"><td>Fr	</td><td>11		</td><td>18:30		</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>	</td></tr>
 <tr height="18"><td>Sa	</td><td>12		</td><td>11:30		</td><td>Ausflug nach Luxembourg						                                                       </td></tr>
 <tr height="18"><td>Mo	</td><td>14		</td><td>19:00		</td><td>Improv theater in English						                                               </td></tr>
 <tr height="18"><td>Mi	</td><td>16		</td><td>13:30		</td><td>Lunch on Campus						                                                       </td></tr>
 <tr height="18"><td>Fr	</td><td>18		</td><td>18:30		</td><td>Badminton & Squash						                                                       </td></tr>
-<tr height="18"><td>Sa	</td><td>19		</td><td>14:00		</td><td>Wandern Königstein						                                                   </td></tr>
+<tr height="18"><td>Sa	</td><td>19		</td><td>14:00		</td><td>Wandern KÃ¶nigstein						                                                   </td></tr>
 <tr height="18"><td>Mi	</td><td>23		</td><td>16:00		</td><td>Tour durch den Bolongoro Palast                                                                      </td></tr>
 
 </tbody>                                                                                                                                                            
@@ -548,7 +548,7 @@ function popitup(url) {
 
 <tr height="18"><td>Mi	</td><td>6	</td><td>13:30</td><td>Lunch am Campus					                                                                  </td></tr>
 <tr height="18"><td>Fr	</td><td>8	</td><td>13:30</td><td>Games Challenge					                                                                  </td></tr>
-<tr height="18"><td>Sa	</td><td>9	</td><td>10:00</td><td>3 Schlösser Wandertour im Taunus			                                                          </td></tr>
+<tr height="18"><td>Sa	</td><td>9	</td><td>10:00</td><td>3 SchlÃ¶sser Wandertour im Taunus			                                                          </td></tr>
 <tr height="18"><td>Mi	</td><td>13	</td><td>15:00</td><td>Schlittschuhlaufen 			                                                                      </td></tr>
 <tr height="18"><td>Fr	</td><td>15	</td><td>18:30</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>	  </td></tr>
 <tr height="18"><td>Mi	</td><td>20	</td><td>19:30</td><td>Piano Konzert					                                                                  </td></tr>
@@ -562,7 +562,7 @@ function popitup(url) {
 <br>
 <br>
 <br>
-<h3><b>Dezember 2015 - Für weitere Last-Minute Events bitte unsere <a href="http://www.facebook.com/groups/12517655820/?ref=ts&fref=ts" target="_blank">Facebook</a> Seite besuchen.
+<h3><b>Dezember 2015 - FÃ¼r weitere Last-Minute Events bitte unsere <a href="http://www.facebook.com/groups/12517655820/?ref=ts&fref=ts" target="_blank">Facebook</a> Seite besuchen.
 <br>                                                            
 </b></h3>
 <br>
@@ -593,7 +593,7 @@ function popitup(url) {
  
 <tr height="18"><td>Mo </td><td>	2	</td><td>18:30</td><td>    Jazz im Schloss		        	                                                         </td></tr>
 <tr height="18"><td>Fr </td><td>	6	</td><td>19:30</td><td>    Korean Dinner			                                                                 </td></tr>
-<tr height="18"><td>Sa </td><td>	7	</td><td>14:00</td><td>    Tour durch das alte Höchst	                                                             </td></tr>
+<tr height="18"><td>Sa </td><td>	7	</td><td>14:00</td><td>    Tour durch das alte HÃ¶chst	                                                             </td></tr>
 <tr height="18"><td>So </td><td>	8	</td><td>13:00</td><td>    Language Games			                                                                 </td></tr>
 <tr height="18"><td>Mi </td><td>	11	</td><td>19:00</td><td>    Konzert			                                                                         </td></tr>
 <tr height="18"><td>Do </td><td>	12	</td><td>14:00</td><td>    Language Games			                                                                 </td></tr>
@@ -603,7 +603,7 @@ function popitup(url) {
 <tr height="18"><td>Mi </td><td>	18	</td><td>13:30</td><td>    Brunch Sushimoto			                                                                 </td></tr>
 <tr height="18"><td>Do </td><td>	19	</td><td>14:00</td><td>    Film & Discussion			                                                             </td></tr>
 <tr height="18"><td>Sa </td><td>	21	</td><td>11:00</td><td>    Tagesausflug nach Wiesbaden                                                               </td></tr>
-<tr height="18"><td>Fr </td><td>	27	</td><td>13:30</td><td>    Deutsche Börse			                                                                 </td></tr>
+<tr height="18"><td>Fr </td><td>	27	</td><td>13:30</td><td>    Deutsche BÃ¶rse			                                                                 </td></tr>
 <tr height="18"><td>So </td><td>	29	</td><td>10:00</td><td>    Ausflug nach Strasbourg		                                                             </td></tr>
 <tr height="18"><td>Mo </td><td>	30	</td><td>19:00</td><td>	   Moksha Dinner Buffet                                                                      </td></tr>
 
@@ -627,7 +627,7 @@ function popitup(url) {
 <tr height="18"><td>Fr</td><td>  9</td><td>19:30</td><td>Star Concert                                                                                   </td></tr>
 <tr height="18"><td>Sa</td><td> 10</td><td>10:00</td><td>Ausflug nach Holland                                                                           </td></tr>
 <tr height="18"><td>Mi</td><td> 14</td><td>19:00</td><td>Italian Dinner                                                                                 </td></tr>
-<tr height="18"><td>Fr</td><td> 16</td><td>14:00</td><td>Führung durch das alte Höchst                                                                  </td></tr>
+<tr height="18"><td>Fr</td><td> 16</td><td>14:00</td><td>FÃ¼hrung durch das alte HÃ¶chst                                                                  </td></tr>
 <tr height="18"><td>So</td><td> 18</td><td> 9:00</td><td>Pilzwanderung                                                                                  </td></tr>
 <tr height="18"><td>Do</td><td> 22</td><td>18:00</td><td>Oper Wiesbaden Kafka                                                                          </td></tr>
 <tr height="18"><td>Fr</td><td> 23</td><td>13:15</td><td>Sushi Brunch                                                                                   </td></tr>
@@ -655,8 +655,8 @@ function popitup(url) {
 <tr height="18"><td>Sa </td><td>12 </td><td>13:00 </td><td>Wertheim Village Outlet Shopping                                                                       </td></tr>
 <tr height="18"><td>So </td><td>13 </td><td>11:00 </td><td>Tagesausflug nach Biebrich - Eltville                                                                  </td></tr>
 <tr height="18"><td>Mi </td><td>16 </td><td>13:30 </td><td>Konzert am Hanauer Schloss                                                                             </td></tr>
-<tr height="18"><td>Fr </td><td>18 </td><td>13:00 </td><td>Backen für einen guten Zweck                                                                           </td></tr>
-<tr height="18"><td>Sa </td><td>19 </td><td>14:00 </td><td>Rotlintstraßenfest                                                                                     </td></tr>
+<tr height="18"><td>Fr </td><td>18 </td><td>13:00 </td><td>Backen fÃ¼r einen guten Zweck                                                                           </td></tr>
+<tr height="18"><td>Sa </td><td>19 </td><td>14:00 </td><td>RotlintstraÃŸenfest                                                                                     </td></tr>
 <tr height="18"><td>Do </td><td>24 </td><td>20:00 </td><td>Salsa Party                                                                                            </td></tr>
 <tr height="18"><td>Sa </td><td>26 </td><td>18:00 </td><td>Oktoberfest                                                                                            </td></tr>
 <tr height="18"><td>So </td><td>27 </td><td>11:00 </td><td>Wanderausflug im Rheingau                                                                              </td></tr>
@@ -667,7 +667,7 @@ function popitup(url) {
 <br>
 <br>
 <br>
-<h3><b>August 2015 - Für weitere Last-Minute Events bitte unsere <a href="http://www.facebook.com/groups/12517655820/?ref=ts&fref=ts" target="_blank">Facebook</a> Seite besuchen.
+<h3><b>August 2015 - FÃ¼r weitere Last-Minute Events bitte unsere <a href="http://www.facebook.com/groups/12517655820/?ref=ts&fref=ts" target="_blank">Facebook</a> Seite besuchen.
 <br>                                                            
 </b></h3>
 <br>
@@ -687,7 +687,7 @@ function popitup(url) {
 <tr height="18"><td>So	</td><td>16	</td><td>18:00	</td><td>Palmengarten Concert                                                                                           </td></tr>
 <tr height="18"><td>Mi	</td><td>19	</td><td>13:30	</td><td>Ausflug nach Marburg                                                                                                </td></tr>
 <tr height="18"><td>Do	</td><td>20	</td><td>13:30	</td><td>Opel Zoo                                                                                                       </td></tr>
-<tr height="18"><td>Fr	</td><td>21	</td><td>13:30	</td><td>Rüdesheim                                                                                                      </td></tr>
+<tr height="18"><td>Fr	</td><td>21	</td><td>13:30	</td><td>RÃ¼desheim                                                                                                      </td></tr>
 <tr height="18"><td>Di	</td><td>25	</td><td>13:15	</td><td>Lunch auf dem Campus                                                                                                </td></tr>
 <tr height="18"><td>Fr	</td><td>28	</td><td>13:30	</td><td>Wertheim Outlet                                                                                                </td></tr>
 <tr height="18"><td>Sa	</td><td>29	</td><td>11:00	</td><td>Museums- Tour                                                                                                    </td></tr>
@@ -707,14 +707,14 @@ function popitup(url) {
 
 <tr height="18"><td>Mi	</td><td>1	</td><td>18:00	</td><td>Stoffel Outdoor Concert	                                                                                          </td></tr>
 <tr height="18"><td>Do	</td><td>2	</td><td>20:00	</td><td>Stoffel Outdoor Concert	                                                                                          </td></tr>
-<tr height="18"><td>Fr	</td><td>3	</td><td>14:00	</td><td>Höchst Castle tour	                                                                                                  </td></tr>
-<tr height="18"><td>So	</td><td>5	</td><td>10:00	</td><td>Höchst City Tour	                                                                                                  </td></tr>
+<tr height="18"><td>Fr	</td><td>3	</td><td>14:00	</td><td>HÃ¶chst Castle tour	                                                                                                  </td></tr>
+<tr height="18"><td>So	</td><td>5	</td><td>10:00	</td><td>HÃ¶chst City Tour	                                                                                                  </td></tr>
 <tr height="18"><td>Mo	</td><td>6	</td><td>18:00	</td><td>Private Shopping RL Polo	                                                                                          </td></tr>
 <tr height="18"><td>Mi	</td><td>8	</td><td>13:30	</td><td>Lunch on Campus	                                                                                                  </td></tr>
 <tr height="18"><td>Fr	</td><td>10	</td><td>13:00	</td><td>Wertheim Outlet Shopping	                                                                                          </td></tr>
 <tr height="18"><td>Sa	</td><td>11	</td><td>11:00	</td><td>Trip to Bamberg	                                                                                                  </td></tr>
 <tr height="18"><td>Mo	</td><td>13	</td><td>19:30	</td><td>Salsakurs	                                                                                                          </td></tr>
-<tr height="18"><td>Mi	</td><td>15	</td><td>20:00	</td><td>Open Air Kino Städel	                                                                                              </td></tr>
+<tr height="18"><td>Mi	</td><td>15	</td><td>20:00	</td><td>Open Air Kino StÃ¤del	                                                                                              </td></tr>
 <tr height="18"><td>Fr	</td><td>17	</td><td>18:00	</td><td>Stoffel Outdoor Concert	                                                                                           </td></tr>
 <tr height="18"><td>Sa	</td><td>18	</td><td>18:00	</td><td>French Festival	                                                                                                   </td></tr>
 <tr height="18"><td>So	</td><td>19	</td><td>11:00	</td><td>Day Trip to Heidelberg	                                                                                               </td></tr>
@@ -742,16 +742,16 @@ function popitup(url) {
 <tr height="18"><td>So	</td><td>7	</td><td>12:00	</td><td>Strawberry Picking                                                                                                 </td></tr>
 <tr height="18"><td>Mo	</td><td>8	</td><td>19:30	</td><td>Salsakurs					                                                                                        </td></tr>
 <tr height="18"><td>Mi	</td><td>10	</td><td>19:00	</td><td>Dragon Boat Training				                                                                                </td></tr>
-<tr height="18"><td>Fr	</td><td>12	</td><td>13:30	</td><td>Let´s Cook Together                                                                                                </td></tr>
+<tr height="18"><td>Fr	</td><td>12	</td><td>13:30	</td><td>LetÂ´s Cook Together                                                                                                </td></tr>
 <tr height="18"><td>Sa	</td><td>13	</td><td>20:00	</td><td>Rosenlichterfest                                                                                                   </td></tr>
 <tr height="18"><td>So	</td><td>14	</td><td>09:00	</td><td>Dragon Boat Race                                                                                                   </td></tr>
 <tr height="18"><td>Mo	</td><td>15	</td><td>19:30	</td><td>Salsakurs					                                                                                        </td></tr>
-<tr height="18"><td>Fr	</td><td>19	</td><td>13:30	</td><td>Let´s Cook Together	                                                                                            </td></tr>
+<tr height="18"><td>Fr	</td><td>19	</td><td>13:30	</td><td>LetÂ´s Cook Together	                                                                                            </td></tr>
 <tr height="18"><td>Sa	</td><td>20	</td><td>		</td><td>Day Trip to Bad    Nauheim	                                                                                         </td></tr>
 <tr height="18"><td>So	</td><td>21	</td><td>17:00	</td><td>BBQ Party                                                                                                           </td></tr>
 <tr height="18"><td>Mo	</td><td>22	</td><td>19:30	</td><td>Salsakurs				                                                                                             </td></tr>
 <tr height="18"><td>Mi </td><td>24	</td><td>20:00	</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>			 </td></tr>
-<tr height="18"><td>Fr	</td><td>26	</td><td>13:30	</td><td>Let´s Cook Together                                                                                                 </td></tr>
+<tr height="18"><td>Fr	</td><td>26	</td><td>13:30	</td><td>LetÂ´s Cook Together                                                                                                 </td></tr>
 <tr height="18"><td>Sa	</td><td>27	</td><td>10:00	</td><td>Bike Trip to Rheingau	                                                                                             </td></tr>
 <tr height="18"><td>So	</td><td>28	</td><td>15:00	</td><td>Charity Event                                                                                                       </td></tr>
 <tr height="18"><td>Mo	</td><td>29	</td><td>19:30	</td><td>Salsakurs                                                                                                           </td></tr>
@@ -770,20 +770,20 @@ function popitup(url) {
 
 <tr height="18"><td>Mi  </td><td>6  </td><td>20:00 </td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>	    </td></tr>
 <tr height="18"><td>Fr  </td><td>8  </td><td>13:15 </td><td>Wir kochen Spanisch                                                                                                </td></tr>
-<tr height="18"><td>Sa  </td><td>9  </td><td>12:00 </td><td>Tagesausflug nach Rüdesheim                                                                                          </td></tr>
+<tr height="18"><td>Sa  </td><td>9  </td><td>12:00 </td><td>Tagesausflug nach RÃ¼desheim                                                                                          </td></tr>
 <tr height="18"><td>Mo  </td><td>11 </td><td>19:30 </td><td>Salsakurs                                                                                                      </td></tr>
 <tr height="18"><td>Mi  </td><td>13 </td><td>20:00 </td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>	     </td></tr>
 <tr height="18"><td>Mo  </td><td>18 </td><td>19:30 </td><td>Salsakurs                                                                                                      </td></tr>
 <tr height="18"><td>Do  </td><td>21 </td><td>13:00 </td><td>Messebesuch                                                                                    </td></tr>
 <tr height="18"><td>Fr  </td><td>22 </td><td>13:15 </td><td>BBQ Party                                                                                                      </td></tr>
-<tr height="18"><td>Fr  </td><td>29 </td><td>18:00 </td><td>Private Führung der Monet Ausstellung                                                                               </td></tr>
+<tr height="18"><td>Fr  </td><td>29 </td><td>18:00 </td><td>Private FÃ¼hrung der Monet Ausstellung                                                                               </td></tr>
 <tr height="18"><td>Sa  </td><td>30 </td><td>12:00 </td><td>Tagesausflug nach Marburg                                                                                            </td></tr>
 </tbody>                                                                                                        
  </table>     
 <br>
 <br>
 <br>
-<h3><b>April 2015 - Für weitere Last-Minute Events bitte unsere <a href="http://www.facebook.com/groups/12517655820/?ref=ts&fref=ts" target="_blank">Facebook</a> Seite besuchen.
+<h3><b>April 2015 - FÃ¼r weitere Last-Minute Events bitte unsere <a href="http://www.facebook.com/groups/12517655820/?ref=ts&fref=ts" target="_blank">Facebook</a> Seite besuchen.
 <br>                                                            
 </b></h3>
 <br>
@@ -794,12 +794,12 @@ function popitup(url) {
 <tr height="18"><td>Do	</td><td>2	</td><td>13:30	</td><td>Dippemess                                                                                         				</td></tr>
 <tr height="18"><td>Di	</td><td>7	</td><td>19:30	</td><td>A-viva Concert & Dinner                                                                           				</td></tr>
 <tr height="18"><td>Mi	</td><td>8	</td><td>20:00	</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>       </td></tr>
-<tr height="18"><td>Fr	</td><td>10	</td><td>13:30	</td><td>Let´s Cook Together                                                                               				</td></tr>
+<tr height="18"><td>Fr	</td><td>10	</td><td>13:30	</td><td>LetÂ´s Cook Together                                                                               				</td></tr>
 <tr height="18"><td>Sa	</td><td>11	</td><td>11:00	</td><td>Trip to Mainz                                                                                    				</td></tr>
 <tr height="18"><td>Mo	</td><td>13	</td><td>19:30	</td><td>Salsakurs                                                                                         				</td></tr>
 <tr height="18"><td>Di	</td><td>14	</td><td>14:00	</td><td>Kinotag                                                                                           				</td></tr>
 <tr height="18"><td>Do	</td><td>16	</td><td>14:00	</td><td>Dialogmuseum                                                                                     				</td></tr>
-<tr height="18"><td>Fr	</td><td>17	</td><td>13:30	</td><td>Let´s Cook Together                                                                              				</td></tr>
+<tr height="18"><td>Fr	</td><td>17	</td><td>13:30	</td><td>LetÂ´s Cook Together                                                                              				</td></tr>
 <tr height="18"><td>So	</td><td>19	</td><td>18:00	</td><td>Schauspielhaus der Physiker                                                                     				</td></tr>
 <tr height="18"><td>Mo	</td><td>20	</td><td>19:30	</td><td>Salsakurs                                                                                       				</td></tr>
 <tr height="18"><td>Mi	</td><td>22	</td><td>20:00	</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>       </td></tr>
@@ -811,7 +811,7 @@ function popitup(url) {
 <br>
 <br>
 <br>
-<h3><b>März 2015
+<h3><b>MÃ¤rz 2015
 <br>                                                            
 </b></h3>
 <br>
@@ -826,13 +826,13 @@ function popitup(url) {
 <tr height="18"><td>Mi	</td><td>11	</td><td>20:00	</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>        </td></tr>
 <tr height="18"><td>Mo	</td><td>16	</td><td>19:30	</td><td>Salsakurs                                                                                                       </td></tr>
 <tr height="18"><td>Mi	</td><td>18	</td><td>20:00	</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>        </td></tr>
-<tr height="18"><td>Do	</td><td>19	</td><td>15:00	</td><td>Deutsche Börse                                                                                                  </td></tr>
+<tr height="18"><td>Do	</td><td>19	</td><td>15:00	</td><td>Deutsche BÃ¶rse                                                                                                  </td></tr>
 <tr height="18"><td>Fr	</td><td>20	</td><td>13:30	</td><td>Kochen mit Claus                                                                                                </td></tr>
 <tr height="18"><td>Sa	</td><td>21	</td><td>11:00	</td><td>Ausflug nach Mainz                                                                                              </td></tr>
 <tr height="18"><td>Mo	</td><td>23	</td><td>19:30	</td><td>Salsakurs                                                                                                       </td></tr>
 <tr height="18"><td>Mi	</td><td>25	</td><td>20:00	</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>        </td></tr>
 <tr height="18"><td>Do	</td><td>26	</td><td>15:00	</td><td>Dialogmuseum                                                                                                    </td></tr>
-<tr height="18"><td>Sa	</td><td>28	</td><td>12:00	</td><td>Ausflug nach Düsseldorf                                                                                         </td></tr>
+<tr height="18"><td>Sa	</td><td>28	</td><td>12:00	</td><td>Ausflug nach DÃ¼sseldorf                                                                                         </td></tr>
 <tr height="18"><td>Mo	</td><td>30	</td><td>19:30	</td><td>Salsakurs                                                                                                       </td></tr>
 </tbody>                                                                                                        
  </table>     
@@ -846,8 +846,8 @@ function popitup(url) {
 <table class="aktivtable" border="1">
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
 
-<tr height="18"><td>Di	</td><td>3	</td><td>13:30	</td><td>Deutsche Börse                                                                                                  </td></tr>
-<tr height="18"><td>Fr	</td><td>6	</td><td>15:00	</td><td>Ballettaufführung                                                                                               </td></tr>
+<tr height="18"><td>Di	</td><td>3	</td><td>13:30	</td><td>Deutsche BÃ¶rse                                                                                                  </td></tr>
+<tr height="18"><td>Fr	</td><td>6	</td><td>15:00	</td><td>BallettauffÃ¼hrung                                                                                               </td></tr>
 <tr height="18"><td>Sa	</td><td>7	</td><td>19:30	</td><td>Christmas Party                                                                                                 </td></tr>
 <tr height="18"><td>Di	</td><td>10	</td><td>14:00	</td><td>Dialogmuseum                                                                                                    </td></tr>
 <tr height="18"><td>Mi	</td><td>11	</td><td>20:00	</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>   	 </td></tr>
@@ -912,7 +912,7 @@ function popitup(url) {
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
 
 <tr height="18"><td>Mi </td><td> 5 </td><td>19:00	</td><td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>         </td></tr>
-<tr height="18"><td>Do </td><td> 6 </td><td>20:00	</td><td> Spendenaktion für Flüchtlinge                                                                                      </td></tr> 
+<tr height="18"><td>Do </td><td> 6 </td><td>20:00	</td><td> Spendenaktion fÃ¼r FlÃ¼chtlinge                                                                                      </td></tr> 
 <tr height="18"><td>Fr </td><td> 7 </td><td>14:00	</td><td> Go Kart                                                                                                         </td></tr> 
 <tr height="18"><td>Mi </td><td>12 </td><td>19:00	</td><td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>         </td></tr>
 <tr height="18"><td>Do </td><td>13 </td><td>20:00	</td><td> Essen bei Muku                                                                                                  </td></tr> 
@@ -927,7 +927,7 @@ function popitup(url) {
 <br>
 <br>
 <br>
-<h3><b>Oktober 2014 - Für weitere Last-Minute Events bitte unsere <a href="http://www.facebook.com/groups/12517655820/?ref=ts&fref=ts" target="_blank">Facebook</a> Seite besuchen.
+<h3><b>Oktober 2014 - FÃ¼r weitere Last-Minute Events bitte unsere <a href="http://www.facebook.com/groups/12517655820/?ref=ts&fref=ts" target="_blank">Facebook</a> Seite besuchen.
 <br>                                                            
 </b></h3>
 <br>
@@ -937,7 +937,7 @@ function popitup(url) {
 <tr height="18"><td>Mi </td><td>  1</td><td> 19:00 </td><td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>     </td></tr>
 <tr height="18"><td>Sa </td><td>  4</td><td> 13:00 </td><td> Wandern im Rheingau                                                                                          </td></tr> 
 <tr height="18"><td>Mi </td><td>  8</td><td> 19:00 </td><td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton</a>     </td></tr>
-<tr height="18"><td>Sa </td><td> 11</td><td> 10:00 </td><td> Ausflug nach Düsseldorf & Holland                                                                                </td></tr> 
+<tr height="18"><td>Sa </td><td> 11</td><td> 10:00 </td><td> Ausflug nach DÃ¼sseldorf & Holland                                                                                </td></tr> 
 <tr height="18"><td>Mi </td><td> 15</td><td> 18.30 </td><td> Spanischer Filmabend                                                                                         </td></tr> 
 <tr height="18"><td>Do </td><td> 16</td><td> 18:00 </td><td> English Comedy                                                                                              </td></tr> 
 <tr height="18"><td>So </td><td> 19</td><td> 12:00 </td><td> Fahrradtour                                                                                                   </td></tr> 
@@ -960,18 +960,18 @@ function popitup(url) {
 
 <tr height="18"><td>Mo </td><td>1 </td><td>	13:00</td><td> Lunch auf dem Campus                      </td></tr>
 <tr height="18"><td>Mi </td><td>3 </td><td>	17:15</td><td> Film Nacht Amma & Appa               </td></tr>
-<tr height="18"><td>Sa </td><td>6 </td><td>  	13:30</td><td> Stadtspaziergang: Die neue Altstadt – Frankfurts großes  Bauprojekt</td></tr>
+<tr height="18"><td>Sa </td><td>6 </td><td>  	13:30</td><td> Stadtspaziergang: Die neue Altstadt â€“ Frankfurts groÃŸes  Bauprojekt</td></tr>
 <tr height="18"><td>So </td><td>7 </td><td> 	10:30</td><td> Ausflug in den Rheingau: Katz Maus Hike     </td></tr>
 <tr height="18"><td>Mo </td><td>8 </td><td>	14:30</td><td> Konzert im Palmengarten              </td></tr>
 <tr height="18"><td>Fr </td><td>12</td><td>  	13:30</td><td> Geldmuseum                      		</td></tr>
 <tr height="18"><td>Sa </td><td>13</td><td> 	14:00</td><td> Rhein in Flammen                      </td></tr>
-<tr height="18"><td>So </td><td>14</td><td> 	12:30</td><td> Tagesausflug nach Höchst mit kostenloser Tour    </td></tr>
+<tr height="18"><td>So </td><td>14</td><td> 	12:30</td><td> Tagesausflug nach HÃ¶chst mit kostenloser Tour    </td></tr>
 <tr height="18"><td>Do </td><td>18</td><td> 	18:00</td><td> English Comedy                      </td></tr>
-<tr height="18"><td>Fr </td><td>19</td><td>  	14:00</td><td> Backen für eine gute Sache                     </td></tr>
-<tr height="18"><td>Sa </td><td>20</td><td> 	14:00</td><td> Rotlintstraßenfest                   </td></tr>
+<tr height="18"><td>Fr </td><td>19</td><td>  	14:00</td><td> Backen fÃ¼r eine gute Sache                     </td></tr>
+<tr height="18"><td>Sa </td><td>20</td><td> 	14:00</td><td> RotlintstraÃŸenfest                   </td></tr>
 <tr height="18"><td>Mo </td><td>22</td><td>	13:00</td><td> Lunch auf dem Campus                      </td></tr>
-<tr height="18"><td>Sa </td><td>27</td><td> 	12:00</td><td> Tagesausflug nach Seligenstadt & Äpfel Pflücken  </td></tr>
-<tr height="18"><td>So </td><td>28</td><td> 	13:30</td><td> Führung: Stadt am Fluss      </td></tr>
+<tr height="18"><td>Sa </td><td>27</td><td> 	12:00</td><td> Tagesausflug nach Seligenstadt & Ã„pfel PflÃ¼cken  </td></tr>
+<tr height="18"><td>So </td><td>28</td><td> 	13:30</td><td> FÃ¼hrung: Stadt am Fluss      </td></tr>
 <tr height="18"><td>Di </td><td>30</td><td>  	20:00</td><td> Tibetanisches Essen           </td></tr>
 </tbody>                                                                                                        
  </table>                                                                                                          
@@ -989,7 +989,7 @@ function popitup(url) {
 <tr height="18"><td>Mo </td>   <td> 4</td>   <td> 13:30</td>   <td> Lunch im Park                                  </td></tr>
 <tr height="18"><td>Mi </td>   <td> 6</td>   <td> 13:30</td>   <td> Tour durchs Goethehaus                         </td></tr>
 <tr height="18"><td>Do </td>   <td> 7</td>   <td> 15:30</td>   <td> Stoffel                                        </td></tr>
-<tr height="18"><td>Sa </td>   <td> 9</td>   <td> 12:00</td>   <td> Tagesausflug nach Rüdesheim                    </td></tr>
+<tr height="18"><td>Sa </td>   <td> 9</td>   <td> 12:00</td>   <td> Tagesausflug nach RÃ¼desheim                    </td></tr>
 <tr height="18"><td>So </td>   <td>10</td>   <td> 11:30</td>   <td> Fahrradtour                                    </td></tr>
 <tr height="18"><td>Di </td>   <td>12</td>   <td> 13:30</td>   <td> Apfelweinfest                                  </td></tr>
 <tr height="18"><td>Do </td>   <td>14</td>   <td> 13.30</td>   <td> Wertheim Oultet Village Shopping               </td></tr>
@@ -1007,7 +1007,7 @@ function popitup(url) {
 <br>                                                                                                              
 <br>
 <br>
-<h3><b>Juli 2014 - Für weitere Last-Minute Events bitte unsere <a href="http://www.facebook.com/groups/12517655820/?ref=ts&fref=ts" target="_blank">Facebook</a> Seite besuchen.
+<h3><b>Juli 2014 - FÃ¼r weitere Last-Minute Events bitte unsere <a href="http://www.facebook.com/groups/12517655820/?ref=ts&fref=ts" target="_blank">Facebook</a> Seite besuchen.
 <br>                                                            
 </b></h3>
 <br>
@@ -1016,14 +1016,14 @@ function popitup(url) {
 
 <tr height="18"><td>Di</td>   <td>1  </td>   <td>	13.30</td>   <td> 	Lunch am Campus                      	         </td></tr>
 <tr height="18"><td>Do</td>   <td>3  </td>   <td>	13.30</td>   <td> 	Geldmuseum                           	         </td></tr>
-<tr height="18"><td>Sa</td>   <td>5  </td>   <td>	14.00</td>   <td> 	Kirschen Pflücken                    	         </td></tr>
+<tr height="18"><td>Sa</td>   <td>5  </td>   <td>	14.00</td>   <td> 	Kirschen PflÃ¼cken                    	         </td></tr>
 <tr height="18"><td>So</td>   <td>6  </td>   <td>	15.00</td>   <td> 	Free Yoga                            	         </td></tr>
-<tr height="18"><td>So</td>   <td>6  </td>   <td>	17.00</td>   <td> 	Ausflug zum Höchster Schloss         	         </td></tr>
+<tr height="18"><td>So</td>   <td>6  </td>   <td>	17.00</td>   <td> 	Ausflug zum HÃ¶chster Schloss         	         </td></tr>
 <tr height="18"><td>Di</td>   <td>8  </td>   <td>	13.30</td>   <td> 	Lunch am Campus                      	         </td></tr>
 <tr height="18"><td>Mi</td>   <td>9  </td>   <td>	13:30</td>   <td> 	Frankfurter Zoo                      	         </td></tr>
 <tr height="18"><td>Do</td>   <td>10 </td>   <td> 	13.30</td>   <td> 	Goethe Haus                          	         </td></tr>
 <tr height="18"><td>Fr</td>   <td>11 </td>   <td> 	19.00</td>   <td> 	Operette im  Palmengarten            	         </td></tr>
-<tr height="18"><td>Sa</td>   <td>12 </td>   <td> 	19.00</td>   <td> 	Französische Party                   	         </td></tr>
+<tr height="18"><td>Sa</td>   <td>12 </td>   <td> 	19.00</td>   <td> 	FranzÃ¶sische Party                   	         </td></tr>
 <tr height="18"><td>So</td>   <td>13 </td>   <td> 	13.00</td>   <td> 	Tagesausflug nach Schierstein und Eltville       </td></tr>
 <tr height="18"><td>Di</td>   <td>15 </td>   <td> 	13.30</td>   <td> 	Brunch bei Sushimoto                             </td></tr>
 <tr height="18"><td>Do</td>   <td>17 </td>   <td> 	19.00</td>   <td>  	English Comedy                                   </td></tr>
@@ -1046,7 +1046,7 @@ function popitup(url) {
 <table class="aktivtable" border="1">
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
  
-<tr height="18"><td>So</td>   <td> 1 </td>   <td> 17.00</td>   <td> Erdbeeren Pflücken						  </td></tr>
+<tr height="18"><td>So</td>   <td> 1 </td>   <td> 17.00</td>   <td> Erdbeeren PflÃ¼cken						  </td></tr>
 <tr height="18"><td>Mo</td>   <td> 2 </td>   <td> 19.00</td>   <td> Boat Training      		   			  </td></tr>
 <tr height="18"><td>Mi</td>   <td> 4 </td>   <td> 19.00</td>   <td> Boat Training        						</td></tr>
 <tr height="18"><td>Sa</td>   <td> 7 </td>   <td> 10.00</td>   <td> Tagesausflug nach Seligenstadt					</td></tr>
@@ -1054,13 +1054,13 @@ function popitup(url) {
 <tr height="18"><td>So</td>   <td> 8 </td>   <td> 11.00</td>   <td> Tagesausflug nach Bad Nauheim        			</td></tr>
 <tr height="18"><td>Mi</td>   <td> 11</td>   <td> 14.00</td>   <td> Dialogmuseum								</td></tr>			
 <tr height="18"><td>Fr</td>   <td> 13</td>   <td> 18.30</td>   <td> Boat Training        						</td></tr>
-<tr height="18"><td>Sa</td>   <td> 14</td>   <td> 17.00</td>   <td> Erdbeeren Pflücken       						 </td></tr> 
+<tr height="18"><td>Sa</td>   <td> 14</td>   <td> 17.00</td>   <td> Erdbeeren PflÃ¼cken       						 </td></tr> 
 <tr height="18"><td>So</td>   <td> 15</td>   <td>  9.00</td>   <td> Dragon Boat Race        					</td></tr>
 <tr height="18"><td>Sa</td>   <td> 21</td>   <td> 12.00</td>   <td> Tagesausflug nach Wetzlar        					</td></tr>
-<tr height="18"><td>So</td>   <td> 22</td>   <td> 12.00</td>   <td> Tagesausflug nach Rüdesheim							</td></tr>
+<tr height="18"><td>So</td>   <td> 22</td>   <td> 12.00</td>   <td> Tagesausflug nach RÃ¼desheim							</td></tr>
 <tr height="18"><td>Di</td>   <td> 24</td>   <td> 18.00</td>   <td> Kino Tag									</td></tr>
 <tr height="18"><td>Fr</td>   <td> 27</td>   <td> 13.30</td>   <td> Lunch am Campus							</td></tr>
-<tr height="18"><td>So</td>   <td> 29</td>   <td> 12.00</td>   <td> Höchsterfest								</td></tr>
+<tr height="18"><td>So</td>   <td> 29</td>   <td> 12.00</td>   <td> HÃ¶chsterfest								</td></tr>
   </tbody>                                              
 </table>
 <br>
@@ -1073,9 +1073,9 @@ function popitup(url) {
 <table class="aktivtable" border="1">
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
  
-<tr height="18"><td>Fr</td>   <td>  9</td>   <td> 20:00</td>   <td> Let’s Make Sushi																				</td></tr>
-<tr height="18"><td>Sa</td>   <td> 10</td>   <td> 11:30</td>   <td> Fahrradtour nach Schierstein, Eltville, und Rüdesheim                                              </td></tr>
-<tr height="18"><td>Mo</td>   <td> 12</td>   <td> 18:30</td>   <td> Frankfurter Geschichts-Lektüre                                                                   </td></tr>
+<tr height="18"><td>Fr</td>   <td>  9</td>   <td> 20:00</td>   <td> Letâ€™s Make Sushi																				</td></tr>
+<tr height="18"><td>Sa</td>   <td> 10</td>   <td> 11:30</td>   <td> Fahrradtour nach Schierstein, Eltville, und RÃ¼desheim                                              </td></tr>
+<tr height="18"><td>Mo</td>   <td> 12</td>   <td> 18:30</td>   <td> Frankfurter Geschichts-LektÃ¼re                                                                   </td></tr>
 <tr height="18"><td>Mi</td>   <td> 14</td>   <td> 13:30</td>   <td> Lunch on Campus        																		</td></tr>
 <tr height="18"><td>Fr</td>   <td> 16</td>   <td> 16:00</td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton</a>        </td></tr>
 <tr height="18"><td>Sa</td>   <td> 17</td>   <td>  9:30</td>   <td> Wandern in Walluf                                                                               </td></tr>
@@ -1084,7 +1084,7 @@ function popitup(url) {
 <tr height="18"><td>Fr</td>   <td> 23</td>   <td> 16:00</td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton</a>        </td></tr> 
 <tr height="18"><td>Sa</td>   <td> 24</td>   <td> 12:00</td>   <td> Tagesausflug nach Marburg                                                                            </td></tr>
 <tr height="18"><td>So</td>   <td> 25</td>   <td> 11:00</td>   <td> Geschichtlicher Rundgang durch Frankfurt                                                                     </td></tr>
-<tr height="18"><td>Mi</td>   <td> 28</td>   <td> 17:00</td>   <td> Architektonische Tour durchs Jüdische Museum         													</td></tr>
+<tr height="18"><td>Mi</td>   <td> 28</td>   <td> 17:00</td>   <td> Architektonische Tour durchs JÃ¼dische Museum         													</td></tr>
   </tbody>                                              
 </table>
 <br>
@@ -1107,21 +1107,21 @@ function popitup(url) {
 <tr height="18"><td>Do</td>   <td> 17</td>   <td> 18:30</td>   <td> English Improv Theatre                         </td></tr>
 <tr height="18"><td>Mi</td>   <td> 23</td>   <td> 13:30</td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton, Basketball & Tisch-Tennis </a>          </td></tr>
 <tr height="18"><td>Fr</td>   <td> 25</td>   <td> 14:00</td>   <td> Tea Ceremony                                   </td></tr>
-<tr height="18"><td>Sa</td>   <td> 26</td>   <td> 14:00</td>   <td> Tagesausflug nach Höchst                             </td></tr>
+<tr height="18"><td>Sa</td>   <td> 26</td>   <td> 14:00</td>   <td> Tagesausflug nach HÃ¶chst                             </td></tr>
 <tr height="18"><td>Mi</td>   <td> 30</td>   <td> 13:30</td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton, Basketball & Tisch-Tennis </a>          </td></tr>
   </tbody>                                              
 </table>
 <br>
 <br>
 <br>
-<h3><b>März 2014
+<h3><b>MÃ¤rz 2014
 <br>                                                            
 </b></h3>
 <br>
 <table class="aktivtable" border="1">
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
  
-<tr height="18"><td>So</td>   <td> 2 </td>   <td>13:00 </td>   <td>Tagesausflug nach Höchst                     </td></tr>  
+<tr height="18"><td>So</td>   <td> 2 </td>   <td>13:00 </td>   <td>Tagesausflug nach HÃ¶chst                     </td></tr>  
 <tr height="18"><td>Mi</td>   <td> 5 </td>   <td>13:30 </td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton,  Basketball  & Tisch- Tennis</a> </td></tr> 
 <tr height="18"><td>Do</td>   <td> 6 </td>   <td>19:00 </td>   <td>Jazz Concert @ Cafe Kant               </td></tr> 
 <tr height="18"><td>Fr</td>   <td> 7 </td>   <td>15:45 </td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton </a>                              </td></tr> 
@@ -1154,11 +1154,11 @@ function popitup(url) {
 <tr height="18"><td>Sa</td>   <td> 8 </td>   <td>12:00 </td>   <td>Tagesausflug nach Marburg</td></tr> 
 <tr height="18"><td>So</td>   <td> 9 </td>   <td>11:45 </td>   <td>Matinee Movie, "IO SONO LI"</td></tr> 
 <tr height="18"><td>Mi</td>   <td> 12</td>   <td>13:30 </td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton</a></td></tr>
-<tr height="18"><td>Sa</td>   <td> 15</td>   <td>14:00 </td>   <td>Tagesausflug nach Königstein</td></tr> 
+<tr height="18"><td>Sa</td>   <td> 15</td>   <td>14:00 </td>   <td>Tagesausflug nach KÃ¶nigstein</td></tr> 
 <tr height="18"><td>So</td>   <td> 16</td>   <td>11:00 </td>   <td>Liebieghaus Highlight Tour</td></tr> 
 <tr height="18"><td>Mi</td>   <td> 19</td>   <td>13:30 </td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton</a></td></tr>
 <tr height="18"><td>Do</td>   <td> 20</td>   <td>19:00 </td>   <td>English Improv Theatre</td></tr> 
-<tr height="18"><td>Sa</td>   <td> 22</td>   <td>11:00 </td>   <td>Tagesausflug nach Würzburg + Wertheim</td></tr> 
+<tr height="18"><td>Sa</td>   <td> 22</td>   <td>11:00 </td>   <td>Tagesausflug nach WÃ¼rzburg + Wertheim</td></tr> 
 <tr height="18"><td>Mi</td>   <td> 26</td>   <td>13:30 </td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton</a></td></tr>
 <tr height="18"><td>Fr</td>   <td> 27</td>   <td>13:30 </td>   <td>Sushi Party</td></tr>                                                        
   </tbody>                                              
@@ -1174,9 +1174,9 @@ function popitup(url) {
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
  
 <tr height="18"><td>Di</td>   <td>  7</td>   <td> 13:30</td>   <td>Kostenloser Yogakurs</td></tr>
-<tr height="18"><td>Mi</td>   <td>  8</td>   <td> 19:00</td>   <td>Konzert im Café Kante</td></tr>
+<tr height="18"><td>Mi</td>   <td>  8</td>   <td> 19:00</td>   <td>Konzert im CafÃ© Kante</td></tr>
 <tr height="18"><td>Fr</td>   <td> 10</td>   <td> 13:30</td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton</a></td></tr>
-<tr height="18"><td>Sa</td>   <td> 11</td>   <td> 10:00</td>   <td>Zu Fuß durch Frankfurt Tour</td></tr>
+<tr height="18"><td>Sa</td>   <td> 11</td>   <td> 10:00</td>   <td>Zu FuÃŸ durch Frankfurt Tour</td></tr>
 <tr height="18"><td>Di</td>   <td> 14</td>   <td> 16:30</td>   <td>Kostenloaser Karatekurs</td></tr>
 <tr height="18"><td>Mi</td>   <td> 15</td>   <td> 13:30</td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton</a></td></tr>
 <tr height="18"><td>Fr</td>   <td> 17</td>   <td> 13:30</td>   <td>Kostenloser Fitnesskurs</td></tr>
@@ -1184,7 +1184,7 @@ function popitup(url) {
 <tr height="18"><td>Di</td>   <td> 21</td>   <td> 18:00</td>   <td>Kino Tag</td></tr>
 <tr height="18"><td>Mi</td>   <td> 22</td>   <td> 13:30</td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton</a></td></tr>
 <tr height="18"><td>Fr</td>   <td> 24</td>   <td> 13:30</td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton</a></td></tr>
-<tr height="18"><td>So</td>   <td> 26</td>   <td> 16:00</td>   <td>Städel Museum</td></tr>
+<tr height="18"><td>So</td>   <td> 26</td>   <td> 16:00</td>   <td>StÃ¤del Museum</td></tr>
 <tr height="18"><td>Mi</td>   <td> 29</td>   <td> 13:30</td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton</a></td></tr>
 <tr height="18"><td>Fr</td>   <td> 31</td>   <td> 13:30</td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Badminton</a></td></tr>
 <tr height="18"><td>Fr</td>   <td> 31</td>   <td> 19:00</td>   <td>Chinesische Neujahrsfeier </td></tr>                                                       
@@ -1222,7 +1222,7 @@ function popitup(url) {
 <tr height="18"><td>Sa </td>   <td>2 </td>   <td>15:30  </td>   <td> Speziergang durch das Nordend                                                                                                      </td></tr>
 <tr height="18"><td>Di </td>   <td>5 </td>   <td>13:30  </td>   <td> Lunch on Campus                                                                                                           </td></tr>
 <tr height="18"><td>Fr </td>   <td>8 </td>   <td>13:30  </td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a>              </td></tr>
-<tr height="18"><td>Sa </td>   <td>9 </td>   <td>14:30  </td>   <td> Führung durch Königstein                                                                                                 </td></tr>
+<tr height="18"><td>Sa </td>   <td>9 </td>   <td>14:30  </td>   <td> FÃ¼hrung durch KÃ¶nigstein                                                                                                 </td></tr>
 <tr height="18"><td>Mi </td>   <td>13</td>   <td>15:30  </td>   <td> Frankfurt Tour                                                                                                            </td></tr>
 <tr height="18"><td>Fr </td>   <td>15</td>   <td>13:30  </td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a>              </td></tr>
 <tr height="18"><td>Sa </td>   <td>16</td>   <td>12:00  </td>   <td> Tagesausflug nach Wertheim                                                                                                      </td></tr>
@@ -1253,7 +1253,7 @@ function popitup(url) {
 <tr height="18"><td>Mo </td>   <td> 7</td>   <td>18:30  </td>   <td> Tour durch das Westend                                                                                                 </td></tr>
 <tr height="18"><td>Mi </td>   <td> 9</td>   <td>13:30  </td>   <td> Lunch auf dem Campus                                                                                             </td></tr>
 <tr height="18"><td>Fr </td>   <td>11</td>   <td>13:30  </td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a></td></tr>
-<tr height="18"><td>Sa </td>   <td>12</td>   <td>20:00  </td>   <td> Soirée Française                                                                                            </td></tr>
+<tr height="18"><td>Sa </td>   <td>12</td>   <td>20:00  </td>   <td> SoirÃ©e FranÃ§aise                                                                                            </td></tr>
 <tr height="18"><td>So </td>   <td>13</td>   <td>14:00  </td>   <td> Tour durch Michelstadt                                                                                              </td></tr>
 <tr height="18"><td>Mi </td>   <td>16</td>   <td>18:30  </td>   <td> Tour durch Frankfurt                                                                                               </td></tr>
 <tr height="18"><td>Do  </td>   <td>17</td>   <td>13:30  </td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a> </td></tr>
@@ -1281,7 +1281,7 @@ function popitup(url) {
 <tr height="18"><td>Mi </td>   <td> 4</td>   <td> 13:30 </td>   <td> Tagesausflug nach Marburg                                                                                                    </td></tr>
 <tr height="18"><td>Fr </td>   <td> 6</td>   <td> 13:30 </td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a>         </td></tr>
 <tr height="18"><td>Sa </td>   <td> 7</td>   <td> 12:00 </td>   <td> Ausflug nach Wertheim                                                                                                            </td></tr>
-<tr height="18"><td>Mo </td>   <td> 9</td>   <td> 15:00 </td>   <td> Ausflug nach Höchst                                                                                                              </td></tr>
+<tr height="18"><td>Mo </td>   <td> 9</td>   <td> 15:00 </td>   <td> Ausflug nach HÃ¶chst                                                                                                              </td></tr>
 <tr height="18"><td>Mi </td>   <td>11</td>   <td> 13:30 </td>   <td> Lunch on Campus                                                                                                     </td></tr>
 <tr height="18"><td>Fr </td>   <td>13</td>   <td> 13:30 </td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a>         </td></tr>
 <tr height="18"><td>Sa </td>   <td>14</td>   <td> 12:00 </td>   <td> Ausflug ins Rheingau                                                                                                     </td></tr>
@@ -1292,7 +1292,7 @@ function popitup(url) {
 <tr height="18"><td>Mo </td>   <td>23</td>   <td> 13:00 </td>   <td> Lunch on Campus                                                                                                        </td></tr>
 <tr height="18"><td>Mi </td>   <td>25</td>   <td> 16:00 </td>   <td> US Info Night                                                                                                        </td></tr>
 <tr height="18"><td>Fr </td>   <td>27</td>   <td> 13:30 </td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a>         </td></tr>
-<tr height="18"><td>So </td>   <td>29</td>   <td> 12:00 </td>   <td> Ausflug nach Rüdesheim                                                                                                    </td></tr>
+<tr height="18"><td>So </td>   <td>29</td>   <td> 12:00 </td>   <td> Ausflug nach RÃ¼desheim                                                                                                    </td></tr>
   </tbody>
 </table>
 <br>
@@ -1341,7 +1341,7 @@ function popitup(url) {
 <tr height="18"><td>Su  </td>   <td> 7  </td>   <td>	12:00</td>   <td> Fahrradtour nach Seligenstadt                                                                                            </td></tr>
 <tr height="18"><td>Di  </td>   <td> 9  </td>   <td>	13:30</td>   <td> Lunch auf dem Campus                                                                                                      </td></tr>
 <tr height="18"><td>Fr  </td>   <td> 12 </td>   <td>	13:30</td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a>          </td></tr>
-<tr height="18"><td>Sa  </td>   <td> 13 </td>   <td>	19:00</td>   <td> Französische Party                                                                                                            </td></tr>
+<tr height="18"><td>Sa  </td>   <td> 13 </td>   <td>	19:00</td>   <td> FranzÃ¶sische Party                                                                                                            </td></tr>
 <tr height="18"><td>So  </td>   <td> 14 </td>   <td>	12:00</td>   <td> Schiersteinfest                                                                                                         </td></tr>
 <tr height="18"><td>Mi  </td>   <td> 17 </td>   <td>	13:00</td>   <td> Brunch Sushimoto                                                                                                        </td></tr>
 <tr height="18"><td>Do  </td>   <td> 18 </td>   <td>	20:00</td>   <td> English Comedy                                                                                                          </td></tr>
@@ -1350,7 +1350,7 @@ function popitup(url) {
 <tr height="18"><td>Mi  </td>   <td> 24 </td>   <td>   14:00</td>   <td> A-viva Kinotag                                                                                                           </td></tr>
 <tr height="18"><td>Fr  </td>   <td> 26 </td>   <td>   13:30</td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a>         </td></tr>
 <tr height="18"><td>Sa  </td>   <td> 27 </td>   <td>   13:30</td>   <td> Wandern auf dem Feldberg                                                                                                             </td></tr>
-<tr height="18"><td>So  </td>   <td> 28 </td>   <td>   10:00</td>   <td> Day Trip to Würzburg                                                                                           </td></tr>
+<tr height="18"><td>So  </td>   <td> 28 </td>   <td>   10:00</td>   <td> Day Trip to WÃ¼rzburg                                                                                           </td></tr>
   </tbody>          
 </table>
 <br>
@@ -1371,8 +1371,8 @@ function popitup(url) {
 <tr height="18"><td>Sa </td>   <td> 8  </td>   <td>	19:30</td>   <td> English Theatre "Brighton Beach Memoirs"                                                                       </td></tr>
 <tr height="18"><td>So </td>   <td> 9  </td>   <td>	13:00</td>   <td> Tagesausflug                                                                                                       </td></tr>
 <tr height="18"><td>Do </td>   <td> 13 </td>   <td>	19:30</td>   <td> Dragonboat Training                                                                                            </td></tr>
-<tr height="18"><td>Fr </td>   <td> 14 </td>   <td>	     </td>   <td> Soirée Française / French Party                                                                                </td></tr>
-<tr height="18"><td>Sa </td>   <td> 15 </td>   <td>	13:00</td>   <td> Kräuterwanderung                                                                                               </td></tr>
+<tr height="18"><td>Fr </td>   <td> 14 </td>   <td>	     </td>   <td> SoirÃ©e FranÃ§aise / French Party                                                                                </td></tr>
+<tr height="18"><td>Sa </td>   <td> 15 </td>   <td>	13:00</td>   <td> KrÃ¤uterwanderung                                                                                               </td></tr>
 <tr height="18"><td>So </td>   <td> 16 </td>   <td>	13:00</td>   <td> Wandern                                                                                                         </td></tr>
 <tr height="18"><td>Di </td>   <td> 18 </td>   <td>     20:00</td>   <td> Dragonboat Training                                                                                            </td></tr>
 <tr height="18"><td>Fr </td>   <td> 21 </td>   <td>     15:00</td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a>   </td></tr>
@@ -1416,7 +1416,7 @@ function popitup(url) {
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
  
 <tr height="18"><td>Mo </td>   <td> 1  </td>   <td>	     </td>   <td> Easter Holiday    </td></tr>
-<tr height="18"><td>Fr </td>   <td> 5  </td>   <td>	13:30</td>   <td> Let´s Cook Together </td></tr>
+<tr height="18"><td>Fr </td>   <td> 5  </td>   <td>	13:30</td>   <td> LetÂ´s Cook Together </td></tr>
 <tr height="18"><td>Sa </td>   <td> 6  </td>   <td>	10:00</td>   <td> Ausflug nach Limburg & Bad Camberg </td></tr>
 <tr height="18"><td>Mi </td>   <td> 10 </td>   <td>	14:00</td>   <td> A-viva Kinotag </td></tr>
 <tr height="18"><td>Fr </td>   <td> 12 </td>   <td>	15:00</td>   <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash / Badminton / Swimming </a>     </td></tr>
@@ -1434,14 +1434,14 @@ function popitup(url) {
 <br>
 <br>
 <br>
-<h3><b>März 2013
+<h3><b>MÃ¤rz 2013
 <br>                                                            
 </b></h3>
 <br>
 <table class="aktivtable" border="1">
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
  
-<tr height="18"><td>Fr </td>   <td> 1  </td>   <td>	13:00</td>   <td> Let´s Cook Together       </td></tr>
+<tr height="18"><td>Fr </td>   <td> 1  </td>   <td>	13:00</td>   <td> LetÂ´s Cook Together       </td></tr>
 <tr height="18"><td>So </td>   <td> 3  </td>   <td>	12:15</td>   <td> Wandern       </td></tr>
 <tr height="18"><td>Mo </td>   <td> 4  </td>   <td>	14:00</td>   <td> Laser Tag        </td></tr>
 <tr height="18"><td>Mi </td>   <td> 6  </td>   <td>	14:00</td>   <td> A-viva Kinotag   </td></tr>
@@ -1466,12 +1466,12 @@ function popitup(url) {
 <table class="aktivtable" border="1">
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
  
-<tr height="18"><td>Fr </td>   <td> 1  </td>   <td>	13:00</td>   <td>Let´s Cook Together            </td></tr>
-<tr height="18"><td>Sa </td>   <td> 2  </td>   <td>	20:00</td>   <td>Soirée Crêpes                  </td></tr>
+<tr height="18"><td>Fr </td>   <td> 1  </td>   <td>	13:00</td>   <td>LetÂ´s Cook Together            </td></tr>
+<tr height="18"><td>Sa </td>   <td> 2  </td>   <td>	20:00</td>   <td>SoirÃ©e CrÃªpes                  </td></tr>
 <tr height="18"><td>So </td>   <td> 3  </td>   <td>	12:15</td>   <td>Hiking Trip                     </td></tr>
 <tr height="18"><td>Mi </td>   <td> 6  </td>   <td>	14:00</td>   <td>Kino Tag                   </td></tr>
 <tr height="18"><td>Fr </td>   <td> 8  </td>   <td>	15:00</td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Sports Day </a>     </td></tr>
-<tr height="18"><td>Sa </td>   <td> 9  </td>   <td>	11:00</td>   <td>Köln Carneval                    </td></tr>
+<tr height="18"><td>Sa </td>   <td> 9  </td>   <td>	11:00</td>   <td>KÃ¶ln Carneval                    </td></tr>
 <tr height="18"><td>Di </td>   <td> 12 </td>   <td>	13:30</td>   <td>Michis Schokoatelier            </td></tr>
 <tr height="18"><td>Fr </td>   <td> 15 </td>   <td>	15:00</td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Sports Day </a></td></tr>
 <tr height="18"><td>Sa </td>   <td> 16 </td>   <td>	10:00</td>   <td>Day Trip to Seligenstadt          </td></tr>
@@ -1487,7 +1487,7 @@ function popitup(url) {
 <br>
 <br>
 <br>
-<h3><b>Januar 2013 - Für weitere Last-Minute Events bitte unsere <a href="http://www.facebook.com/groups/12517655820/?ref=ts&fref=ts" target="_blank">Facebook</a> Seite besuchen.
+<h3><b>Januar 2013 - FÃ¼r weitere Last-Minute Events bitte unsere <a href="http://www.facebook.com/groups/12517655820/?ref=ts&fref=ts" target="_blank">Facebook</a> Seite besuchen.
 <br>                                                            
 </b></h3>
 <br>
@@ -1528,7 +1528,7 @@ function popitup(url) {
 <tr height="18"><td>Fr </td>   <td> 7  </td>   <td>	21:00</td>   <td>Christmas Party  </td></tr>
 <tr height="18"><td>So </td>   <td> 9  </td>   <td>	11:00</td>   <td>Michelstadt + Erbach Trip        </td></tr>
 <tr height="18"><td>Fr </td>   <td> 14 </td>   <td>	13:30</td>   <td>Cafe 60318     </td></tr>
-<tr height="18"><td>Sa </td>   <td> 15 </td>   <td>	11:00</td>   <td>Ausflug nach Nürnberg</td></tr>
+<tr height="18"><td>Sa </td>   <td> 15 </td>   <td>	11:00</td>   <td>Ausflug nach NÃ¼rnberg</td></tr>
 <tr height="18"><td>Mo </td>   <td> 17 </td>   <td>	     </td>   <td>Weihnachtsferien bis zum 6. Januar   </td></tr>
   </tbody>          
 </table>
@@ -1545,17 +1545,17 @@ function popitup(url) {
 <tr height="18"><td>Sa   </td>   <td>  3	</td>   <td>	12:00 </td>   <td>Ausflug nach Bad Camberg                                </td></tr>
 <tr height="18"><td>Mo   </td>   <td>  5	</td>   <td>	13:30 </td>   <td>Lunch on Campus                                 </td></tr>
 <tr height="18"><td>Di   </td>   <td>  6	</td>   <td>	18:00 </td>   <td>Movie Night "Agent Ranjid rettet die Welt"      </td></tr>
-<tr height="18"><td>Fr   </td>   <td>  9	</td>   <td>	13:30 </td>   <td>Let´s Cook Together                             </td></tr>
+<tr height="18"><td>Fr   </td>   <td>  9	</td>   <td>	13:30 </td>   <td>LetÂ´s Cook Together                             </td></tr>
 <tr height="18"><td>Sa   </td>   <td> 10	</td>   <td>	10:00 </td>   <td>Ausflug nach Limburg                                          </td></tr>
-<tr height="18"><td>Do   </td>   <td> 15	</td>   <td>	20:00 </td>   <td>Dinner at Lam Frères                               </td></tr>
+<tr height="18"><td>Do   </td>   <td> 15	</td>   <td>	20:00 </td>   <td>Dinner at Lam FrÃ¨res                               </td></tr>
 <tr height="18"><td>Fr   </td>   <td> 16	</td>   <td>	21:00 </td>   <td>Jazz Concert                                   </td></tr>
-<tr height="18"><td>Sa   </td>   <td> 17	</td>   <td>	10:00 </td>   <td>Ausflug nach Eltville & Rüdesheim                          </td></tr>
+<tr height="18"><td>Sa   </td>   <td> 17	</td>   <td>	10:00 </td>   <td>Ausflug nach Eltville & RÃ¼desheim                          </td></tr>
 <tr height="18"><td>Di   </td>   <td> 20	</td>   <td>	17:00 </td>   <td>Schirn Museum "Gustave Caillebotte"           </td></tr>
 <tr height="18"><td>Mi   </td>   <td> 21	</td>   <td>	13:30 </td>   <td>Cafe 60316                                      </td></tr>
 <tr height="18"><td>Fr   </td>   <td> 23	</td>   <td>	13:30 </td>   <td>Weihnachtsmarkt                                </td></tr>
 <tr height="18"><td>Sa   </td>   <td> 24	</td>   <td>	10:00 </td>   <td>Ausflug nach Wertheim                                            </td></tr>
 <tr height="18"><td>Mi   </td>   <td> 28	</td>   <td>	13:30 </td>   <td>Phoenix Tea House                                    </td></tr>
-<tr height="18"><td>Fr   </td>   <td> 30	</td>   <td>	13:30 </td>   <td>Let´s Cook Together                                    </td></tr>
+<tr height="18"><td>Fr   </td>   <td> 30	</td>   <td>	13:30 </td>   <td>LetÂ´s Cook Together                                    </td></tr>
   </tbody>          
 </table>
 <br>
@@ -1569,21 +1569,21 @@ function popitup(url) {
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
  
 <tr height="18"><td>Di </td>   <td> 2 	</td>   <td>	13:30 </td>   <td>Lunch on Campus                                                                                </td></tr>
-<tr height="18"><td>Mi </td>   <td> 3 	</td>   <td>	14:00 </td>   <td>Jazz am Römerberg                                                                               </td></tr>
+<tr height="18"><td>Mi </td>   <td> 3 	</td>   <td>	14:00 </td>   <td>Jazz am RÃ¶merberg                                                                               </td></tr>
 <tr height="18"><td>Fr </td>   <td> 5 	</td>   <td>	13:30 </td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash</a>      </td></tr>
 <tr height="18"><td>Sa </td>   <td> 6 	</td>   <td>	10:00 </td>   <td>Trip nach Limburg                                                                         </td></tr>
 <tr height="18"><td>So </td>   <td> 7 	</td>   <td>	10:00 </td>   <td>Hiking Trip                                                                            </td></tr>
 <tr height="18"><td>Di </td>   <td> 9 	</td>   <td>	13:30 </td>   <td>Lunch im Little India                                                                           </td></tr>
 <tr height="18"><td>Do </td>   <td> 11	</td>   <td>	13:30 </td>   <td>Buchmesse Frankfurt                                                                        </td></tr>
-<tr height="18"><td>Sa </td>   <td> 13	</td>   <td>	20:00 </td>   <td>Soirée Française                                                                              </td></tr>
+<tr height="18"><td>Sa </td>   <td> 13	</td>   <td>	20:00 </td>   <td>SoirÃ©e FranÃ§aise                                                                              </td></tr>
 <tr height="18"><td>Di </td>   <td> 16	</td>   <td>	14:00 </td>   <td>Kino Tag                                                                                       </td></tr>
 <tr height="18"><td>Mi </td>   <td> 17	</td>   <td>	13:30 </td>   <td>Cafe Kante                                                                                     </td></tr>
 <tr height="18"><td>Fr </td>   <td> 19	</td>   <td>	13:30 </td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash</a>     </td></tr>
 <tr height="18"><td>Sa </td>   <td> 20	</td>   <td>	10:00 </td>   <td>Trip nach Marburg                                                                                </td></tr>
 <tr height="18"><td>Di </td>   <td> 23	</td>   <td>	13:30 </td>   <td>Dialogmuseum                                                                                   </td></tr>
 <tr height="18"><td>Do </td>   <td> 25	</td>   <td>	13:30 </td>   <td>Lunch im Phoenix Tea House                                                                       </td></tr>
-<tr height="18"><td>Sa </td>   <td> 27	</td>   <td>	13:00 </td>   <td>Domäne Mechtildshausen                                                                         </td></tr>
-<tr height="18"><td>So </td>   <td> 28	</td>   <td>	10:00 </td>   <td>Bike Trip nach Eltville and Rüdesheim                                                              </td></tr>
+<tr height="18"><td>Sa </td>   <td> 27	</td>   <td>	13:00 </td>   <td>DomÃ¤ne Mechtildshausen                                                                         </td></tr>
+<tr height="18"><td>So </td>   <td> 28	</td>   <td>	10:00 </td>   <td>Bike Trip nach Eltville and RÃ¼desheim                                                              </td></tr>
   </tbody>          
 </table>
 <br>
@@ -1596,14 +1596,14 @@ function popitup(url) {
 <table class="aktivtable" border="1">
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
  
-<tr height="18"><td>Sa</td>   <td> 1	</td>   <td>	14:00 </td>   <td>Rotlintstraßenfest               </td></tr>
+<tr height="18"><td>Sa</td>   <td> 1	</td>   <td>	14:00 </td>   <td>RotlintstraÃŸenfest               </td></tr>
 <tr height="18"><td>Mi</td>   <td> 5	</td>   <td>	13:30 </td>   <td>Lunch on Campus                  </td></tr>
 <tr height="18"><td>Do</td>   <td> 6	</td>   <td>	13:30 </td>   <td>Shopping Trip                    </td></tr>
 <tr height="18"><td>Fr</td>   <td> 7	</td>   <td>	13:30 </td>   <td>Volleyball im Park               </td></tr>
 <tr height="18"><td>Sa</td>   <td> 8	</td>   <td>	10:00 </td>   <td>Trip to France                   </td></tr>
 <tr height="18"><td>So</td>   <td> 9	</td>   <td>	      </td>   <td>Trip to France                   </td></tr>
 <tr height="18"><td>Di</td>   <td> 11	</td>   <td>	13:30 </td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash</a>     </td></tr>
-<tr height="18"><td>Mi</td>   <td> 12	</td>   <td>	13:30 </td>   <td>Café Glauburg                    </td></tr>
+<tr height="18"><td>Mi</td>   <td> 12	</td>   <td>	13:30 </td>   <td>CafÃ© Glauburg                    </td></tr>
 <tr height="18"><td>Do</td>   <td> 13	</td>   <td>	20:00 </td>   <td>Shorts at Moonlight              </td></tr>
 <tr height="18"><td>Fr</td>   <td> 14	</td>   <td>	13:15 </td>   <td>Dippemess                        </td></tr>
 <tr height="18"><td>So</td>   <td> 16	</td>   <td>	10:00 </td>   <td>Bike Trip to Seligenstadt        </td></tr>
@@ -1628,16 +1628,16 @@ function popitup(url) {
 
 <tr height="18"><td>Do</td>   <td>	2</td>   <td>	19:30</td>   <td>Jazz im Palmengarten</td></tr>
 <tr height="18"><td>Sa</td>   <td>	4</td>   <td>	19:00</td>   <td>Mainuferfest	</td></tr>
-<tr height="18"><td>So</td>   <td>	5</td>   <td>	10:00</td>   <td>Schlösser Tour</td></tr>
-<tr height="18"><td>Di</td>   <td>	7</td>   <td>	14:00</td>   <td>Eis-Café Christina</td></tr>
+<tr height="18"><td>So</td>   <td>	5</td>   <td>	10:00</td>   <td>SchlÃ¶sser Tour</td></tr>
+<tr height="18"><td>Di</td>   <td>	7</td>   <td>	14:00</td>   <td>Eis-CafÃ© Christina</td></tr>
 <tr height="18"><td>Do</td>   <td>	9</td>   <td>	14:00</td>   <td>Grillen bei A-viva</td></tr>
 <tr height="18"><td>Fr</td>   <td>	10</td>   <td>	18:00</td>   <td>Bernemer Kerb (Bornheim)</td></tr>
 <tr height="18"><td>Sa</td>   <td>	11</td>   <td>	10:00</td>   <td>Ausflug nach Marburg</td></tr>
-<tr height="18"><td>So</td>   <td>	12</td>   <td>	10:00</td>   <td>Ausflug nach Rüdesheim</td></tr>
+<tr height="18"><td>So</td>   <td>	12</td>   <td>	10:00</td>   <td>Ausflug nach RÃ¼desheim</td></tr>
 <tr height="18"><td>Di</td>   <td>	14</td>   <td>  13:00</td>   <td>Brunch in Sushimoto</td></tr>
 <tr height="18"><td>Do</td>   <td>	16</td>   <td>	20:00</td>   <td>Int. Short Film Festival</td></tr>
 <tr height="18"><td>Sa</td>   <td>	18</td>   <td>	10:00</td>   <td>Ausflug nach Koblenz</td></tr>
-<tr height="18"><td>So</td>   <td>	19</td>   <td>	10:00</td>   <td>Fahrradtour & Beerenpflücken</td></tr>
+<tr height="18"><td>So</td>   <td>	19</td>   <td>	10:00</td>   <td>Fahrradtour & BeerenpflÃ¼cken</td></tr>
 <tr height="18"><td>Di</td>   <td>	21</td>   <td>	14:00</td>   <td>Kinotag</td></tr>
 <tr height="18"><td>Do</td>   <td>	23</td>   <td>	14:00</td>   <td>Grillen bei A-viva</td></tr>
 <tr height="18"><td>Sa</td>   <td>	25</td>   <td>	19:00</td>   <td>Museumsuferfest</td></tr>
@@ -1655,25 +1655,25 @@ function popitup(url) {
 <table class="aktivtable" border="1">
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
 
-<tr height="18"><td>So</td>   <td>1</td>   <td>	10:00</td>   <td>Schlösser Tour</td></tr>
+<tr height="18"><td>So</td>   <td>1</td>   <td>	10:00</td>   <td>SchlÃ¶sser Tour</td></tr>
 <tr height="18"><td>Mi</td>   <td>4</td>   <td>	14:00</td>   <td>Grillen bei A-viva</td></tr>
 <tr height="18"><td>Do</td>   <td>5</td>   <td>	19:30</td>   <td>Jazz im Palmengarten</td></tr>
 <tr height="18"><td>Fr</td>   <td>6</td>   <td>	14:00</td>   <td>Dialogue Musuem</td></tr>
 <tr height="18"><td>Sa</td>   <td>7</td>   <td>	17:00</td>   <td>fran. Gourmet Markt & Konzert</td></tr>
 <tr height="18"><td>So</td>   <td>8</td>   <td>	10:00</td>   <td>Fahrradtour nach Seligenstadt</td></tr>
-<tr height="18"><td>Di</td>   <td>10</td>   <td>14:00</td>   <td>Eis-Café Christina</td></tr>
+<tr height="18"><td>Di</td>   <td>10</td>   <td>14:00</td>   <td>Eis-CafÃ© Christina</td></tr>
 <tr height="18"><td>Mi</td>   <td>11</td>   <td>20:00</td>   <td>Int. Short Film Festival</td></tr>
-<tr height="18"><td>Fr</td>   <td>13</td>   <td>19:00</td>   <td>Dinner in Schöne Aussicht</td></tr>
+<tr height="18"><td>Fr</td>   <td>13</td>   <td>19:00</td>   <td>Dinner in SchÃ¶ne Aussicht</td></tr>
 <tr height="18"><td>Sa</td>   <td>14</td>   <td>10:00</td>   <td>Ausflug nach Rothenburg</td></tr>
 <tr height="18"><td>So</td>   <td>15</td>   <td>12:00</td>   <td>Konzert im Park</td></tr>
-<tr height="18"><td>Mi</td>   <td>18</td>   <td>18:00</td>   <td>Kabarett & Konzert im Günthersburg Park</td></tr>
+<tr height="18"><td>Mi</td>   <td>18</td>   <td>18:00</td>   <td>Kabarett & Konzert im GÃ¼nthersburg Park</td></tr>
 <tr height="18"><td>Fr</td>   <td>20</td>   <td>14:00</td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Sporttag</a></td></tr>
 <tr height="18"><td>Sa</td>   <td>21</td>   <td>10:00</td>   <td>Ausflug nach Heidelberg</td></tr>
 <tr height="18"><td>So</td>   <td>22</td>   <td>10:00</td>   <td>Ausflug zum Kloster Hildegard</td></tr>
 <tr height="18"><td>Di</td>   <td>24</td>   <td>14:00</td>   <td>Kinotag</td></tr>
 <tr height="18"><td>Do</td>   <td>26</td>   <td>18:00</td>   <td>Konzert im Park</td></tr>
 <tr height="18"><td>Fr</td>   <td>27</td>   <td>14:00</td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Sporttag</a></td></tr>
-<tr height="18"><td>Sa</td>   <td>28</td>   <td>10:00</td>   <td>Ausflug nach Straßburg</td></tr>
+<tr height="18"><td>Sa</td>   <td>28</td>   <td>10:00</td>   <td>Ausflug nach StraÃŸburg</td></tr>
   </tbody>
 </table>
 <br>
@@ -1694,13 +1694,13 @@ function popitup(url) {
 <tr height="18"><td>Sa</td>   <td>  9</td>   <td>    </td>   <td>Trip to Moselle  / Luxembourg</td></tr>
 <tr height="18"><td>So</td>   <td>  10</td>   <td>    </td>   <td>Trip to Moselle  / Luxembourg</td></tr>
 <tr height="18"><td>Mi</td>   <td>  13</td>   <td>  13:00</td>   <td> Grill Party</td></tr>
-<tr height="18"><td>So</td>   <td>  17</td>   <td>  12:00</td>   <td> Let´s Go Boating</td></tr>
+<tr height="18"><td>So</td>   <td>  17</td>   <td>  12:00</td>   <td> LetÂ´s Go Boating</td></tr>
 <tr height="18"><td>Di</td>   <td>  19</td>   <td>  14:00</td>   <td> Kino Tag</td></tr>
-<tr height="18"><td>Mi</td>   <td>  20</td>   <td>  14:00</td>   <td> Günthersburg Park</td></tr>
+<tr height="18"><td>Mi</td>   <td>  20</td>   <td>  14:00</td>   <td> GÃ¼nthersburg Park</td></tr>
 <tr height="18"><td>Sa</td>   <td>  23</td>   <td>  14:00</td>   <td> International Festival</td></tr>
 <tr height="18"><td>So</td>   <td>  24</td>   <td>  10:00</td>   <td> Dragon Boat Competition</td></tr>
 <tr height="18"><td>Mi</td>   <td>  27</td>   <td>  20:00</td>   <td> Rotlintcafe Concert</td></tr>
-<tr height="18"><td>Fr</td>   <td>  29</td>   <td>   20:0</td>   <td>0 Let´s Make Sushi</td></tr>
+<tr height="18"><td>Fr</td>   <td>  29</td>   <td>   20:0</td>   <td>0 LetÂ´s Make Sushi</td></tr>
   </tbody>
 </table>
 <br>
@@ -1714,7 +1714,7 @@ function popitup(url) {
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
       
 <tr height="18"><td>Di</td>   <td>  1</td>   <td>  18:00</td>   <td> David Garrett Concert</td></tr>
-<tr height="18"><td>Do</td>   <td>  3</td>   <td>  18:00</td>   <td> "Andy Warhol"  Museum für Moderne Kunst</td></tr>
+<tr height="18"><td>Do</td>   <td>  3</td>   <td>  18:00</td>   <td> "Andy Warhol"  Museum fÃ¼r Moderne Kunst</td></tr>
 <tr height="18"><td>So</td>   <td>  6</td>   <td>  17:00</td>   <td> Indoor Climbing</td></tr>
 <tr height="18"><td>Mo</td>   <td>  7</td>   <td>  19:30</td>   <td> Jazz at the Water Castle</td></tr>
 <tr height="18"><td>Mi</td>   <td>  9</td>   <td>  19:00</td>   <td>  "Edvard Munch"  Schirn Museum</td></tr>
@@ -1743,7 +1743,7 @@ function popitup(url) {
 <tr height="18"><td>Sa</td>   <td>  7</td>   <td>     </td>   <td>   Trip to Holland + Belgium</td></tr>
 <tr height="18"><td>So</td>   <td>  8</td>   <td>       </td>   <td>    Trip to Holland + Belgium</td></tr>
 <tr height="18"><td>Mi</td>   <td>  11</td>   <td>  20:00</td>   <td> Rotlintcafe Concert</td></tr>
-<tr height="18"><td>Fr</td>   <td>  13</td>   <td>  20:00</td>   <td> Let´s Make Sushi</td></tr>
+<tr height="18"><td>Fr</td>   <td>  13</td>   <td>  20:00</td>   <td> LetÂ´s Make Sushi</td></tr>
 <tr height="18"><td>So</td>   <td>  15</td>   <td>  16:00</td>   <td> Indoor Wall Climbing</td></tr>
 <tr height="18"><td>Di</td>   <td>  17</td>   <td>  20:00</td>   <td> "The Foreigner"  English Theatre</td></tr>
 <tr height="18"><td>Fr</td>   <td>  20</td>   <td>  14:00</td>   <td> Dippemess</td></tr>
@@ -1766,7 +1766,7 @@ function popitup(url) {
 <tr height="18"><td>Sa</td>   <td>  3</td>   <td>  9:00</td>   <td>  Day Trip to Luxembourg</td></tr>
 <tr height="18"><td>So</td>   <td>  4</td>   <td>  11:00</td>   <td>  Bike Trip to Seligenstadt</td></tr>
 <tr height="18"><td>Di</td>   <td>  6</td>   <td>  14:00</td>   <td> Phoenix Tea House</td></tr>
-<tr height="18"><td>Do</td>   <td>  8</td>   <td>  14:00</td>   <td>  "Andy Warhol"  Museum für Moderne Kunst</td></tr>
+<tr height="18"><td>Do</td>   <td>  8</td>   <td>  14:00</td>   <td>  "Andy Warhol"  Museum fÃ¼r Moderne Kunst</td></tr>
 <tr height="18"><td>Fr</td>   <td>  9</td>   <td>  20:00</td>   <td> South American Party</td></tr>
 <tr height="18"><td>So</td>   <td>  11</td>   <td>  19:00</td>   <td> Palmengarten Night Tour</td></tr>
 <tr height="18"><td>Mi</td>   <td>  14</td>   <td>  16:00</td>   <td>  "Edvard Munch"  Schirn Museum</td></tr>
@@ -1790,13 +1790,13 @@ function popitup(url) {
 <table class="aktivtable" border="1">
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col width="450"> </colgroup> <tbody>
       
-<tr height="18"><td>Do</td>   <td> 2</td>   <td> 17:00</td>   <td> Körperwelten der Tiere, Senckenberg Naturmuseum</td></tr>
+<tr height="18"><td>Do</td>   <td> 2</td>   <td> 17:00</td>   <td> KÃ¶rperwelten der Tiere, Senckenberg Naturmuseum</td></tr>
 <tr height="18"><td>Fr</td>   <td> 3</td>   <td> 14:00</td>   <td> Visit of Venos Market</td></tr>
 <tr height="18"><td>Sa</td>   <td> 4</td>   <td> 20:00</td>   <td> French Party</td></tr>
 <tr height="18"><td>Di</td>   <td> 7</td>   <td>       </td>   <td>Kino Tag</td></tr>
 <tr height="18"><td>Do</td>   <td> 9</td>   <td> 19:00-20:00</td>   <td> Der Moderne Blick, Schirn Museum</td></tr>
-<tr height="18"><td>Fr</td>   <td> 10</td>   <td> 17:00</td>   <td> Götterdämmerung, Opernhaus</td></tr>
-<tr height="18"><td>Sa</td>   <td> 11</td>   <td> 14:00</td>   <td> Elina’s Kochschule</td></tr>
+<tr height="18"><td>Fr</td>   <td> 10</td>   <td> 17:00</td>   <td> GÃ¶tterdÃ¤mmerung, Opernhaus</td></tr>
+<tr height="18"><td>Sa</td>   <td> 11</td>   <td> 14:00</td>   <td> Elinaâ€™s Kochschule</td></tr>
 <tr height="18"><td>So</td>   <td> 12</td>   <td> 10:00</td>   <td> Day Trip to Marburg</td></tr>
 <tr height="18"><td>Mo</td>   <td> 13</td>   <td> 19:30</td>   <td> Jazz Concert, Water Castle</td></tr>
 <tr height="18"><td>Mi</td>   <td> 15</td>   <td> </td>   <td>Dialog im Dunkeln, Dialogmuseeum</td></tr>
@@ -1806,10 +1806,10 @@ function popitup(url) {
 <tr height="18"><td>Mo</td>   <td> 20</td>   <td> 14:00</td>   <td> Visit of Kleinmarkthalle</td></tr>
 <tr height="18"><td>Mi</td>   <td> 22</td>   <td> 13:30</td>   <td> Indian Brunch</td></tr>
 <tr height="18"><td>Fr</td>   <td> 24</td>   <td> 14:00</td>   <td> Sports Day, <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank"> Squash/Badminton/Swimming</a></td></tr>
-<tr height="18"><td>Sa</td>   <td> 25</td>   <td> 11:00</td>   <td> Museums Day, Liebieghaus – Sculpturen Sammlung</td></tr>
+<tr height="18"><td>Sa</td>   <td> 25</td>   <td> 11:00</td>   <td> Museums Day, Liebieghaus â€“ Sculpturen Sammlung</td></tr>
 <tr height="18"><td>So</td>   <td> 26</td>   <td> 10:00</td>   <td> Day Trip to Koblenz</td></tr>
 <tr height="18"><td>Di</td>   <td> 28</td>   <td> 13:30</td>   <td> Japanese Brunch</td></tr>
-<tr height="18"><td>Mi</td>   <td> 29</td>   <td> 20:00</td>   <td> Jazz Concert, Rotlint Café</td></tr>
+<tr height="18"><td>Mi</td>   <td> 29</td>   <td> 20:00</td>   <td> Jazz Concert, Rotlint CafÃ©</td></tr>
   </tbody>
 </table>
 <br>
@@ -1827,14 +1827,14 @@ function popitup(url) {
 <tr height="18"><td>Mi</td>   <td> 11</td>   <td> 17:30</td>   <td> Guided Tour, Geldmuseum der Deutschen Bundesbank </td></tr>
 <tr height="18"><td>Fr</td>    <td>13</td>   <td> 17:00</td>   <td> Ice Skating</td></tr>
 <tr height="18"><td>Do</td>   <td> 17</td>   <td> </td>        <td> Kino Tag </td></tr>
-<tr height="18"><td>Mi</td>   <td> 18</td>   <td> 20:00</td>   <td> Jazz Concert, Rotlint Café</td></tr>
+<tr height="18"><td>Mi</td>   <td> 18</td>   <td> 20:00</td>   <td> Jazz Concert, Rotlint CafÃ©</td></tr>
 <tr height="18"><td>Fr</td>   <td> 20</td>   <td> 20:00</td>   <td> 'HIM', Comedy drama, The International English Theatre</td></tr>
 <tr height="18"><td>Sa</td>   <td> 21</td>  <td> 12:00</td>   <td>   Turkish Brunch </td></tr>
-<tr height="18"><td>So</td>   <td> 22 </td> <td> 11:00</td>   <td>New Year´s Concert, Wasserschloss </td></tr>
-<tr height="18"><td>Mi</td>   <td> 25</td>   <td> 20:00</td>   <td>  Jazz Concert, Rotlint Café</td></tr>
+<tr height="18"><td>So</td>   <td> 22 </td> <td> 11:00</td>   <td>New YearÂ´s Concert, Wasserschloss </td></tr>
+<tr height="18"><td>Mi</td>   <td> 25</td>   <td> 20:00</td>   <td>  Jazz Concert, Rotlint CafÃ©</td></tr>
 <tr height="18"><td>Do</td>  <td> 26</td>   <td> 19:00</td>   <td> Classical Concert, Wasserschloss </td></tr>
 <tr height="18"><td>Fr</td>   <td> 27</td>   <td> 20:00</td>   <td>  Dinner at Grosswand</td></tr>
-<tr height="18"><td>Sa</td>   <td> 28</td>   <td> 12:00</td>   <td>  Elina´s Kochkunst</td></tr>
+<tr height="18"><td>Sa</td>   <td> 28</td>   <td> 12:00</td>   <td>  ElinaÂ´s Kochkunst</td></tr>
 <tr height="18"><td>So</td>   <td> 29</td>  <td> 09:00</td>   <td> Day Trip to Trier </td></tr>
   </tbody>
 </table>
@@ -1858,7 +1858,7 @@ function popitup(url) {
 <tr height="18"><td>So</td>   <td> 11</td>   <td> 16:00</td>   <td>  Advent Concert, VocalRaum</td></tr>
 <tr height="18"><td>Mo</td>    <td> 12</td>   <td> 21:00</td>   <td> Balalaika Jazz Quartet, Balalaika Bar</td></tr>
 <tr height="18"><td>Di</td>   <td> 13</td>   <td> 17:00</td>   <td>  Kino Tag</td></tr>
-<tr height="18"><td>Mi</td>   <td> 14</td>   <td> 20:00</td>   <td>  Jazz Concert, Rotlint Café</td></tr>
+<tr height="18"><td>Mi</td>   <td> 14</td>   <td> 20:00</td>   <td>  Jazz Concert, Rotlint CafÃ©</td></tr>
 <tr height="18"><td>Do</td>   <td> 15</td>  <td> 14:00</td>   <td> Tennis</td></tr>
 <tr height="18"><td>Sa</td>   <td> 17</td>   <td> 19:00</td>   <td>  A-viva Christmas Party! </td></tr>
 <tr height="18"><td>So</td>   <td> 18</td>   <td> 10:00</td>   <td>  Der Nussknacker, Oper Frankfurt</td></tr>
@@ -1877,26 +1877,26 @@ function popitup(url) {
       
 <tr height="18"><td>Mo</td>   <td> 3</td>   <td> 10:00</td>   <td> Hiking Trip</td></tr>
 <tr height="18"><td>Mo</td>   <td> 3</td>   <td> 19:00</td>   <td>  Cosi Fan Tute Drama, Opernhaus</td></tr>
-<tr height="18"><td>Mi</td>   <td> 5</td>   <td> 17:30</td>   <td> Museum für Moderne Kunst</td></tr>
+<tr height="18"><td>Mi</td>   <td> 5</td>   <td> 17:30</td>   <td> Museum fÃ¼r Moderne Kunst</td></tr>
 <tr height="18"><td>Fr</td>   <td> 7</td>   <td> 14:00</td>   <td> Sports Day </td></tr>
-<tr height="18"><td>Sa</td>   <td> 8</td>   <td> 20:00</td>   <td> Soirée Française</td></tr>
+<tr height="18"><td>Sa</td>   <td> 8</td>   <td> 20:00</td>   <td> SoirÃ©e FranÃ§aise</td></tr>
 <tr height="18"><td>So</td>   <td> 9</td>   <td> 11:00</td>   <td> Stadtwaldhaus </td></tr>
 <tr height="18"><td>Di</td>   <td> 11</td>  <td> 13:30</td>   <td>  Brunch at Sushimoto</td></tr>
-<tr height="18"><td>Mi</td>   <td> 12 </td>  <td> 20:00</td>   <td>Jazz Concert at Rotlint Café</td></tr>
-<tr height="18"><td>Do</td>  <td> 13</td>   <td> 13:30</td>   <td>  Let´s Cook Pumpkin Soup </td></tr>
+<tr height="18"><td>Mi</td>   <td> 12 </td>  <td> 20:00</td>   <td>Jazz Concert at Rotlint CafÃ©</td></tr>
+<tr height="18"><td>Do</td>  <td> 13</td>   <td> 13:30</td>   <td>  LetÂ´s Cook Pumpkin Soup </td></tr>
 <tr height="18"><td>Fr</td>   <td> 14</td>   <td> 14:00</td>   <td>  Sports Day</td></tr>
 <tr height="18"><td>Sa</td>   <td> 15</td>   <td> 12:00</td>   <td> Frankfurter Buchmesse</td></tr>
 <tr height="18"><td>So</td>   <td> 16</td>   <td> 10:00</td>   <td> Trip to Aschaffenburg</td></tr>
-<tr height="18"><td>Mi</td>   <td> 19</td>   <td> 20:00</td>   <td> Jazz Concert at Rotlint Café</td></tr>
+<tr height="18"><td>Mi</td>   <td> 19</td>   <td> 20:00</td>   <td> Jazz Concert at Rotlint CafÃ©</td></tr>
 <tr height="18"><td>do</td>  <td> 20</td>   <td> 20:00</td>   <td> Dinner at Fish Franke Restaurant</td></tr>
 <tr height="18"><td>Fr</td>   <td> 21</td>    <td>14:00</td>   <td> Sports Day </td></tr>
-<tr height="18"><td>So</td>   <td> 23</td>   <td> 12:00 </td>   <td>Hiking Trip to Rüdesheim & Assmannshausen</td></tr>
-<tr height="18"><td>Di</td>   <td> 25 </td>  <td> 16:00</td>   <td>Children´s Choir at  the Water Castle</td></tr>
+<tr height="18"><td>So</td>   <td> 23</td>   <td> 12:00 </td>   <td>Hiking Trip to RÃ¼desheim & Assmannshausen</td></tr>
+<tr height="18"><td>Di</td>   <td> 25 </td>  <td> 16:00</td>   <td>ChildrenÂ´s Choir at  the Water Castle</td></tr>
 <tr height="18"><td>Mi</td>   <td> 26</td>   <td> 20:00</td>   <td> Movie Night at A-viva </td></tr>
 <tr height="18"><td>Do</td>  <td> 27</td>   <td> 20:30</td>   <td> Tennis</td></tr>
 <tr height="18"><td>Fr</td>   <td> 28</td>   <td> 14:00</td>   <td> Sports Day </td></tr>
-<tr height="18"><td>Sa</td>   <td> 29</td>   <td> 13:30</td>    <td>Expressionist Exhibition at the Jüdisches Museum</td></tr>
-<tr height="18"><td>So</td>   <td> 30</td>   <td> 09:45</td>   <td>Day Trip to Würzburg</td></tr>
+<tr height="18"><td>Sa</td>   <td> 29</td>   <td> 13:30</td>    <td>Expressionist Exhibition at the JÃ¼disches Museum</td></tr>
+<tr height="18"><td>So</td>   <td> 30</td>   <td> 09:45</td>   <td>Day Trip to WÃ¼rzburg</td></tr>
   </tbody>
 </table>
 <br>
@@ -1919,20 +1919,20 @@ function popitup(url) {
 <tr height="18"><td>Do</td>  <td> 8 </td>  <td> 20:00</td>   <td> Indian Dinner </td></tr>
 <tr height="18"><td>Fr</td>   <td> 9</td>   <td> 18:00</td>   <td> Frankfurt Sightseeing Tour </td></tr>
 <tr height="18"><td>Sa</td>   <td> 10</td>  <td> 14:00</td>   <td> Discover Frankfurt on bike</td></tr>
-<tr height="18"><td>So</td>   <td> 11</td>   <td> 9:45</td>   <td> Day trip to Rüdesheim & Assmannshausen</td></tr>
+<tr height="18"><td>So</td>   <td> 11</td>   <td> 9:45</td>   <td> Day trip to RÃ¼desheim & Assmannshausen</td></tr>
 <tr height="18"><td>Mo</td>   <td> 12</td>   <td> 19:30</td>   <td>Classical Concert at the Water Castle</td></tr>
 <tr height="18"><td>Di</td>   <td> 13</td>   <td> 13:30</td>   <td> Lunch in the Park</td></tr>
-<tr height="18"><td>Mi</td>   <td> 14</td>   <td> 20:30</td>   <td> Jazz Concert at Rotlint Café</td></tr>
+<tr height="18"><td>Mi</td>   <td> 14</td>   <td> 20:30</td>   <td> Jazz Concert at Rotlint CafÃ©</td></tr>
 <tr height="18"><td>Do</td>  <td>15</td>    <td> 19:00</td>   <td> Schirn Museum </td></tr>
 <tr height="18"><td>Fr</td>   <td> 16</td>   <td> 14:00 </td>   <td>Sports Day</td></tr>
 <tr height="18"><td>Sa</td>   <td> 17 </td>  <td> 10:00</td>   <td>Goethe Turm</td></tr>
 <tr height="18"><td>Sa</td>   <td> 17</td>   <td> 10:00</td>   <td> Flea Market </td></tr>
-<tr height="18"><td>So</td>   <td> 18</td>   <td> 9:45</td>   <td> Day Trip to Würzburg </td></tr>
+<tr height="18"><td>So</td>   <td> 18</td>   <td> 9:45</td>   <td> Day Trip to WÃ¼rzburg </td></tr>
 <tr height="18"><td>Mi</td>   <td> 21</td>   <td> 13:45</td>   <td> Pumpkin Soup by Elina  </td></tr>
 <tr height="18"><td>Do</td>  <td>22 </td>   <td> 16:00</td>    <td>International Auto Show </td></tr>
 <tr height="18"><td>Fr</td>   <td> 23</td>   <td> 14:00</td>   <td>Sports Day</td></tr>
 <tr height="18"><td>Sa</td>   <td> 24</td>   <td> 9:00</td>   <td> Day Trip to Colmar, France</td></tr>
-<tr height="18"><td>So</td>   <td> 25 </td>  <td>11:00-17:00</td>    <td>Theaterfest Tag der offenen Tür in Oper und Schauspiel Frankfurt </td></tr>
+<tr height="18"><td>So</td>   <td> 25 </td>  <td>11:00-17:00</td>    <td>Theaterfest Tag der offenen TÃ¼r in Oper und Schauspiel Frankfurt </td></tr>
 <tr height="18"><td>Di</td>   <td> 27</td>   <td> 15:00 </td>   <td>Kino Tag </td></tr>
 <tr height="18"><td>Do</td>  <td>29</td>    <td> 20:00</td>   <td> Movie Night at A-viva</td></tr>
 <tr height="18"><td>So</td>   <td> 30</td>   <td>13:30 </td>   <td> Brunch</td></tr>
@@ -1964,13 +1964,13 @@ function popitup(url) {
 <tr height="18"><td>Di</td>   <td> 16</td>   <td> 13:30</td>   <td> German Baking</td></tr>
 <tr height="18"><td>Mi</td>   <td>17</td>   <td> 19:00</td>   <td> Palmengarten</td></tr>
 <tr height="18"><td>Do</td>  <td> 18</td>   <td> 18:30 </td>   <td> Sunset Bicycle Tour </td></tr>
-<tr height="18"><td>Do</td>   <td> 18 </td>   <td> 19:00</td>   <td>Bahnhofsviertelnacht 30 Öffene Türen</td></tr>
+<tr height="18"><td>Do</td>   <td> 18 </td>   <td> 19:00</td>   <td>Bahnhofsviertelnacht 30 Ã–ffene TÃ¼ren</td></tr>
 <tr height="18"><td>Fr</td>   <td> 19</td>   <td> 20:45</td>   <td> Barbarella - Verwirrt im Weltall</td></tr>
 <tr height="18"><td>Sa</td>   <td> 20</td>   <td> 14:00</td>   <td> Rotlintstrassenfest</td></tr>
-<tr height="18"><td>So</td>   <td> 21</td>   <td> 12:00</td>   <td> Day Trip to Würzburg </td></tr>
-<tr height="18"><td> So</td>   <td>21 </td>   <td>18:00</td>    <td>Sachsenhäuser Brunnenfest</td></tr>
+<tr height="18"><td>So</td>   <td> 21</td>   <td> 12:00</td>   <td> Day Trip to WÃ¼rzburg </td></tr>
+<tr height="18"><td> So</td>   <td>21 </td>   <td>18:00</td>    <td>SachsenhÃ¤user Brunnenfest</td></tr>
 <tr height="18"><td>Mi</td>   <td> 24</td>   <td> 14:00</td>   <td>Day Trip to Speyer</td></tr>
-<tr height="18"><td>Fr</td>   <td> 26</td>   <td> 10:00</td>   <td> Day Trip to Königstein</td></tr>
+<tr height="18"><td>Fr</td>   <td> 26</td>   <td> 10:00</td>   <td> Day Trip to KÃ¶nigstein</td></tr>
 <tr height="18"><td>Fr</td>   <td> 26 </td>   <td>20:00</td>    <td>Museumsuferfest</td></tr>
 <tr height="18"><td>Sa</td>   <td> 27</td>   <td> 08:00 </td>   <td>Trip to Schwarzwald</td></tr>
 <tr height="18"><td>So</td>   <td> 28</td>   <td> </td>   <td> Trip to Schwarzwald</td></tr>
@@ -1990,9 +1990,9 @@ function popitup(url) {
 <tr height="18"><td>So</td>   <td> 3</td>   <td> 10:00</td>   <td> Bike Tour</td></tr>
 <tr height="18"><td>Mi</td>   <td> 6</td>   <td> 20:45</td>   <td> Open-air theatre "Alice im Wunderland"</td></tr>
 <tr height="18"><td>Do</td>   <td> 7</td>   <td> 18:30</td>   <td> Sunset Bicycle Tour</td></tr>
-<tr height="18"><td>Fr</td>   <td> 8</td>   <td> 18:00</td>   <td> "Wölfe" Senckenberg Naturmuseum</td></tr>
+<tr height="18"><td>Fr</td>   <td> 8</td>   <td> 18:00</td>   <td> "WÃ¶lfe" Senckenberg Naturmuseum</td></tr>
 <tr height="18"><td>Sa</td>   <td> 9</td>   <td> 16:00</td>   <td> Grill Party in Ostpark</td></tr>
-<tr height="18"><td>So</td>   <td> 10</td>   <td> 10:00</td>   <td> Bike Tour "Offenbach - Heusenstamm"//Höchster Schloßfest//Abenteuerpark, Offenbach</td></tr>
+<tr height="18"><td>So</td>   <td> 10</td>   <td> 10:00</td>   <td> Bike Tour "Offenbach - Heusenstamm"//HÃ¶chster SchloÃŸfest//Abenteuerpark, Offenbach</td></tr>
 <tr height="18"><td>Di</td>   <td> 12</td>   <td>  15:00</td>   <td> Kino Tag</td></tr>
 <tr height="18"><td>Mi</td>   <td> 13</td>   <td> 17:30</td>   <td> Expressionism Exhibition</td></tr>
 <tr height="18"><td>Do</td>   <td> 14</td>   <td>  20:00</td>   <td> Open Air Kurz Film Festival</td></tr>
@@ -2003,7 +2003,7 @@ function popitup(url) {
 <tr height="18"><td>Do</td>   <td> 21</td>   <td> 18:30</td>   <td> Jazz im Palmengarten</td></tr>
 <tr height="18"><td>Fr</td>   <td> 22</td>   <td> 15:00</td>   <td>  <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash/Badminton/Swimming</a> </td></tr>
 <tr height="18"><td>Sa</td>   <td> 23</td>   <td> 10:00</td>   <td> Trip to Heidelberg </td></tr>
-<tr height="18"><td>So</td>   <td> 24</td>   <td> 10:00</td>   <td> Trip to Rüdesheim and Assmannhausen</td></tr>
+<tr height="18"><td>So</td>   <td> 24</td>   <td> 10:00</td>   <td> Trip to RÃ¼desheim and Assmannhausen</td></tr>
 <tr height="18"><td>Do</td>   <td> 28</td>   <td>  20:00</td>   <td> Games Night</td></tr>
 <tr height="18"><td>Fr</td>   <td> 29</td>   <td>  </td>   <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash/Badminton/Swimming</a></td></tr>
 <tr height="18"><td>Sa</td>   <td> 30</td>   <td> 10:00</td>   <td> Trip to Mainz</td></tr>
@@ -2029,7 +2029,7 @@ function popitup(url) {
 <tr height="18"><td>Mi</td>   <td> 8  </td>   <td>15:00  </td>   <td>Expressionism Exhibition</td></tr>
 <tr height="18"><td>Do</td>   <td>   9  </td>   <td>19:00 </td>   <td>Lecture on Chinese Calligraphy</td></tr>
 <tr height="18"><td>Fr</td>   <td>   10 </td>   <td>19:45 </td>   <td>Dragonboat Training</td></tr>
-<tr height="18"><td>Sa</td>   <td>  11 </td>   <td>12:00 </td>   <td>Wäldchestag Festival Frankfurt City Forest</td></tr>
+<tr height="18"><td>Sa</td>   <td>  11 </td>   <td>12:00 </td>   <td>WÃ¤ldchestag Festival Frankfurt City Forest</td></tr>
 <tr height="18"><td>So</td>   <td> 12  </td>   <td>09:00 </td>   <td>Hiking</td></tr>
 <tr height="18"><td>So</td>   <td> 12  </td>   <td>18:00 </td>   <td>Rosen- und Lichterfest</td></tr>
 <tr height="18"><td>Do</td>   <td>  16  </td>   <td>14:00 </td>   <td>Guatemalan Lunch by Margarita</td></tr>
@@ -2063,15 +2063,15 @@ function popitup(url) {
 <tr height="18"><td>Sa</td>   <td> 7</td>   <td>  19:00 </td>   <td>        Nacht der Museen</td></tr>
 <tr height="18"><td>Fr </td>   <td>13</td>   <td>   15:00 </td>   <td>     <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash/Badminton/Swimming</a></td></tr>
 <tr height="18"><td>Sa</td>   <td> 14</td>   <td>  20:00 </td>   <td>      Eurovision Party</td></tr>
-<tr height="18"><td>So</td>   <td> 15</td>   <td>  10:00</td>   <td>     Biking Tour of the Frankfurt Grüngürtel</td></tr>
+<tr height="18"><td>So</td>   <td> 15</td>   <td>  10:00</td>   <td>     Biking Tour of the Frankfurt GrÃ¼ngÃ¼rtel</td></tr>
 <tr height="18"><td>Di</td>   <td> 17</td>   <td>  18:30 </td>   <td>    High Heels & High End - Mode, Shopping & Lifestyle in Frankfurt</td></tr>
-<tr height="18"><td>Mi</td>   <td> 18</td>   <td> 14:00  </td>   <td>   Farmers´ Market</td></tr>
+<tr height="18"><td>Mi</td>   <td> 18</td>   <td> 14:00  </td>   <td>   FarmersÂ´ Market</td></tr>
 <tr height="18"><td>Fr </td>   <td> 20</td>   <td>  15:00 </td>   <td>      <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash/Badminton/Swimming</a></td></tr>
 <tr height="18"><td>Sa</td>   <td> 21</td>   <td>  19:00 </td>   <td>        Russian Party</td></tr>
 <tr height="18"><td>So</td>   <td> 22</td>   <td> 18:00  </td>   <td>     English Theatre:  " The Dead Guy"</td></tr>
 <tr height="18"><td>Fr </td>   <td>27 </td>   <td> 15:00 </td>   <td>         <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash/Badminton/Swimming</a></td></tr>
 <tr height="18"><td>Sa </td>   <td>28</td>   <td>  11:00 </td>   <td>       Palmen Garten</td></tr>
-<tr height="18"><td>So </td>   <td>29 </td>   <td> 14:00  </td>   <td>       Let´s Go Boating</td></tr>
+<tr height="18"><td>So </td>   <td>29 </td>   <td> 14:00  </td>   <td>       LetÂ´s Go Boating</td></tr>
   </tbody>
 </table>
 <br>
@@ -2089,11 +2089,11 @@ function popitup(url) {
 <tr height="18"><td>Do</td> <td> 6</td>   <td> 19:30</td>  <td>Lesung, Die Verbrechen von FFM</td></tr>
 <tr height="18"><td>Fr</td>  <td> 7</td>   <td> 15:00</td>  <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Sa</td>  <td> 9</td>   <td>  9:30</td>  <td>Hiking Trip, 15km</td></tr>
-<tr height="18"><td>Di</td>  <td> 12</td>  <td> 18:00</td>  <td>Höchst Palace Tour</td></tr>
-<tr height="18"><td>Do</td> <td> 14</td>  <td> 15:00</td>  <td>Städel Museum</td></tr>
+<tr height="18"><td>Di</td>  <td> 12</td>  <td> 18:00</td>  <td>HÃ¶chst Palace Tour</td></tr>
+<tr height="18"><td>Do</td> <td> 14</td>  <td> 15:00</td>  <td>StÃ¤del Museum</td></tr>
 <tr height="18"><td>Fr</td>  <td> 15</td>  <td> 15:00</td>  <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
-<tr height="18"><td>Sa</td>  <td> 16</td>  <td> 10:00</td>  <td>Rüdesheim Trip</td></tr>
-<tr height="18"><td>So</td>  <td> 17</td>  <td> 11:00</td>  <td>Höchst Porcelain Museum</td></tr>
+<tr height="18"><td>Sa</td>  <td> 16</td>  <td> 10:00</td>  <td>RÃ¼desheim Trip</td></tr>
+<tr height="18"><td>So</td>  <td> 17</td>  <td> 11:00</td>  <td>HÃ¶chst Porcelain Museum</td></tr>
 <tr height="18"><td>Di</td>  <td> 19</td>  <td> 15:00</td>  <td>Kino Tag</td></tr>
 <tr height="18"><td>Do</td> <td> 21</td>  <td> 12:00</td>  <td><a href="http://www.a-viva.net/PDF/Paris_Apri 2011.pdf" target="_blank">Paris Trip</a></td></tr>
 <tr height="18"><td>Fr</td>  <td> 22</td>  <td>      </td>  <td><a href="http://www.a-viva.net/PDF/Paris_Apri 2011.pdf" target="_blank">Paris Trip</a></td></tr>
@@ -2108,7 +2108,7 @@ function popitup(url) {
 <br>
 <br>
 <br>
-<h3><b>März 2011
+<h3><b>MÃ¤rz 2011
 <br>
 </b></h3>
 <br>
@@ -2118,7 +2118,7 @@ function popitup(url) {
 
 <tr height="18"><td>Sa</td>  <td> 5</td>   <td> 11:00 </td>  <td>Mainz Carneval</td></tr>
 <tr height="18"><td>Mo</td>  <td> 7</td>   <td> 21:00 </td>  <td>Dinner after Crash Course</td></tr>
-<tr height="18"><td>Di</td>  <td> 8</td>   <td> 13:30 </td>  <td>Let´s Make Pancakes</td></tr>
+<tr height="18"><td>Di</td>  <td> 8</td>   <td> 13:30 </td>  <td>LetÂ´s Make Pancakes</td></tr>
 <tr height="18"><td>Mi</td>  <td> 9</td>   <td> 20:30 </td>  <td>Indian Dinner</td></tr>
 <tr height="18"><td>Fr</td>  <td> 11</td>  <td> 14:00 </td>  <td>Billiards</td></tr>
 <tr height="18"><td>Sa</td>  <td> 12</td>  <td> 11:00 </td>  <td>Marburg Day Trip</td></tr>
@@ -2127,7 +2127,7 @@ function popitup(url) {
 <tr height="18"><td>Mi</td>  <td> 16</td>  <td> 20:00 </td>  <td>Anne-Sophie Mutter Concert</td></tr>
 <tr height="18"><td>Do</td>  <td> 17</td>  <td> 17:00 </td>  <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Sa</td>  <td> 19</td>  <td> 19:00 </td>  <td>Fleamarket</td></tr>
-<tr height="18"><td>So</td>  <td> 20</td>  <td> 19:00 </td>  <td>Let´s Make Sushi</td></tr>
+<tr height="18"><td>So</td>  <td> 20</td>  <td> 19:00 </td>  <td>LetÂ´s Make Sushi</td></tr>
 <tr height="18"><td>Mi</td>  <td> 23</td>  <td> 20:00 </td>  <td>Dinner & Disco</td></tr>
 <tr height="18"><td>Fr</td>  <td> 25</td>  <td> 13:30 </td>  <td>Coffee at the Market</td></tr>
 <tr height="18"><td>So</td>  <td> 27</td>  <td> 11:00 </td>  <td>Bike Trip</td></tr>
@@ -2138,7 +2138,7 @@ function popitup(url) {
 <br>
 <br>
 <br>
-<h3><b>Februar 2011 - Für weitere Last-Minute Events bitte unsere Facebook Seite besuchen.
+<h3><b>Februar 2011 - FÃ¼r weitere Last-Minute Events bitte unsere Facebook Seite besuchen.
 <br>
 </b></h3>
 <br>
@@ -2146,17 +2146,17 @@ function popitup(url) {
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col
  width="450"> </colgroup> <tbody>
 
-<tr height="18"><td>Mi </td>  <td> 2</td>  <td> 20:00 </td>  <td>Chinese New Year´s Party</td></tr>
-<tr height="18"><td>Sa </td>  <td> 5</td>  <td> 20:00 </td>  <td>Soirée Française</td></tr>
+<tr height="18"><td>Mi </td>  <td> 2</td>  <td> 20:00 </td>  <td>Chinese New YearÂ´s Party</td></tr>
+<tr height="18"><td>Sa </td>  <td> 5</td>  <td> 20:00 </td>  <td>SoirÃ©e FranÃ§aise</td></tr>
 <tr height="18"><td>So </td>  <td> 6</td>  <td> 17:00 </td>  <td>Concert by Som Soave</td></tr>
 <tr height="18"><td>Di </td>  <td> 8</td>  <td> 15:00 </td>  <td>Kino Tag</td></tr>
-<tr height="18"><td>Do </td>  <td>10</td>  <td> 13:00 </td>  <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Do </td>  <td>10</td>  <td> 13:00 </td>  <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>So </td>  <td>13</td>  <td>  9:00 </td>  <td>Ski Trip Wasserkuppe</td></tr>
 <tr height="18"><td>Di </td>  <td>15</td>  <td> 20:30 </td>  <td>Korean Dinner</td></tr>
-<tr height="18"><td>Fr </td>  <td>18</td>  <td> 13:30 </td>  <td>Farmers´ Market</td></tr>
+<tr height="18"><td>Fr </td>  <td>18</td>  <td> 13:30 </td>  <td>FarmersÂ´ Market</td></tr>
 <tr height="18"><td>Sa </td>  <td>19</td>  <td> 12:00 </td>  <td>Flea Market</td></tr>
-<tr height="18"><td>So </td>  <td>20</td>  <td> 10:00 </td>  <td>Rüdesheim Day Trip</td></tr>
-<tr height="18"><td>Do </td>  <td>24</td>  <td> 13:00 </td>  <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>So </td>  <td>20</td>  <td> 10:00 </td>  <td>RÃ¼desheim Day Trip</td></tr>
+<tr height="18"><td>Do </td>  <td>24</td>  <td> 13:00 </td>  <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Sa </td>  <td>26</td>  <td> 12:00 </td>  <td>Museum Day</td></tr>
 <tr height="18"><td>So </td>  <td>27</td>  <td> 10:00 </td>  <td>Heidelberg Day Trip</td></tr>
   </tbody>
@@ -2174,9 +2174,9 @@ function popitup(url) {
 
 <tr height="18"><td>Di </td>  <td>11</td> <td>14:00 </td> <td>Walking Tour</td></tr>
 <tr height="18"><td>Do </td>  <td>13</td> <td>13:00 </td> <td>Brunch at Sushimoto</td></tr>
-<tr height="18"><td>Fr </td>  <td>14</td> <td>13:30 </td> <td>Let´s Make Pizza</td></tr>
+<tr height="18"><td>Fr </td>  <td>14</td> <td>13:30 </td> <td>LetÂ´s Make Pizza</td></tr>
 <tr height="18"><td>Di </td>  <td>18</td> <td>14:00 </td> <td>Kino Tag (Movie Day)</td></tr>
-<tr height="18"><td>Do </td>  <td>20</td> <td>13:30 </td> <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Do </td>  <td>20</td> <td>13:30 </td> <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Sa </td>  <td>22</td> <td>10:00 </td> <td>Day Trip to Marburg</td></tr>
 <tr height="18"><td>Di </td>  <td>25</td> <td>14:00 </td> <td>Bowling</td></tr>
 <tr height="18"><td>Fr </td>  <td>28</td> <td>20:00 </td> <td>Hungarian Dinner Party</td></tr>
@@ -2199,8 +2199,8 @@ function popitup(url) {
 <tr height="18"><td>Sa </td>  <td>4 </td> <td> 9:00</td> <td>Ausflug nach Strasbourg</td></tr>
 <tr height="18"><td>So </td>  <td>5 </td> <td>19:00</td> <td>Czech Dinner Party</td></tr>
 <tr height="18"><td>Sa </td>  <td>11</td> <td>19:30</td> <td>Concert Ludovico Einaudi</td></tr>
-<tr height="18"><td>So </td>  <td>12</td> <td>19:00</td> <td>Let´s Make Jiao Zi</td></tr>
-<tr height="18"><td>Mi </td>  <td>15</td> <td>13:00</td> <td>Let´s Bake Together</td></tr>
+<tr height="18"><td>So </td>  <td>12</td> <td>19:00</td> <td>LetÂ´s Make Jiao Zi</td></tr>
+<tr height="18"><td>Mi </td>  <td>15</td> <td>13:00</td> <td>LetÂ´s Bake Together</td></tr>
 <tr height="18"><td>Do</td>  <td>16</td> <td>19:00</td> <td>French Cooking</td></tr>
 <tr height="18"><td>Sa </td>  <td>18</td> <td>20:00</td> <td>Christmas Party / Karaoke Party</td></tr>
 <tr height="18"><td>So </td>  <td>19</td> <td>10:00</td> <td>Ski Trip</td></tr>
@@ -2221,16 +2221,16 @@ function popitup(url) {
 <tr height="18"><td>Di</td>  <td>2 </td> <td>20:00</td> <td>Jazz @ Rotlintcafe</td></tr>
 <tr height="18"><td>Fr</td>  <td>5 </td> <td>21:00</td> <td>Karaoke</td></tr>
 <tr height="18"><td>So</td>  <td>7 </td> <td>18:00</td> <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
-<tr height="18"><td>Mo</td>  <td>8 </td> <td>13:00</td> <td>Let´s Cook Pumpkin Soup</td></tr>
-<tr height="18"><td>Mi</td>  <td>10</td> <td>13:00</td> <td>Let´s Make Sushi</td></tr>
-<tr height="18"><td>Sa</td>  <td>13</td> <td>11:00</td> <td>Day Trip to Wasserschloß and Wertheim Outlet</td></tr>
+<tr height="18"><td>Mo</td>  <td>8 </td> <td>13:00</td> <td>LetÂ´s Cook Pumpkin Soup</td></tr>
+<tr height="18"><td>Mi</td>  <td>10</td> <td>13:00</td> <td>LetÂ´s Make Sushi</td></tr>
+<tr height="18"><td>Sa</td>  <td>13</td> <td>11:00</td> <td>Day Trip to WasserschloÃŸ and Wertheim Outlet</td></tr>
 <tr height="18"><td>Di</td>  <td>16</td> <td>13:00</td> <td>Brunch</td></tr>
 <tr height="18"><td>Sa</td>  <td>20</td> <td>12:00</td> <td>Fleamarket</td></tr>
 <tr height="18"><td>Di</td>  <td>23</td> <td>14:00</td> <td>Christmas Market</td></tr>
 <tr height="18"><td>Do</td>  <td>25</td> <td>12:00</td> <td>Dinner & Games</td></tr>
 <tr height="18"><td>Sa</td>  <td>27</td> <td>20:00</td> <td>Russian Party</td></tr>
 <tr height="18"><td>So</td>  <td>28</td> <td>18:00</td> <td>Dickens by Candlelight</td></tr>
-<tr height="18"><td>Mo</td>  <td>30</td> <td>13:00</td> <td>Michi´s Chocolate Shop</td></tr>
+<tr height="18"><td>Mo</td>  <td>30</td> <td>13:00</td> <td>MichiÂ´s Chocolate Shop</td></tr>
   </tbody>
 </table>
 <br>
@@ -2250,7 +2250,7 @@ function popitup(url) {
 <tr height="18"><td>Do</td>  <td>7 </td> <td>16:00</td> <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Sa </td>  <td>9 </td> <td>10:00</td> <td>Day Trip</td></tr>
 <tr height="18"><td>So </td>  <td>10</td> <td>12:00</td> <td>Frankfurt Book Fair</td></tr>
-<tr height="18"><td>Mo </td>  <td>11</td> <td>13:30</td> <td>Let´s Go For Brunch</td></tr>
+<tr height="18"><td>Mo </td>  <td>11</td> <td>13:30</td> <td>LetÂ´s Go For Brunch</td></tr>
 <tr height="18"><td>Do</td>  <td>14</td> <td>16:00</td> <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Do</td>  <td>14</td> <td>19:00</td> <td>Dinner & Karaoke</td></tr>
 <tr height="18"><td>Sa </td>  <td>16</td> <td>10:00</td> <td>Day Trip</td></tr>
@@ -2276,15 +2276,15 @@ function popitup(url) {
 
 <tr height="18"><td>Mi</td>  <td> 1</td> <td> 20:00</td> <td> Jazz im Rotlint Cafe</td></tr>
 <tr height="18"><td>Do</td>  <td> 2</td> <td> 17:00</td> <td> American Citizens Info Night</td></tr>
-<tr height="18"><td>Sa</td>  <td> 4</td> <td> 14:00</td> <td>  Rotlintstraßenfest</td></tr>
+<tr height="18"><td>Sa</td>  <td> 4</td> <td> 14:00</td> <td>  RotlintstraÃŸenfest</td></tr>
 <tr height="18"><td>Mo</td>  <td> 6</td> <td> 14:00</td> <td> Kino Tag</td></tr>
 <tr height="18"><td>Mi</td>  <td> 8</td> <td> 14:00</td> <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Mi</td>  <td> 8</td> <td> 21:00</td> <td> Home Made Indian Dinner by Imran</td></tr>
 <tr height="18"><td>Sa</td>  <td>11</td> <td> 19:00</td> <td> Spanish Party</td></tr>
-<tr height="18"><td>Mo</td>  <td> 13</td> <td> 13:00</td> <td> Let´s Make Sushi</td></tr>
+<tr height="18"><td>Mo</td>  <td> 13</td> <td> 13:00</td> <td> LetÂ´s Make Sushi</td></tr>
 <tr height="18"><td>Mi</td>  <td> 15</td> <td>  14:00</td> <td> Dippemess</td></tr>
 <tr height="18"><td>Do</td>  <td> 16</td> <td> 15:00</td> <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
-<tr height="18"><td>Sa</td>  <td> 18</td> <td> 19:00</td> <td>  Soirée Française</td></tr>
+<tr height="18"><td>Sa</td>  <td> 18</td> <td> 19:00</td> <td>  SoirÃ©e FranÃ§aise</td></tr>
 <tr height="18"><td>Mi</td>  <td> 22</td> <td> 20:00</td> <td> German Film Night</td></tr>
 <tr height="18"><td>Sa</td>  <td> 25</td> <td>    11:00</td> <td> Day Trip (Destination tba on Facebook)</td></tr>
 <tr height="18"><td>Sa</td>  <td> 25</td> <td> 12:00</td> <td>  Museum Day</td></tr>
@@ -2307,19 +2307,19 @@ function popitup(url) {
 <tr height="18"><td>Mo</td> <td> 2</td> <td>  19:00</td> <td>  Sushi class</td></tr>
 <tr height="18"><td>Di</td> <td> 3</td> <td>  19:00</td> <td>  Rotlint Jazz</td></tr>
 <tr height="18"><td>Do</td> <td>5</td> <td>  16.30</td> <td>  Cinema</td></tr>
-<tr height="18"><td>Sa</td> <td> 7</td> <td>  11:00</td> <td>  Rüdesheim Day Trip</td></tr>
+<tr height="18"><td>Sa</td> <td> 7</td> <td>  11:00</td> <td>  RÃ¼desheim Day Trip</td></tr>
 <tr height="18"><td>Mo</td> <td> 9</td> <td>  13:00</td> <td>  Brunch</td></tr>
-<tr height="18"><td>Di</td> <td> 10</td> <td> 18:00</td> <td>  Berry Blue Band - Günthersburgpark</td></tr>
+<tr height="18"><td>Di</td> <td> 10</td> <td> 18:00</td> <td>  Berry Blue Band - GÃ¼nthersburgpark</td></tr>
 <tr height="18"><td>Mi</td> <td> 11</td> <td>  20:00</td> <td>  BBQ</td></tr>
 <tr height="18"><td>Fr</td> <td> 13</td> <td>  20:00</td> <td>  Thai Cooking Class & Dinner</td></tr>
 <tr height="18"><td>Sa</td> <td> 14</td> <td>  08:00</td> <td>  Strasbourg Day Trip</td></tr>
 <tr height="18"><td>So</td> <td> 15</td> <td>  15:00</td> <td>  Bernemer Kerb</td></tr>
 <tr height="18"><td>Di</td> <td> 17</td> <td>  16.30</td> <td>  Cinema</td></tr>
-<tr height="18"><td>Mi</td> <td> 18</td> <td>  13.30</td> <td>  Königstein Day Trip</td></tr>
+<tr height="18"><td>Mi</td> <td> 18</td> <td>  13.30</td> <td>  KÃ¶nigstein Day Trip</td></tr>
 <tr height="18"><td>Fr</td> <td> 20</td> <td>  20:00</td> <td>  A-viva Concert</td></tr>
 <tr height="18"><td>Sa</td> <td> 21</td> <td>  11:00</td> <td>  Wiesbaden Day Trip</td></tr>
 <tr height="18"><td>So</td> <td> 22</td> <td>  19:00</td> <td>  Yamato Drum Show</td></tr>
-<tr height="18"><td>Mo</td> <td> 23</td> <td>  13:00</td> <td>  Let´s Cook Together</td></tr>
+<tr height="18"><td>Mo</td> <td> 23</td> <td>  13:00</td> <td>  LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Mi</td> <td> 25</td> <td>   13.30</td> <td>  Mainz Day Trip</td></tr>
 <tr height="18"><td>Fr</td> <td> 27</td> <td>  20:00</td> <td>  Museumsuferfest</td></tr>
 <tr height="18"><td>Sa</td> <td> 28</td> <td>  10:00</td> <td>  Museum day</td></tr>
@@ -2337,31 +2337,31 @@ function popitup(url) {
  width="450"> </colgroup> <tbody>
 
 <tr height="18"><td>Mo</td> <td>  5</td> <td> 15:00 </td> <td> City Tour</td></tr>
-<tr height="18"><td>Mo</td> <td>  5</td> <td> 17:00 </td> <td> Ausflug zum Höchster Schloss</td></tr>
+<tr height="18"><td>Mo</td> <td>  5</td> <td> 17:00 </td> <td> Ausflug zum HÃ¶chster Schloss</td></tr>
 <tr height="18"><td>Mi</td> <td>  7</td> <td>  19:00 </td> <td> Worldcup Viewing</td></tr>
 <tr height="18"><td>Do</td> <td>  8</td> <td> 13:00 </td> <td>  Lunch: Best Wurst in Town</td></tr>
 <tr height="18"><td>Do</td> <td>  8</td> <td> 14:30 </td> <td> Brettspiele Nachmittag</td></tr>
-<tr height="18"><td>Fr</td> <td>  9</td> <td>  15:00 </td> <td> Bergerstraßenfest</td></tr>
+<tr height="18"><td>Fr</td> <td>  9</td> <td>  15:00 </td> <td> BergerstraÃŸenfest</td></tr>
 <tr height="18"><td>Sa</td> <td>  10</td> <td> 20:00 </td> <td> <a href="http://www.a-viva.net/galeries/avivaconcert/index.htm" target="_blank">A-viva Concert/Karaoke/Party</a></td></tr>
 <tr height="18"><td>So</td> <td>  11</td> <td>  20:00 </td> <td>  Worldcup Viewing</td></tr>
 <tr height="18"><td>Di</td> <td>  13</td> <td> 20:00 </td> <td> Film Nacht</td></tr>
-<tr height="18"><td>Mi</td> <td>  14</td> <td> 14:00 </td> <td> Günthersburg Park Tour</td></tr>
+<tr height="18"><td>Mi</td> <td>  14</td> <td> 14:00 </td> <td> GÃ¼nthersburg Park Tour</td></tr>
 <tr height="18"><td>Do</td> <td>  15</td> <td> 20:00 </td> <td> Internationales Kurzfilm Festival</td></tr>
 <tr height="18"><td>Fr</td> <td>  16</td> <td> 14:30</td> <td> Visit of Science Museum</td></tr>
 <tr height="18"><td>Sa</td> <td>  17</td> <td> 10:00 </td> <td> Ausflug nach Marburg</td></tr>
-<tr height="18"><td>So</td> <td>  18</td> <td> 15:00 </td> <td> Let´s Go Boating</td></tr>
-<tr height="18"><td>Mo</td> <td>  19</td> <td> 20:00 </td> <td> Let´s Cook Together</td></tr>
+<tr height="18"><td>So</td> <td>  18</td> <td> 15:00 </td> <td> LetÂ´s Go Boating</td></tr>
+<tr height="18"><td>Mo</td> <td>  19</td> <td> 20:00 </td> <td> LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Di</td> <td>  20</td> <td> 14:00 </td> <td> Palmengarten</td></tr>
-<tr height="18"><td>Do</td> <td>  22</td> <td> 20:00 </td> <td> Let´s Cook Together</td></tr>
+<tr height="18"><td>Do</td> <td>  22</td> <td> 20:00 </td> <td> LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Fr</td> <td>  23</td> <td> 21:00 </td> <td>  Internationales Kurzfilm Festival</td></tr>
 <tr height="18"><td>Sa</td> <td>  24</td> <td> 10:00 </td> <td> Ausflug nach Heidelberg</td></tr>
 <tr height="18"><td>Mo</td> <td>  26</td> <td> 15:00 </td> <td> Brettspiele Nachmittag</td></tr>
-<tr height="18"><td>Mo</td> <td>  26</td> <td> 20:00 </td> <td> Let´s Cook Together</td></tr>
-<tr height="18"><td>Mi</td> <td>  28</td> <td> 18:00 </td> <td> Günthersburg Konzert</td></tr>
-<tr height="18"><td>Do</td> <td>  29</td> <td> 20:00 </td> <td> Let´s Cook Together</td></tr>
+<tr height="18"><td>Mo</td> <td>  26</td> <td> 20:00 </td> <td> LetÂ´s Cook Together</td></tr>
+<tr height="18"><td>Mi</td> <td>  28</td> <td> 18:00 </td> <td> GÃ¼nthersburg Konzert</td></tr>
+<tr height="18"><td>Do</td> <td>  29</td> <td> 20:00 </td> <td> LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Fr</td> <td>  30</td> <td> 20:00 </td> <td> Main Festival</td></tr>
 <tr height="18"><td>Sa</td> <td>  31</td> <td> 14:00 </td> <td> Museum Day</td></tr>
-<tr height="18"><td>Sa</td> <td>  31</td> <td> 19:00 </td> <td> Günthersburg Konzert</td></tr>
+<tr height="18"><td>Sa</td> <td>  31</td> <td> 19:00 </td> <td> GÃ¼nthersburg Konzert</td></tr>
   </tbody>
 </table>
 <br>
@@ -2379,18 +2379,18 @@ function popitup(url) {
 <tr height="18"><td>Mi</td> <td>   2</td> <td>   18:30</td> <td> Kostenlose Spanisch Probestunde</td></tr>
 <tr height="18"><td>Sa</td> <td>   5</td> <td>   8:00</td> <td>  <b>Ausflug nach Strasbourg</b></td></tr>
 <tr height="18"><td>Mi</td> <td>   9</td> <td>   19:00</td> <td> Kostenlose Italienisch Probestunde</td></tr>
-<tr height="18"><td>Do</td> <td>   10</td> <td>   13:00</td> <td> Let´s Cook Together</td></tr>
+<tr height="18"><td>Do</td> <td>   10</td> <td>   13:00</td> <td> LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Sa</td> <td>   12</td> <td>   21:00</td> <td> <b>Rosen-Lichterfest</b></td></tr>
-<tr height="18"><td>So</td> <td>   13</td> <td>   11:00</td> <td> Erdbeeren Pflücken</td></tr>
-<tr height="18"><td>Mo</td> <td>   14</td> <td>   13:00</td> <td> Let´s Bake Together</td></tr>
+<tr height="18"><td>So</td> <td>   13</td> <td>   11:00</td> <td> Erdbeeren PflÃ¼cken</td></tr>
+<tr height="18"><td>Mo</td> <td>   14</td> <td>   13:00</td> <td> LetÂ´s Bake Together</td></tr>
 <tr height="18"><td>Mi</td> <td>   16</td> <td>   13:00</td> <td> Brunch</td></tr>
 <tr height="18"><td>Sa</td> <td>   19</td> <td>   11:00</td> <td> <b>Ausflug nach Michelstadt</b></td></tr>
 <tr height="18"><td>Sa</td> <td>   19</td> <td>   20:00</td> <td> <a href="http://www.a-viva.net/galeries/avivaconcert/index.htm" target="_blank">A-viva Student Concert</a></td></tr>
-<tr height="18"><td>So</td> <td>   20</td> <td>   16:00</td> <td> Let´s Go Boating</td></tr>
+<tr height="18"><td>So</td> <td>   20</td> <td>   16:00</td> <td> LetÂ´s Go Boating</td></tr>
 <tr height="18"><td>Mi</td> <td>   23</td> <td>   13:00</td> <td> Lets Cook Together</td></tr>
 <tr height="18"><td>Sa</td> <td>   26</td> <td>   12:00</td> <td> <b>A-viva Celebrates The International Culture Festival</b></td></tr>
-<tr height="18"><td>So</td> <td>   27</td> <td>   11:00</td> <td> Erdbeeren Pflücken</td></tr>
-<tr height="18"><td>Mo</td> <td>   28</td> <td>   13:00</td> <td> Let´s Bake Together</td></tr>
+<tr height="18"><td>So</td> <td>   27</td> <td>   11:00</td> <td> Erdbeeren PflÃ¼cken</td></tr>
+<tr height="18"><td>Mo</td> <td>   28</td> <td>   13:00</td> <td> LetÂ´s Bake Together</td></tr>
   </tbody>
 </table>
 <br>
@@ -2406,11 +2406,11 @@ function popitup(url) {
 
 <tr height="18"><td>Sa</td> <td>   1</td> <td>   9:00</td> <td> <b>Kostenlose Deutsch Probestunde</b></td></tr>
 <tr height="18"><td>Sa</td> <td>   1</td> <td>   12:00</td> <td> Indian Food Festival - Charity Event</td></tr>
-<tr height="18"><td>So</td> <td>   2</td> <td>   16:00</td> <td> Let´s Go Boating!</td></tr>
+<tr height="18"><td>So</td> <td>   2</td> <td>   16:00</td> <td> LetÂ´s Go Boating!</td></tr>
 <tr height="18"><td>Di</td> <td>   4</td> <td>   20:00</td> <td> Jazz Next Door im Rotlint Cafe</td></tr>
 <tr height="18"><td>Mi</td> <td>   5</td> <td>   18:30</td> <td> Kostenlose Spanisch Probestunde</td></tr>
 <tr height="18"><td>Do</td> <td>   6</td> <td>   19:30</td> <td> Film Abend</td></tr>
-<tr height="18"><td>Sa</td> <td>   8</td> <td>   11:30</td> <td> <b>Fahrradtour nach Frankfurt-Höchst</b></td></tr>
+<tr height="18"><td>Sa</td> <td>   8</td> <td>   11:30</td> <td> <b>Fahrradtour nach Frankfurt-HÃ¶chst</b></td></tr>
 <tr height="18"><td>So</td> <td>   9</td> <td>   17:00</td> <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Mo</td> <td>   10</td> <td>   19:00</td> <td> Kostenlose Japanisch Probestunde</td></tr>
 <tr height="18"><td>Mi</td> <td>   12</td> <td>   19:00</td> <td> Dragon Boat Practice #1</td></tr>
@@ -2418,10 +2418,10 @@ function popitup(url) {
 <tr height="18"><td>Sa</td> <td>   15</td> <td>   9:00</td> <td> <b>Kostenlose Deutsch Probestunde</b></td></tr>
 <tr height="18"><td>So</td> <td>   16</td> <td>   16:00</td> <td> <b>Coffee and Conversation im Kempinski Falkenstein</b></td></tr>
 <tr height="18"><td>Mo</td> <td>   17</td> <td>   19:00</td> <td> Dragon Boat Practice #2</td></tr>
-<tr height="18"><td>Mi</td> <td>   19</td> <td>   19:00</td> <td> Ewa´s Cupcake Tasting</td></tr>
+<tr height="18"><td>Mi</td> <td>   19</td> <td>   19:00</td> <td> EwaÂ´s Cupcake Tasting</td></tr>
 <tr height="18"><td>Fr</td> <td>   21</td> <td>    19:00</td> <td> Dragon Boat Practice #3</td></tr>
-<tr height="18"><td>Sa</td> <td>   22</td> <td>   11:00</td> <td> <b>Ausflug nach Rüdesheim</b></td></tr>
-<tr height="18"><td>Sa</td> <td>   29</td> <td>   9:00</td> <td> <b>A-viva Competes in the Int´l Dragon Boat Festival!</b></td></tr>
+<tr height="18"><td>Sa</td> <td>   22</td> <td>   11:00</td> <td> <b>Ausflug nach RÃ¼desheim</b></td></tr>
+<tr height="18"><td>Sa</td> <td>   29</td> <td>   9:00</td> <td> <b>A-viva Competes in the IntÂ´l Dragon Boat Festival!</b></td></tr>
   </tbody>
 </table>
 <br>
@@ -2437,26 +2437,26 @@ function popitup(url) {
 
 <tr height="18"><td>So</td> <td> 4</td> <td> 18:00 </td> <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Di</td> <td>  6</td> <td>   20:00</td> <td> Jazz Next Door im Rotlint Cafe</td></tr>
-<tr height="18"><td>Fr</td> <td>  9</td> <td>    12:30</td> <td>  Let´s Cook Together</td></tr>
+<tr height="18"><td>Fr</td> <td>  9</td> <td>    12:30</td> <td>  LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Sa</td> <td>   10</td> <td>  10:00</td> <td> <b>Ausflug nach Marburg</b></td></tr>
 <tr height="18"><td>So</td> <td>  11</td> <td> 18:00</td> <td>  <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Di</td> <td>   13</td> <td> 20:00</td> <td> <b>Thai Abend</b></td></tr>
 <tr height="18"><td>Sa</td> <td>  17</td> <td>  20:00</td> <td> <b>A Taste of Vietnam</b></td></tr>
 <tr height="18"><td>Di</td> <td>   20</td> <td>   18:00</td> <td> Kostenlose Chinesisch Probestunde</td></tr>
-<tr height="18"><td>Mi</td> <td>     21</td> <td>   19:00</td> <td> Ewa´s Cupcake Tasting</td></tr>
+<tr height="18"><td>Mi</td> <td>     21</td> <td>   19:00</td> <td> EwaÂ´s Cupcake Tasting</td></tr>
 <tr height="18"><td>Do</td> <td>     22</td> <td>   19:00</td> <td> Museum Tour</td></tr>
 <tr height="18"><td>Fr</td> <td>  23</td> <td> 20:00</td> <td>  Film Abend</td></tr>
 <tr height="18"><td>Sa</td> <td>  24</td> <td> 10:00</td> <td> Ausflug nach Heidelberg</td></tr>
 <tr height="18"><td>Sa</td> <td>       24</td> <td>   20:00</td> <td> Nacht der Museen</td></tr>
 <tr height="18"><td>So</td> <td>  25</td> <td>  18:00</td> <td>  <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
-<tr height="18"><td>Do</td> <td>     29</td> <td>   18:30</td> <td> Kostenlose Deutsch Probestunde für Anfänger</td></tr>
-<tr height="18"><td>Fr</td> <td>  30</td> <td> 12:30</td> <td>  Let´s Cook Together</td></tr>
+<tr height="18"><td>Do</td> <td>     29</td> <td>   18:30</td> <td> Kostenlose Deutsch Probestunde fÃ¼r AnfÃ¤nger</td></tr>
+<tr height="18"><td>Fr</td> <td>  30</td> <td> 12:30</td> <td>  LetÂ´s Cook Together</td></tr>
   </tbody>
 </table>
 <br>
 <br>
 <br>
-<h3><b>März 2010
+<h3><b>MÃ¤rz 2010
 <br>
 </b></h3>
 <br>
@@ -2468,14 +2468,14 @@ function popitup(url) {
 <tr height="18"><td>Do</td> <td>  4</td> <td>  21:00</td> <td> Dinner at Mi Casa</td></tr>
 <tr height="18"><td>Sa</td> <td>  6</td> <td> 20:00</td> <td> A-viva Student Concert</td></tr>
 <tr height="18"><td>So</td> <td>  7</td> <td> 18:00</td> <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
-<tr height="18"><td>Fr</td> <td>  12</td> <td> 13:00</td> <td> Let´s Make Sushi Together</td></tr>
+<tr height="18"><td>Fr</td> <td>  12</td> <td> 13:00</td> <td> LetÂ´s Make Sushi Together</td></tr>
 <tr height="18"><td>Sa</td> <td>  13</td> <td> 20:00</td> <td> Bulgarische Party</td></tr>
 <tr height="18"><td>So</td> <td>  14</td> <td> 18:00</td> <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Do</td> <td> 18</td> <td> 20:00</td> <td> Jazz Next Door im Rotlint Cafe</td></tr>
 <tr height="18"><td>Fr</td> <td>  19</td> <td> 13:30</td> <td>  Brunch at Sushimoto</td></tr>
 <tr height="18"><td>So</td> <td>  21</td> <td> 18:00</td> <td>  <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
 <tr height="18"><td>Di</td> <td>  23</td> <td> 20:00</td> <td> Polnischer Abend</td></tr>
-<tr height="18"><td>Sa</td> <td>  27</td> <td> 20:00</td> <td> Soirée Française</td></tr>
+<tr height="18"><td>Sa</td> <td>  27</td> <td> 20:00</td> <td> SoirÃ©e FranÃ§aise</td></tr>
 <tr height="18"><td>So</td> <td>  28</td> <td> 18:00</td> <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
   </tbody>
 </table>
@@ -2491,18 +2491,18 @@ function popitup(url) {
  width="450"> </colgroup> <tbody>
 
 <tr height="18"><td>Di</td> <td>2</td> <td>20:00</td> <td> Jazz Next Door im Rotlint Cafe</td></tr>
-<tr height="18"><td>Mi</td> <td>3</td> <td>12:30</td> <td> Let´s Cook Together</td></tr>
+<tr height="18"><td>Mi</td> <td>3</td> <td>12:30</td> <td> LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Fr</td> <td>5</td> <td>20:00</td> <td> Poker Night</td></tr>
-<tr height="18"><td>Sa</td> <td>6</td> <td>8:00</td> <td> <b>Tagesausflug nach Straßburg</b></td></tr>
+<tr height="18"><td>Sa</td> <td>6</td> <td>8:00</td> <td> <b>Tagesausflug nach StraÃŸburg</b></td></tr>
 <tr height="18"><td>So</td> <td>7</td> <td>18:00</td> <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
-<tr height="18"><td>Mi</td> <td>10</td> <td>12:30</td> <td> Let´s Bake Together</td></tr>
-<tr height="18"><td>Sa</td> <td>13</td> <td>20:00</td> <td> <b>Chinese New Year´s Celebration</b></td></tr>
+<tr height="18"><td>Mi</td> <td>10</td> <td>12:30</td> <td> LetÂ´s Bake Together</td></tr>
+<tr height="18"><td>Sa</td> <td>13</td> <td>20:00</td> <td> <b>Chinese New YearÂ´s Celebration</b></td></tr>
 <tr height="18"><td>So</td> <td>14</td> <td>18:00</td> <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
-<tr height="18"><td>Mi</td> <td>17</td> <td>12:30</td> <td> Let´s Cook Together</td></tr>
+<tr height="18"><td>Mi</td> <td>17</td> <td>12:30</td> <td> LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Fr</td> <td>19</td> <td>20:00</td> <td> Games Night</td></tr>
 <tr height="18"><td>Sa</td> <td>20</td> <td>12:00</td> <td> <b>Japanese Brunch</b></td></tr>
 <tr height="18"><td>So</td> <td>21</td> <td>9:00</td> <td> A-viva Ski Trip</td></tr>
-<tr height="18"><td>Mi</td> <td>23</td> <td>12:30</td> <td> Let´s Cook Together</td></tr>
+<tr height="18"><td>Mi</td> <td>23</td> <td>12:30</td> <td> LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Sa</td> <td>27</td> <td>9:00</td> <td> <b>Tagesausflug nach Koblenz</b></td></tr>
 <tr height="18"><td>So</td> <td>28</td> <td>18:00</td> <td> <a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash & Badminton</a></td></tr>
   </tbody>
@@ -2523,14 +2523,14 @@ function popitup(url) {
 <tr height="18"><td>Mi</td> <td>6</td> <td>12:30</td> <td>  Teeprobe im Phoenix Tea House</td></tr>
 <tr height="18"><td>Sa</td> <td>9</td> <td>20:00</td> <td> Spanish Karaoke & Party</td></tr>
 <tr height="18"><td>So</td> <td>10</td> <td>17:00</td>  <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
-<tr height="18"><td>Mi</td> <td>13</td> <td>12:30</td> <td> Let´s Cook Together</td></tr>
+<tr height="18"><td>Mi</td> <td>13</td> <td>12:30</td> <td> LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Sa</td> <td>16</td> <td>20:00</td> <td> Polnische Party!</td></tr>
 <tr height="18"><td>So</td> <td>17</td> <td>9:00</td> <td> A-viva Ski Trip</td></tr>
-<tr height="18"><td>Mi</td> <td>20</td> <td>12:30</td> <td> Let´s Cook Together</td></tr>
+<tr height="18"><td>Mi</td> <td>20</td> <td>12:30</td> <td> LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Fr</td> <td>22</td> <td>20:00</td> <td> Thai Evening</td></tr>
 <tr height="18"><td>Sa</td> <td>23</td> <td>12:00</td> <td> Japanese Brunch</td></tr>
 <tr height="18"><td>So</td> <td>24</td> <td>17:00</td>  <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
-<tr height="18"><td>Mi</td> <td>27</td> <td>12:30</td> <td> Let´s Cook Together</td></tr>
+<tr height="18"><td>Mi</td> <td>27</td> <td>12:30</td> <td> LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Fr</td> <td>29</td> <td>20:00</td> <td> Game Night</td></tr>
 <tr height="18"><td>Sa</td> <td>30</td> <td>12:00</td> <td> Museum Day</td></tr>
 <tr height="18"><td>Sa</td> <td>30</td> <td>12:00</td> <td> <a href="http://www.a-viva.net/PDF/haitiwebde.pdf" target="_blank">Help Haiti Fund Raising Brunch & Flea Market</a></td></tr>
@@ -2558,7 +2558,7 @@ function popitup(url) {
 <tr height="18"><td>Sa</td> <td>12</td>  <td>20:00</td> <td>A-viva Christmas Party & Concert</td></tr>
 <tr height="18"><td>So</td> <td>13</td> <td>18:00</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
 <tr height="18"><td>Mi</td> <td>16</td> <td></td> <td>Christmas Baking</td></tr>
-<tr height="18"><td>Sa</td> <td>19</td> <td>10:00</td> <td>Tagesausflug nach Nürnberg</td></tr>
+<tr height="18"><td>Sa</td> <td>19</td> <td>10:00</td> <td>Tagesausflug nach NÃ¼rnberg</td></tr>
 <tr height="18"><td>So</td> <td>20</td> <td>18:00</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
 <tr height="18"><td>So</td> <td>27</td>  <td>18:00</td><td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
 <tr height="18"><td>Mi</td> <td>30</td> <td>10:00</td> <td>Ski Trip</td></tr>
@@ -2583,12 +2583,12 @@ function popitup(url) {
 <tr height="18"><td>Di</td> <td>3</td> <td>20:00</td> <td>Jazz @ Rotlintcafe</td></tr>
 <tr height="18"><td>Fr</td> <td>6</td> <td>20:00</td> <td>Polish Ukranian Revolution Party </td></tr>
 <tr height="18"><td>So</td> <td>8</td> <td>18:00</td> <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
-<tr height="18"><td>Di</td> <td>10</td> <td>12:00</td> <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Di</td> <td>10</td> <td>12:00</td> <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Fr</td> <td>13</td> <td>21:00</td> <td>Film Night</td></tr>
 <tr height="18"><td>Sa</td> <td>14</td> <td>12:00</td> <td>Indian Brunch</td></tr>
 <tr height="18"><td>So</td> <td>15</td> <td>18:00</td> <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
-<tr height="18"><td>Di</td> <td>17</td> <td>12:00</td> <td>Let´s Cook Together</td></tr>
-<tr height="18"><td>Fr</td> <td>20</td> <td>18:00</td> <td>Let´s Go Bowling</td></tr>
+<tr height="18"><td>Di</td> <td>17</td> <td>12:00</td> <td>LetÂ´s Cook Together</td></tr>
+<tr height="18"><td>Fr</td> <td>20</td> <td>18:00</td> <td>LetÂ´s Go Bowling</td></tr>
 <tr height="18"><td>Sa</td> <td>21</td> <td>8:00</td> <td>Ausflug nach Marburg</td></tr>
 <tr height="18"><td>So</td> <td>22</td> <td>18:00</td> <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
 <tr height="18"><td>Di</td> <td>24</td> <td>12:00</td> <td>Let's Cook Together</td></tr>
@@ -2613,18 +2613,18 @@ function popitup(url) {
 
 <tr height="18"><td>Fr</td> <td>2</td> <td>13:00</td> <td><a href=http://www.frankfurt.de/sixcms/detail.php?id=2855&_ffmpar[_id_inhalt]=6134825 target="_blank">Jazz am Zweiten</a></td></tr>
 <tr height="18"><td>Fr</td> <td>2</td> <td>19:00</td> <td>Concert 4 Raii im Club Voltaire</td></tr>
-<tr height="18"><td>Sa</td> <td>3</td> <td>19:30</td> <td>Soirée Française Reservierung notwendig</td></tr>
+<tr height="18"><td>Sa</td> <td>3</td> <td>19:30</td> <td>SoirÃ©e FranÃ§aise Reservierung notwendig</td></tr>
 <tr height="18"><td>So</td> <td>4</td> <td>13:00</td> <td><a href=http://www.frankfurt.de/sixcms/detail.php?id=2855&_ffmpar[_id_inhalt]=6138785 target="_blank">Newcomers Festival</a></td></tr>
 <tr height="18"><td>So</td> <td>4</td> <td>18:00</td> <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
-<tr height="18"><td>Mi</td> <td>7</td> <td>12:30</td> <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Mi</td> <td>7</td> <td>12:30</td> <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Mi</td> <td>7</td> <td>20:00</td> <td>Jazz im Rotlintcafe</td></tr>
 <tr height="18"><td>Sa</td> <td>10</td> <td>12:00</td> <td>BBQ</td></tr>
 <tr height="18"><td>So</td> <td>11</td> <td>18:00</td> <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
-<tr height="18"><td>Mi</td> <td>14</td> <td>12:30</td> <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Mi</td> <td>14</td> <td>12:30</td> <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Fr</td> <td>16</td> <td>19:00</td> <td>Dinner & Game</td></tr>
 <tr height="18"><td>Sa</td> <td>17</td> <td>16:00</td> <td>Spanische Fiesta Reservierung notwendig</td></tr>
 <tr height="18"><td>Sa</td> <td>18</td>  <td></td> <td><a href=http://www.buchmesse.de/en/fbf/index.html target="_blank">Frankfurt Book Fair</a></td></tr>
-<tr height="18"><td>Mi</td> <td>21</td> <td>12:30</td> <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Mi</td> <td>21</td> <td>12:30</td> <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Sa</td> <td>24</td> <td>7:00</td> <td>Ausflug nach Trier & Koblenz</td></tr>
 <tr height="18"><td>So</td> <td>25</td> <td>18:00</td> <td><a href="http://www.a-viva.net/galeries/squash/index.htm" target="_blank">Squash &amp; Badminton</a></td></tr>
 <tr height="18"><td>Mi</td> <td>28</td> <td>12:30</td> <td>Let's Cook Together</td></tr>
@@ -2645,14 +2645,14 @@ function popitup(url) {
   <colgroup> <col width="30"> <col width="30"> <col width="50"> <col
  width="450"> </colgroup> <tbody>
 
-<tr height="18"><td>Mi</td> <td>2</td> <td>20:00</td> <td>Jazz im Rotlintcafé</td></tr>
+<tr height="18"><td>Mi</td> <td>2</td> <td>20:00</td> <td>Jazz im RotlintcafÃ©</td></tr>
 <tr height="18"><td>Do</td> <td>3</td> <td>17:00</td> <td>Theater Festival</td></tr>
-<tr height="18"><td>Fr</td> <td>4</td> <td>15:00</td> <td>Stöffchefest</td></tr>
-<tr height="18"><td>Sa</td> <td>5</td> <td>14:00</td> <td>Rotlintstraßenfest</td></tr>
+<tr height="18"><td>Fr</td> <td>4</td> <td>15:00</td> <td>StÃ¶ffchefest</td></tr>
+<tr height="18"><td>Sa</td> <td>5</td> <td>14:00</td> <td>RotlintstraÃŸenfest</td></tr>
 <tr height="18"><td>Mo</td> <td>7</td> <td>18:00</td> <td>Kostenlose Spanisch Probestunde</td></tr>
-<tr height="18"><td>Di</td> <td>8</td> <td>12:30</td> <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Di</td> <td>8</td> <td>12:30</td> <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Mi</td> <td>9</td> <td>13:00</td> <td>Frankfurt City Tour</td></tr>
-<tr height="18"><td>Do</td> <td>10</td> <td>20:00</td> <td>Konzert im Café Kant</td></tr>
+<tr height="18"><td>Do</td> <td>10</td> <td>20:00</td> <td>Konzert im CafÃ© Kant</td></tr>
 <tr height="18"><td>Fr</td> <td>11</td> <td>19:00</td> <td>Reingauer Weinmarkt</td></tr>
 <tr height="18"><td>Sa</td> <td>12</td>  <td>14:00</td> <td>Ausflug nach Marburg</td></tr>
 <tr height="18"><td>So</td> <td>13</td> <td>17:00</td> <td>Dippemess</td></tr>
@@ -2664,7 +2664,7 @@ function popitup(url) {
 <tr height="18"><td>Fr</td> <td>25</td> <td>18:00</td> <td>Billiard Night *</td></tr>
 <tr height="18"><td>Sa</td> <td>26</td>  <td>7:00</td> <td>Ausflug nach Strasbourg</td></tr>
 <tr height="18"><td>Sa</td> <td>26</td>  <td>12:00</td> <td>Museum Day</td></tr>
-<tr height="18"><td>Mi</td> <td>30</td>  <td>12:30</td> <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Mi</td> <td>30</td>  <td>12:30</td> <td>LetÂ´s Cook Together</td></tr>
 
   </tbody>
 </table>
@@ -2682,20 +2682,20 @@ function popitup(url) {
 <tr height="18"><td>Sa</td> <td>1</td> <td>16:00</td> <td>BBQ in Ostpark</td></tr>
 <tr height="18"><td>So</td> <td>2</td> <td>11:00</td> <td>Ausflug nach Heidelberg</td></tr>
 <tr height="18"><td>Mo</td> <td>3</td> <td>12:00</td> <td>Mainfest</td></tr>
-<tr height="18"><td>Di</td> <td>4</td> <td>12:30</td> <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Di</td> <td>4</td> <td>12:30</td> <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Mi</td> <td>5</td> <td>20:00</td> <td>Jazz im Rotlintcafe</td></tr>
-<tr height="18"><td>Do</td> <td>6</td><td>20:00</td> <td>Magnus´ Farewell Party</td></tr>
+<tr height="18"><td>Do</td> <td>6</td><td>20:00</td> <td>MagnusÂ´ Farewell Party</td></tr>
 <tr height="18"><td>Sa</td> <td>8</td> <td>     </td><td><a href="http://www.bernemer-kerb.de" target="_blank">Bernermer Kerb </a></td></tr>
 <tr height="18"><td>So</td> <td>9</td> <td>11:00</td> <td>Ausflug Speyer</td></tr>
-<tr height="18"><td>Mi</td> <td>12</td> <td>12:30</td> <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>Mi</td> <td>12</td> <td>12:30</td> <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Sa</td> <td>15</td> <td>12:00</td> <td>Brunch</td></tr>
 <tr height="18"><td>So</td> <td>16</td>  <td>11:00</td> <td>Ausflug nach Marburg</td></tr>
 <tr height="18"><td>Mo</td> <td>17</td> <td>12:30</td> <td>Frankfurt City Tour</td></tr>
-<tr height="18"><td>Mi</td> <td>19</td> <td>12:30</td> <td>Let´s Make Sushi</td></tr>
+<tr height="18"><td>Mi</td> <td>19</td> <td>12:30</td> <td>LetÂ´s Make Sushi</td></tr>
 <tr height="18"><td>Fr</td> <td>21</td> <td>18:00</td> <td>Billiard Night</td></tr>
 <tr height="18"><td>Sa</td> <td>22</td> <td>10:00</td> <td>Wandern im Taunus</td></tr>
-<tr height="18"><td>So</td> <td>23</td> <td>11:00</td> <td>Ausflug nach Rüdesheim</td></tr>
-<tr height="18"><td>Mo</td> <td>24</td> <td>12:30</td> <td>Let´s Cook Together</td></tr>
+<tr height="18"><td>So</td> <td>23</td> <td>11:00</td> <td>Ausflug nach RÃ¼desheim</td></tr>
+<tr height="18"><td>Mo</td> <td>24</td> <td>12:30</td> <td>LetÂ´s Cook Together</td></tr>
 <tr height="18"><td>Mi</td> <td>26</td> <td>19:00</td> <td>Dinner & Dance at Living</td></tr>
 <tr height="18"><td>Fr</td> <td>28</td> <td>18:00</td> <td>Bowling Night</td></tr>
 <tr height="18"><td>Sa</td> <td>29</td> <td>18:00</td> <td><a href=http://www.museumsuferfest-frankfurt.de/target="_blank">Museumsuferfest</a></td></tr>
@@ -2707,7 +2707,7 @@ function popitup(url) {
 <br>
 <br>
 <p></p>
-<h3><b>Juli 2009 - Für weitere Last-Minute Events bitte unsere Facebook Seite besuchen<br>
+<h3><b>Juli 2009 - FÃ¼r weitere Last-Minute Events bitte unsere Facebook Seite besuchen<br>
 </b></h3>
 <br>
 <table class="aktivtable" border="1">
@@ -2717,7 +2717,7 @@ function popitup(url) {
       <td>Mi</td>
       <td>1</td>
       <td>13:00</td>
-      <td>Let´s Bake Strawberry Cakes</td>
+      <td>LetÂ´s Bake Strawberry Cakes</td>
     </tr>
     <tr height="18">
       <td>Mi</td>
@@ -2741,7 +2741,7 @@ function popitup(url) {
       <td>Mi</td>
       <td>8</td>
       <td>11:30</td>
-      <td>Let´s Go for Sushi</td>
+      <td>LetÂ´s Go for Sushi</td>
     </tr>
     <tr height="18">
       <td>Do</td>
@@ -2759,7 +2759,7 @@ function popitup(url) {
       <td>Sa</td>
       <td>11</td>
       <td>11:00</td>
-      <td><a href="http://www.frankfurt.de/sixcms/detail.php?id=3940&_ffmpar[_id_inhalt]=2068746" target="_blank">Höchster Schloßfest </a></td>
+      <td><a href="http://www.frankfurt.de/sixcms/detail.php?id=3940&_ffmpar[_id_inhalt]=2068746" target="_blank">HÃ¶chster SchloÃŸfest </a></td>
     </tr>
     <tr height="18">
       <td>So</td>
@@ -2822,7 +2822,7 @@ function popitup(url) {
 <br>
 <br>
 <p></p>
-<h3><b>Juni 2009 - Für weitere Last-Minute Events bitte unsere Facebook Seite besuchen<br>
+<h3><b>Juni 2009 - FÃ¼r weitere Last-Minute Events bitte unsere Facebook Seite besuchen<br>
 </b></h3>
 <br>1
 <table class="aktivtable" border="1">
@@ -2844,7 +2844,7 @@ function popitup(url) {
       <td>So</td>
       <td>7</td>
       <td>10:00</td>
-      <td>Erdbeeren Pflücken</td>
+      <td>Erdbeeren PflÃ¼cken</td>
     </tr>
     <tr height="18">
       <td>So</td>
@@ -2880,13 +2880,13 @@ function popitup(url) {
       <td>Fr</td>
       <td>19</td>
       <td>20:00</td>
-      <td><b>Soirée Française</b></td>
+      <td><b>SoirÃ©e FranÃ§aise</b></td>
     </tr>
     <tr height="18">
       <td>So</td>
       <td>21</td>
       <td>10:00</td>
-      <td>Erdbeeren Pflücken</td>
+      <td>Erdbeeren PflÃ¼cken</td>
     </tr>
     <tr height="18">
       <td>Sa</td>
@@ -2940,7 +2940,7 @@ function popitup(url) {
       <td>Fr</td>
       <td>8</td>
       <td>12:30</td>
-      <td>Let´s Cook Together</td>
+      <td>LetÂ´s Cook Together</td>
     </tr>
     <tr height="18">
       <td>Sa</td>
@@ -3048,7 +3048,7 @@ function popitup(url) {
       <td>Sa</td>
       <td>11</td>
       <td>10:00</td>
-      <td>Ausflug nach Nürnberg und Outlet Shopping</td>
+      <td>Ausflug nach NÃ¼rnberg und Outlet Shopping</td>
     </tr>
     <tr height="18">
       <td>Sa</td>
@@ -3111,7 +3111,7 @@ function popitup(url) {
 <br>
 <br>
 <p></p>
-<h3><b>März 2009<br>
+<h3><b>MÃ¤rz 2009<br>
 </b></h3>
 <br>
 <table class="aktivtable" border="1">
@@ -3163,7 +3163,7 @@ function popitup(url) {
       <td>Fr</td>
       <td>20</td>
       <td>20:00</td>
-      <td>1920´s Party</td>
+      <td>1920Â´s Party</td>
     </tr>
     <tr height="18">
       <td>Sa</td>
@@ -3193,7 +3193,7 @@ function popitup(url) {
       <td>Sa</td>
       <td>28</td>
       <td>20:00</td>
-      <td>Hausgemachtes Ägyptisches Essen</td>
+      <td>Hausgemachtes Ã„gyptisches Essen</td>
     </tr>
     <tr height="18">
       <td>So</td>
@@ -3241,7 +3241,7 @@ function popitup(url) {
       <td>Sa</td>
       <td>7</td>
       <td>10:00</td>
-      <td>Nürnberg Tour & Outlet Shopping</td>
+      <td>NÃ¼rnberg Tour & Outlet Shopping</td>
     </tr>    <tr height="18">
       <td>So</td>
       <td>8</td>
@@ -3276,7 +3276,7 @@ function popitup(url) {
       <td>Sa</td>
       <td>14</td>
       <td>19:00</td>
-      <td>Valentine´s Dinner Concert at Cafe Imori</td>
+      <td>ValentineÂ´s Dinner Concert at Cafe Imori</td>
     </tr>
     <tr height="18">
       <td>So</td>
@@ -3288,7 +3288,7 @@ function popitup(url) {
       <td>Di</td>
       <td>17</td>
       <td>12:00</td>
-      <td>Let´s Cook Together</td>
+      <td>LetÂ´s Cook Together</td>
     </tr>
     <tr height="18">
       <td>Sa</td>
@@ -3354,7 +3354,7 @@ function popitup(url) {
       <td>Sa</td>
       <td>10</td>
       <td>14:00</td>
-      <td>Tagesausflug nach Büdingen</td>
+      <td>Tagesausflug nach BÃ¼dingen</td>
     </tr>
     <tr height="18">
       <td>Sa</td>
@@ -3581,7 +3581,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Mi</td>
     <td>5</td>
     <td>12:30</td>
-    <td>Let´s Cook Together</td>
+    <td>LetÂ´s Cook Together</td>
   </tr>
         <tr height="18px">
     <td>Do</td>
@@ -3605,7 +3605,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Di</td>
     <td>11</td>
     <td>12:30</td>
- <td>Let´s Bake Together</td>
+ <td>LetÂ´s Bake Together</td>
   </tr>
         <tr height="18px">
     <td>Fr</td>
@@ -3617,7 +3617,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Fr</td>
     <td>14</td>
     <td>20:30</td>
-    <td>Hausgemachtes Thailändisches Essen</td>
+    <td>Hausgemachtes ThailÃ¤ndisches Essen</td>
   </tr>
         <tr height="18px">
     <td>So</td>
@@ -3629,7 +3629,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Di</td>
     <td>18</td>
     <td>12:30</td>
-    <td>Let´s Cook Together</td>
+    <td>LetÂ´s Cook Together</td>
   </tr>
         <tr height="18px">
     <td>Fr</td>
@@ -3647,7 +3647,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Di</td>
     <td>25</td>
     <td>12:30</td>
-    <td>Let´s Bake Together</td>
+    <td>LetÂ´s Bake Together</td>
   </tr>
         <tr height="18px">
     <td>Fr</td>
@@ -3698,7 +3698,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Sa</td>
     <td>4</td>
     <td>08:00</td>
-    <td>Tagesausflug nach Würzburg & Wertheim Outlet Shopping</td>
+    <td>Tagesausflug nach WÃ¼rzburg & Wertheim Outlet Shopping</td>
   </tr>
         <tr height="18px">
     <td>Di</td>
@@ -3722,7 +3722,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Sa</td>
     <td>11</td>
     <td>18:00</td>
- <td><a href="http://www.a-viva.net/galeries/sushi/index.htm" target="_blank">Sushi Kochkurs & 5 Gänge-Menü</a></td>
+ <td><a href="http://www.a-viva.net/galeries/sushi/index.htm" target="_blank">Sushi Kochkurs & 5 GÃ¤nge-MenÃ¼</a></td>
   </tr>
         <tr height="18px">
     <td>Mi</td>
@@ -3839,7 +3839,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Sa</td>
     <td>6</td>
     <td>8:00</td>
-    <td>Frankfurt - Prag 25€</td>
+    <td>Frankfurt - Prag 25â‚¬</td>
   </tr>
         <tr height="18px">
     <td>So</td>
@@ -3857,7 +3857,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Mo</td>
     <td>8</td>
     <td>12:30</td>
-    <td>Let´s Make Pizza</td>
+    <td>LetÂ´s Make Pizza</td>
   </tr>
         <tr height="18px">
     <td>Di</td>
@@ -3881,7 +3881,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Mo</td>
     <td>15</td>
     <td>12:30</td>
-    <td>Let´s Make Dumplings</td>
+    <td>LetÂ´s Make Dumplings</td>
   </tr>
         <tr height="18px">
     <td>Mo</td>
@@ -3969,7 +3969,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Sa</td>
     <td>2</td>
     <td>12:00</td>
-    <td>Bergerstraßenfest</td>
+    <td>BergerstraÃŸenfest</td>
   </tr>
         <tr height="18px">
     <td>Mo</td>
@@ -3987,7 +3987,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Do</td>
     <td>7</td>
     <td>12:00</td>
-    <td>Let´s Bake Together</td>
+    <td>LetÂ´s Bake Together</td>
   </tr>
         <tr height="18px">
     <td>Fr</td>
@@ -4005,7 +4005,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>So</td>
     <td>10</td>
     <td>10:00</td>
-    <td>Fahrradtour & Brombeeren pflücken</td>
+    <td>Fahrradtour & Brombeeren pflÃ¼cken</td>
   </tr>
         <tr height="18px">
     <td>Mo</td>
@@ -4023,13 +4023,13 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Sa</td>
     <td>16</td>
     <td>14:00</td>
-    <td><a href="http://www.gruene-nordend.de/cms/content.php?article.103" target="_blank">Rotlintstraßenfest</a></td>
+    <td><a href="http://www.gruene-nordend.de/cms/content.php?article.103" target="_blank">RotlintstraÃŸenfest</a></td>
   </tr>
         <tr height="18px">
     <td>Di</td>
     <td>19</td>
     <td>12:00</td>
-    <td>Let´s Cook Together</td>
+    <td>LetÂ´s Cook Together</td>
   </tr>
         <tr height="18px">
     <td>Do</td>
@@ -4053,7 +4053,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Mo</td>
     <td>25</td>
     <td>12:00</td>
-    <td>Let´s Cook Together</td>
+    <td>LetÂ´s Cook Together</td>
   </tr>
         <tr height="18px">
     <td>Fr</td>
@@ -4106,7 +4106,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Sa</td>
     <td>5</td>
     <td>14:00</td>
-    <td>Fahrradtour zum Höchster Schlossfest</td>
+    <td>Fahrradtour zum HÃ¶chster Schlossfest</td>
   </tr>
         <tr height="18px">
     <td>So</td>
@@ -4124,13 +4124,13 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Di</td>
     <td>8</td>
     <td>18:00</td>
-    <td>Sommerfest im Günthersburgpark</td>
+    <td>Sommerfest im GÃ¼nthersburgpark</td>
   </tr>
         <tr height="18px">
     <td>Mi</td>
     <td>9</td>
     <td>12:30</td>
-    <td>Let´s Cook Together</td>
+    <td>LetÂ´s Cook Together</td>
   </tr>
         <tr height="18px">
     <td>Fr</td>
@@ -4160,19 +4160,19 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Mi</td>
     <td>16</td>
     <td>12:30</td>
-    <td>Let´s Cook Together</td>
+    <td>LetÂ´s Cook Together</td>
   </tr>
         <tr height="18px">
     <td>Do</td>
     <td>17</td>
     <td>12:00</td>
-    <td>Let´s Make Sushi</td>
+    <td>LetÂ´s Make Sushi</td>
   </tr>
         <tr height="18px">
     <td>Fr</td>
     <td>18</td>
     <td>13:00</td>
-    <td>Let´s Bake Strawberry Cakes</td>
+    <td>LetÂ´s Bake Strawberry Cakes</td>
   </tr>
         <tr height="18px">
     <td>Fr</td>
@@ -4190,7 +4190,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Mo</td>
     <td>21</td>
     <td>12:00</td>
-    <td>Let´s Make Spanish Tortillas & Crema Catalana</td>
+    <td>LetÂ´s Make Spanish Tortillas & Crema Catalana</td>
   </tr>
         <tr height="18px">
     <td>Do</td>
@@ -4285,7 +4285,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>So</td>
     <td>15</td>
     <td>9:00</td>
-    <td>Fahrradtour & Erdbeeren Pflücken</td>
+    <td>Fahrradtour & Erdbeeren PflÃ¼cken</td>
   </tr>
         <tr height="18px">
     <td>Fr</td>
@@ -4321,7 +4321,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>So</td>
     <td>29</td>
     <td>8:15</td>
-    <td><a href="http://www.barfusspark.info/parks/sobernheim.htm" target="_blank">Barfuß Abenteuer Park + Besuch eines Historischen Klosters</a></td>
+    <td><a href="http://www.barfusspark.info/parks/sobernheim.htm" target="_blank">BarfuÃŸ Abenteuer Park + Besuch eines Historischen Klosters</a></td>
   </tr>
 
 </table>
@@ -4490,7 +4490,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Sa</td>
     <td>19</td>
     <td>15:00</td>
-    <td>Workshop für Lehrer</td>
+    <td>Workshop fÃ¼r Lehrer</td>
   </tr>
         <tr height="18px">
     <td>Fr</td>
@@ -4544,7 +4544,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
 <br />
 <br />
 <br />
-<p><h3><b>März 2008</b></h3></p>
+<p><h3><b>MÃ¤rz 2008</b></h3></p>
         <br />
         <table class="aktivtable" border="1">
     <colgroup>
@@ -4582,7 +4582,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Fr</td>
     <td>7</td>
     <td>20:00</td>
-    <td>Workshop für Lehrer</td>
+    <td>Workshop fÃ¼r Lehrer</td>
   </tr>
         <tr height="18px">
     <td>So</td>
@@ -4606,7 +4606,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Di</td>
     <td>11</td>
     <td>20:00</td>
-    <td>Hausgemachtes Französisches Essen</td>
+    <td>Hausgemachtes FranzÃ¶sisches Essen</td>
   </tr>
           <tr height="18px">
     <td>Fr</td>
@@ -4618,7 +4618,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Fr</td>
     <td>14</td>
     <td>20:30</td>
-    <td>Film Nacht (Französischer Film)</td>
+    <td>Film Nacht (FranzÃ¶sischer Film)</td>
   </tr>
         <tr height="18px">
     <td>So</td>
@@ -4660,7 +4660,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Mo</td>
     <td>31</td>
     <td>20:00</td>
-    <td>Hausgemachtes Französisches Essen</td>
+    <td>Hausgemachtes FranzÃ¶sisches Essen</td>
   </tr>
 
 </table>
@@ -4699,13 +4699,13 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Sa</td>
     <td>9</td>
     <td>8:00</td>
-    <td><a href="http://www.a-viva.net/galeries/strasbourg/index.htm" target="_blank">Ausflug nach Straßburg, Frankreich**</a></td>
+    <td><a href="http://www.a-viva.net/galeries/strasbourg/index.htm" target="_blank">Ausflug nach StraÃŸburg, Frankreich**</a></td>
   </tr>
         <tr height="18px">
     <td>So</td>
     <td>10</td>
     <td>11:00</td>
-    <td>Französischer Brunch: <a href="http://www.lamaisondupain.de" target="_blank">La Maison du Pain</a></td>
+    <td>FranzÃ¶sischer Brunch: <a href="http://www.lamaisondupain.de" target="_blank">La Maison du Pain</a></td>
   </tr>
         <tr height="18px">
     <td>So</td>
@@ -4792,7 +4792,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Fr</td>
     <td>18</td>
     <td>19:00</td>
-    <td><a href="http://www.davidscottbrown.com" target="_blank">David Brown´s "Songs for the Aspiring"</a></td>
+    <td><a href="http://www.davidscottbrown.com" target="_blank">David BrownÂ´s "Songs for the Aspiring"</a></td>
   </tr>
         <tr height="18px">
     <td>Fr</td>
@@ -4804,7 +4804,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Sa</td>
     <td>19</td>
     <td>20:00</td>
-    <td>Italienische Dinner Party mit ´chef Enrico´</td>
+    <td>Italienische Dinner Party mit Â´chef EnricoÂ´</td>
   </tr>
         <tr height="18px">
     <td>So</td>
@@ -4816,7 +4816,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Sa</td>
     <td>26</td>
     <td>18:00</td>
-    <td><a href="http://www.a-viva.net/galeries/sushi/index.htm" target="_blank">Sushi Kochkurs & 5 Gänge Menü****</a> &nbsp; &nbsp; &nbsp; <a href="http://www.a-viva.net/PDF/sushi_de_jan.pdf" target="_blank">Für Details bitte hier klicken</a></td>
+    <td><a href="http://www.a-viva.net/galeries/sushi/index.htm" target="_blank">Sushi Kochkurs & 5 GÃ¤nge MenÃ¼****</a> &nbsp; &nbsp; &nbsp; <a href="http://www.a-viva.net/PDF/sushi_de_jan.pdf" target="_blank">FÃ¼r Details bitte hier klicken</a></td>
   </tr>
         <tr height="18px">
     <td>So</td>
@@ -4828,7 +4828,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Mi</td>
     <td>30</td>
     <td>15:00</td>
-    <td>Kaffee und Apfel Küchlein von Monica</td>
+    <td>Kaffee und Apfel KÃ¼chlein von Monica</td>
   </tr>
 
 </table>
@@ -4849,13 +4849,13 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Sa</td>
     <td>1</td>
     <td>9:00</td>
-    <td>Ausflug nach Nürnberg</td>
+    <td>Ausflug nach NÃ¼rnberg</td>
   </tr>
         <tr height="18px">
     <td>Sa</td>
     <td>1</td>
     <td>17:00</td>
-    <td><a href="http://www.a-viva.net/PDF/einladung_rita_hens.pdf" target="_blank">Rita Henß liest aus ihrem neuem Buch: "Vulkantochter Madeira"</a></td>
+    <td><a href="http://www.a-viva.net/PDF/einladung_rita_hens.pdf" target="_blank">Rita HenÃŸ liest aus ihrem neuem Buch: "Vulkantochter Madeira"</a></td>
   </tr>
         <tr height="18px">
     <td>So</td>
@@ -4867,7 +4867,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Do</td>
     <td>6</td>
     <td>13:00</td>
-    <td>Weihnachtsbäckerei</td>
+    <td>WeihnachtsbÃ¤ckerei</td>
   </tr>
         <tr height="18px">
     <td>Fr</td>
@@ -4949,7 +4949,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Sa</td>
     <td>3</td>
     <td>18:00</td>
-    <td><a href="http://www.a-viva.net/galeries/sushi/index.htm" target="_blank">Sushi Class & Dinner****</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="../sushiflyer/flyer_november/sushiflyer_november.htm" target="_blank">Für Details bitte hier klicken</a></td>
+    <td><a href="http://www.a-viva.net/galeries/sushi/index.htm" target="_blank">Sushi Class & Dinner****</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="../sushiflyer/flyer_november/sushiflyer_november.htm" target="_blank">FÃ¼r Details bitte hier klicken</a></td>
   </tr>
         <tr height="18px">
     <td>So</td>
@@ -5003,7 +5003,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>So</td>
     <td>18</td>
     <td>10:00</td>
-    <td>Wandern in Königstein</td>
+    <td>Wandern in KÃ¶nigstein</td>
   </tr>
         <tr height="18px">
     <td>Mi</td>
@@ -5015,13 +5015,13 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Do</td>
     <td>22</td>
     <td>21:15</td>
-    <td>Filmabend: Persepolis (französisch)</td>
+    <td>Filmabend: Persepolis (franzÃ¶sisch)</td>
   </tr>
         <tr height="18px">
     <td>Fr</td>
     <td>23</td>
     <td>21:00</td>
-    <td><a href="http://www.a-viva.net/downloads/P1010532.jpg" target="_blank">Live Musik von Saif Karomi</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.a-viva.net/downloads/avamari.mp3" target="_blank">Klicken Sie hier für eine Hörprobe</a></td>
+    <td><a href="http://www.a-viva.net/downloads/P1010532.jpg" target="_blank">Live Musik von Saif Karomi</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.a-viva.net/downloads/avamari.mp3" target="_blank">Klicken Sie hier fÃ¼r eine HÃ¶rprobe</a></td>
   </tr>
         <tr height="18px">
     <td>Sa</td>
@@ -5039,13 +5039,13 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>So</td>
     <td>25</td>
     <td>10:00</td>
-    <td>Stadtbesichtigung: Limburg, anschließend <a href="http://www.a-viva.net/PDF/chor.pdf" target="_blank">Yuria´s Konzert mit dem Japanischen Chor!</a></td>
+    <td>Stadtbesichtigung: Limburg, anschlieÃŸend <a href="http://www.a-viva.net/PDF/chor.pdf" target="_blank">YuriaÂ´s Konzert mit dem Japanischen Chor!</a></td>
   </tr>
         <tr height="18px">
     <td>Fr</td>
     <td>30</td>
     <td>19:00</td>
-    <td><a href="http://www.a-viva.net/PDF/einladung_rita_hens.pdf" target="_blank">Rita Henß liest aus ihrem neuem Buch: "Vulkantochter Madeira"</a></td>
+    <td><a href="http://www.a-viva.net/PDF/einladung_rita_hens.pdf" target="_blank">Rita HenÃŸ liest aus ihrem neuem Buch: "Vulkantochter Madeira"</a></td>
   </tr>
 </table>
 <br />
@@ -5067,7 +5067,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Mi</td>
     <td>3</td>
     <td>12:00</td>
-    <td>Jazz am Römerberg</td>
+    <td>Jazz am RÃ¶merberg</td>
   </tr>
         <tr height="18px">
     <td>Mi</td>
@@ -5133,7 +5133,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Fr</td>
     <td>19</td>
     <td>20:30</td>
-    <td>Filmabend & Häagen Dazs (bringt eure Lieblingssorte mit)</td>
+    <td>Filmabend & HÃ¤agen Dazs (bringt eure Lieblingssorte mit)</td>
   </tr>
       <tr height="18px">
     <td>Sa</td>
@@ -5210,13 +5210,13 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Di</td>
     <td>4</td>
     <td>18:30</td>
-    <td><a href="newclasses.php" onclick="return popitup('newclasses.php')">Französisch 4 Fun</a></td>
+    <td><a href="newclasses.php" onclick="return popitup('newclasses.php')">FranzÃ¶sisch 4 Fun</a></td>
   </tr>
       <tr height="18px">
     <td>Di</td>
     <td>4</td>
     <td>20:00</td>
-    <td><a href="http://www.documenta12.de/" target="_blank">Documenta Präsentation</a></td>
+    <td><a href="http://www.documenta12.de/" target="_blank">Documenta PrÃ¤sentation</a></td>
   </tr>
         <tr height="18px">
     <td>Mi</td>
@@ -5240,13 +5240,13 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Fr</td>
     <td>7</td>
     <td>20:00</td>
-    <td>Filmabend & Häagen Dazs</td>
+    <td>Filmabend & HÃ¤agen Dazs</td>
   </tr>
       <tr height="18px">
     <td>Sa</td>
     <td>8</td>
     <td>11:00</td>
-    <td>Stöffchefest (Apfelwein Festival)</td>
+    <td>StÃ¶ffchefest (Apfelwein Festival)</td>
   </tr>
       <tr height="18px">
     <td>So</td>
@@ -5270,13 +5270,13 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Fr</td>
     <td>14</td>
     <td>21:00</td>
-    <td><a href="http://www.a-viva.net/galeries/salsa/15juni07/index.htm" target="_blank">Salsa Party (mit kostenlosem Einführungskurs)</a></td>
+    <td><a href="http://www.a-viva.net/galeries/salsa/15juni07/index.htm" target="_blank">Salsa Party (mit kostenlosem EinfÃ¼hrungskurs)</a></td>
   </tr>
         <tr height="18px">
     <td>So</td>
     <td>16</td>
     <td>19:00</td>
-    <td>Soirée Française**</td>
+    <td>SoirÃ©e FranÃ§aise**</td>
   </tr>
         <tr height="18px">
     <td>Mi</td>
@@ -5294,7 +5294,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Sa</td>
     <td>22</td>
     <td>8:00</td>
-    <td><a href="http://www.a-viva.net/galeries/strasbourg/index.htm" target="_blank">Ausflug nach Straßburg, Frankreich</a></td>
+    <td><a href="http://www.a-viva.net/galeries/strasbourg/index.htm" target="_blank">Ausflug nach StraÃŸburg, Frankreich</a></td>
   </tr>
         <tr height="18px">
     <td>So</td>
@@ -5318,7 +5318,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Sa</td>
     <td>29</td>
     <td>18:00</td>
-    <td><a href="http://www.a-viva.net/galeries/sushi/index.htm" target="_blank">Sushi Class & Dinner****</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="../sushiflyer/flyer.htm" target="_blank">Für Details bitte hier klicken</a></td>
+    <td><a href="http://www.a-viva.net/galeries/sushi/index.htm" target="_blank">Sushi Class & Dinner****</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="../sushiflyer/flyer.htm" target="_blank">FÃ¼r Details bitte hier klicken</a></td>
   </tr>
         <tr height="18px">
     <td>So</td>
@@ -5373,7 +5373,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Sa</td>
     <td>4</td>
     <td>19:00</td>
-    <td>Dîner Français***</td>
+    <td>DÃ®ner FranÃ§ais***</td>
   </tr>
     <tr height="18px">
     <td>So</td>
@@ -5409,7 +5409,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Mi</td>
     <td>15</td>
     <td>20:00</td>
-    <td>Hausgemachte Norwegische Küche</td>
+    <td>Hausgemachte Norwegische KÃ¼che</td>
   </tr>
         <tr height="18px">
     <td>Do</td>
@@ -5421,13 +5421,13 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Do</td>
     <td>16</td>
     <td>20:00</td>
-    <td>Hausgemachte Mexikanische Küche</td>
+    <td>Hausgemachte Mexikanische KÃ¼che</td>
   </tr>
         <tr height="18px">
     <td>Fr</td>
     <td>17</td>
     <td>21:00</td>
-    <td><a href="http://www.a-viva.net/galeries/salsa/15juni07/index.htm" target="_blank">Salsa Party (mit kostenlosem Einführungskurs)</a></td>
+    <td><a href="http://www.a-viva.net/galeries/salsa/15juni07/index.htm" target="_blank">Salsa Party (mit kostenlosem EinfÃ¼hrungskurs)</a></td>
   </tr>
         <tr height="18px">
     <td>Sa</td>
@@ -5501,7 +5501,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Mo</td>
     <td>2</td>
     <td>18:30</td>
-    <td>Spanisch für Anfänger</td>
+    <td>Spanisch fÃ¼r AnfÃ¤nger</td>
   </tr>
         <tr height="18px">
     <td>Mi</td>
@@ -5525,7 +5525,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Mo</td>
     <td>9</td>
     <td>19:00</td>
-    <td>Fahrradtour & Feuerwerk: Höchster Schloss</td>
+    <td>Fahrradtour & Feuerwerk: HÃ¶chster Schloss</td>
   </tr>
         <tr height="18px">
     <td>Do</td>
@@ -5549,7 +5549,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Mo</td>
     <td>16</td>
     <td>18:30</td>
-    <td>Spanisch für Anfänger</td>
+    <td>Spanisch fÃ¼r AnfÃ¤nger</td>
   </tr>
           <tr height="18px">
     <td>Mi</td>
@@ -5561,7 +5561,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Fr</td>
     <td>20</td>
     <td>21:00</td>
-    <td><a href="http://www.a-viva.net/galeries/salsa/15juni07/index.htm" target="_blank">Salsa Party (mit kostenlosem Einführungskurs)</a></td>
+    <td><a href="http://www.a-viva.net/galeries/salsa/15juni07/index.htm" target="_blank">Salsa Party (mit kostenlosem EinfÃ¼hrungskurs)</a></td>
   </tr>
           <tr height="18px">
     <td>So</td>
@@ -5573,7 +5573,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Mo</td>
     <td>23</td>
     <td>18:30</td>
-    <td>Spanisch für Anfänger</td>
+    <td>Spanisch fÃ¼r AnfÃ¤nger</td>
   </tr>
         <tr height="18px">
     <td>Fr</td>
@@ -5597,7 +5597,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Mo</td>
     <td>30</td>
     <td>18:30</td>
-    <td>Spanisch für Anfänger</td>
+    <td>Spanisch fÃ¼r AnfÃ¤nger</td>
   </tr>
 
 </table>
@@ -5624,7 +5624,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Sa</td>
     <td>2</td>
     <td>19:30</td>
-    <td>Dîner Français***</td>
+    <td>DÃ®ner FranÃ§ais***</td>
   </tr>
         <tr height="18px">
     <td>Mi</td>
@@ -5636,7 +5636,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Do</td>
     <td>7</td>
     <td>20:00</td>
-    <td>Traditionelle Frankfurter Küche**</td>
+    <td>Traditionelle Frankfurter KÃ¼che**</td>
   </tr>
         <tr height="18px">
     <td>Fr</td>
@@ -5654,13 +5654,13 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Mi</td>
     <td>13</td>
     <td>19:00</td>
-    <td>"Corporate Challenge": A-viva läuft!</td>
+    <td>"Corporate Challenge": A-viva lÃ¤uft!</td>
   </tr>
         <tr height="18px">
     <td>Do</td>
     <td>14</td>
     <td>8:00</td>
-    <td>Ausflug nach Köln</td>
+    <td>Ausflug nach KÃ¶ln</td>
   </tr>
         <tr height="18px">
     <td>Fr</td>
@@ -5708,13 +5708,13 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Do</td>
     <td>21</td>
     <td>17:30</td>
-    <td>Fahrradtour zum Höchster Schloss</td>
+    <td>Fahrradtour zum HÃ¶chster Schloss</td>
   </tr>
           <tr height="18px">
     <td>So</td>
     <td>24</td>
     <td>21:00</td>
-    <td>"Berger Straßenfest"</td>
+    <td>"Berger StraÃŸenfest"</td>
   </tr>
             <tr height="18px">
     <td>Mi</td>
@@ -5831,7 +5831,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Mo</td>
     <td>2</td>
     <td>19:00</td>
-    <td>Spanisch für Anfänger 1</td>
+    <td>Spanisch fÃ¼r AnfÃ¤nger 1</td>
   </tr>
       <tr>
     <td>Mi</td>
@@ -5849,7 +5849,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Do</td>
     <td>12</td>
     <td>19:30</td>
-    <td>Neuer Chinesischer Film: Präsentation & Diskussion</td>
+    <td>Neuer Chinesischer Film: PrÃ¤sentation & Diskussion</td>
   </tr>
       <tr>
     <td>Sa</td>
@@ -5861,7 +5861,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Mo</td>
     <td>16</td>
     <td>19:00</td>
-    <td>Spanisch für Anfänger 2</td>
+    <td>Spanisch fÃ¼r AnfÃ¤nger 2</td>
   </tr>
       <tr>
     <td>Do</td>
@@ -5879,13 +5879,13 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Sa</td>
     <td>21</td>
     <td>21:00</td>
-    <td><a href="http://www.a-viva.net/galeries/salsa/15juni07/index.htm" target="_blank">Salsa Party (mit kostenlosem Einführungskurs)</a></td>
+    <td><a href="http://www.a-viva.net/galeries/salsa/15juni07/index.htm" target="_blank">Salsa Party (mit kostenlosem EinfÃ¼hrungskurs)</a></td>
   </tr>
       <tr>
     <td>Mo</td>
     <td>23</td>
     <td>19:00</td>
-    <td>Spanisch für Anfänger 3</td>
+    <td>Spanisch fÃ¼r AnfÃ¤nger 3</td>
   </tr>
         <tr>
     <td>So</td>
@@ -5897,7 +5897,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Mo</td>
     <td>30</td>
     <td>19:00</td>
-    <td>Spanisch für Anfänger 4</td>
+    <td>Spanisch fÃ¼r AnfÃ¤nger 4</td>
   </tr>
 
 
@@ -5905,7 +5905,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
 
 <br />
 <br />
-        <p><h3><b>März 2007</b></h3></p>
+        <p><h3><b>MÃ¤rz 2007</b></h3></p>
         <br />
         <table class="aktivtable" border="1">
     <colgroup>
@@ -5926,7 +5926,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Sa</td>
     <td>10</td>
     <td>19:00</td>
-    <td>Eröffnungsparty Party mit DJ</td>
+    <td>ErÃ¶ffnungsparty Party mit DJ</td>
   </tr>
       <tr>
     <td>Di</td>
@@ -5968,7 +5968,7 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
     <td>Di</td>
     <td>27</td>
     <td>20:00</td>
-    <td>Philosophie & Wein: Philosophie & Religion mit Robert Ziegler (Uni Würzburg)</td>
+    <td>Philosophie & Wein: Philosophie & Religion mit Robert Ziegler (Uni WÃ¼rzburg)</td>
   </tr>
       <tr>
     <td>Do</td>
@@ -5987,6 +5987,6 @@ werden &uuml;ber die A-viva Gruppe in Facebook koordiniert.<br>
 
   </div>
 <p class="impressum"> <br><br><br><br><br>
-<a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLÄRUNG / DATA-PROTECTION</a></p>
+<a href="impressum.html" target="_blank">Impressum</a> - <a href="http://a-viva.net/DATENSCHUTZERKL%C3%84RUNG-_-DATA-PROTECTION.pdf">DATENSCHUTZERKLÃ„RUNG / DATA-PROTECTION</a></p>
 </body>
 </html>
