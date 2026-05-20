@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <title>A-VIVA - Prices</title>
-<link href="aviva.css" rel="stylesheet" type="text/css" />
+<link href="../aviva.css" rel="stylesheet" type="text/css" />
 <script language="JavaScript"> 
 function openNewWindow(URLtoOpen, windowName, windowFeatures) {
 newWindow=window.open(URLtoOpen, windowName, windowFeatures); }
@@ -105,7 +105,7 @@ function popitup2(url) {
                         1 Monat = 4 Wochen. &nbsp; &nbsp;    1 Unterrichtsstunde = 45 Minuten<br />
         </p>
         <p align="left">&nbsp;</p>
-        <TABLE WIDTH="600px" BORDER="1px" CELLPADDING="1px" CELLSPACING="1px" FRAME="VSIDES" RULES="COLS">
+        <TABLE WIDTH="600px" BORDER="1px" CELLPADDING="1px" CELLSPACING="1px" FRAME="LHS" RULES="COLS">
 			<COL WIDTH=76>
 			<COL WIDTH=70>
 			<COL WIDTH=70>

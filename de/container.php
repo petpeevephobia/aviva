@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <title>A-VIVA - Home</title>
-<link href="aviva.css" rel="stylesheet" type="text/css" />
+<link href="../aviva.css" rel="stylesheet" type="text/css" />
 <meta name="keywords" content="Sprache schule, Sprachschule, Sprachkurse Frankfurt, Sprachreisen, Sprachkurs, Sprachcaffe, berlitz, Sprachtraining, Sprachkafe, Sprachcafe, German language course frankfurt, language school frankfurt germany, Frankfurt, language school, a-viva, class, class concept, fun activities, sports, culture, travel, creative, interactive, budget, affordable" />
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
 <META name="verify-v1" content="apfoh71+17fdtINZMoUQN79Ecb7kORMUikntkZG12ow=" />

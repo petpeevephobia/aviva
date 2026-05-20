@@ -104,7 +104,7 @@ function popitup2(url) {
                         1 month = 4 weeks.       1 lesson = 45 minutes<br />
         </p>
         <p align="left">&nbsp;</p>
-        <TABLE WIDTH="600px" BORDER="1px" CELLPADDING="1px" CELLSPACING="1px" FRAME="VSIDES" RULES="COLS">
+        <TABLE WIDTH="600px" BORDER="1px" CELLPADDING="1px" CELLSPACING="1px" FRAME="LHS" RULES="COLS">
 	<COL WIDTH=76>
 	<COL WIDTH=70>
 	<COL WIDTH=70>
