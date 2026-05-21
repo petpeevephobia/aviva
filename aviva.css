@@ -1,8 +1,13 @@
+@font-face {
+	font-family: inter;
+	src: url("fonts/Inter-VariableFont.ttf");
+}
+
 body {
 	margin: auto auto;
 	padding: 0;
 	padding-top: 40px;
-	font-family: "Lucida Grande", verdana, arial, helvetica, sans-serif;
+	font-family: inter;
 	font-size: 62.5%;
 	color: #333;
 	background-color: #FFF9DB;
@@ -16,7 +21,7 @@ body {
 
 /* Make sure the table cells show the right font */
 td { 
-	font-family: "Lucida Grande", verdana, arial, helvetica, sans-serif;
+	font-family: inter;
 }
 
 /*-------------------------------------------------
