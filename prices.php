@@ -88,7 +88,8 @@ function popitup2(url) {
         <h2 align="left"><strong>Prices</strong></h2>
 <br />
 <h3 align="left"><strong>Prices for non-German Courses</strong></h3>
-<p><a href="PDF/Class.pdf"><b>Click here</b></a> for Chinese, English, French, Greek, Italian, Japanese, Portuguese and Spanish courses.</p>
+<p>120 € per month (8 lessons) for evening Chinese, English, French, Italian, Japanese, or Spanish courses.</p>
+
 <br /><br /><br />
 <h3 align="left"><strong>Prices for German Courses</strong></h3>
         <p align="left">A-viva has a total of 4 German Programs available, at <a href="chart.php" onclick="return popitup('chart.php')"><strong>7 different language levels</strong></a></p>

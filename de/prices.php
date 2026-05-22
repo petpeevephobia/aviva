@@ -88,7 +88,7 @@ function popitup2(url) {
         <h2 align="left"><strong>Preise</strong></h2>
 <br />
 <h3 align="left"><strong>Kurspreise für Fremdsprachen</strong></h3>
-<p>Für Chinesisch, Englisch, Französisch, Japanisch, Italienisch, Niederländisch und Spanisch <a href="../PDF/Class.pdf"><b>hier klicken</b></a>. 
+<p>120 € pro Monat (8 Unterrichtsstunden) für Abendkurse für Chinesisch, Englisch, Französisch, Japanisch, Italienisch,  oder Spanisch.</p>
 <br /><br /><br /></p>
 <h3 align="left"><strong>Preise für Deutschkurse</strong></h3>
         <p align="left">Wir bieten insgesamt 4 Deutsch-Programme, f&uuml;r <a href="chart.php" onclick="return popitup('chart.php')"
